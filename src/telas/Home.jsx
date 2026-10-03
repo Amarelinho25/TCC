@@ -1,4 +1,5 @@
 import react from "react";
+import {NavLink} from "react-router-dom";
 
 const Quadros = [
 {
@@ -50,15 +51,22 @@ export default function Home() {
     </div>
 
     <br/>
-
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
-        {Quadros.map((quadro) => (
-            <div key={quadro.id} className="bg-purple-300 p-4 rounded-lg shadow-md mb-4 items-center rounded-xl overflow-hidden shadow-lg m-4 left:auto itens-center h-auto w-auto">
-                <h1 className="text-lg font-bold text-center">{quadro.titulo}</h1>
-                <img src={quadro.capa} alt={quadro.titulo} className=" object-cover gap-4 rounded-xl m-0,5" />
-            </div>
-        ))}
-    </div>
-   </>
+  {Quadros.map((quadro) => (
+    <NavLink key={quadro.id} to="/stands">
+      <div className="bg-purple-300 p-4 rounded-xl shadow-lg overflow-hidden">
+        <h1 className="text-lg font-bold text-center mb-2">
+          {quadro.titulo}
+        </h1>
+        <img
+          src={quadro.capa}
+          alt={quadro.titulo}
+          className="w-full h-70 object-cover rounded-xl"
+        />
+      </div>
+    </NavLink>
+  ))}
+</div>  </>
   );
 }
+
