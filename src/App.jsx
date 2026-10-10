@@ -1,6 +1,7 @@
 import Home from "./telas/Home.jsx";
 import react from "react";
 import PagStands from "./telas/PagStands.jsx";
+import PagPersonagens from "./telas/PagPerson.jsx";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
 
@@ -10,6 +11,7 @@ export default function App() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/stands" element={<PagStands />} />
+      <Route path="/personagens" element={<PagPersonagens />} />
     </Routes>
   );
 }
