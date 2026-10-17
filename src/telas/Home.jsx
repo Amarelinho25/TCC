@@ -1,6 +1,7 @@
 import react from "react";
 import {NavLink} from "react-router-dom";
 import Carrossel from "../components/compoCarrosel";
+import {House} from "lucide-react";
 
 const imagensCarrossel = [
   {
@@ -46,9 +47,13 @@ export default function Home() {
   return (
     <>
    
-    <div className="bg-purple-500 to-pink-500 p-4 text-white text-center">
-        <h1 className="text-3xl font-bold">Wiki jojo</h1>
-    </div>
+<div className="relative bg-purple-900 p-4 text-white flex items-center justify-center">
+    
+
+    <h1 className="text-3xl font-bold">
+        Wiki jojo
+    </h1>
+</div> 
 
     <br/>
     
@@ -81,6 +86,7 @@ export default function Home() {
         </NavLink>
       ))}
     </div>
+    
   </>
   );
 }

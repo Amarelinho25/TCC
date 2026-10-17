@@ -1,4 +1,7 @@
 import React from "react";
+import {House} from "lucide-react";
+import {Link} from "react-router-dom"
+
 
 const Stands = [
 {
@@ -30,11 +33,16 @@ const Stands = [
 export default function PagStands() {
     return (
         <>
-    <div className="bg-purple-900 text-white p-4">
-        <div className="flex justify-between items-center">
-             <h1 className="text-2xl font-bold">Stands</h1>
-        </div>
-    </div>
+    <div className="relative bg-purple-900 p-4 text-white flex items-center justify-center">
+   <Link to="/" className="absolute left-4">
+        <House size={40} />
+    </Link>
+
+    <h1 className="text-3xl font-bold text-center">
+        Stands
+    </h1>
+</div>
+
 
     <br/>
 
@@ -95,6 +103,8 @@ export default function PagStands() {
           <br/>
          <p>Embora Hamon seja menos proeminente nas partes posteriores da série, ele continua a ser uma habilidade respeitada e poderosa dentro do universo de JoJo's Bizarre Adventure.</p>
     </div>
+
+    
         </>
     );
 }

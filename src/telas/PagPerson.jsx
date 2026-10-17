@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import Carrossel from "../components/compoCarrosel";
+import { House } from "lucide-react";
+import {Link} from "react-router-dom"
 
 const imagensCarrossel = [
   {
@@ -173,7 +175,11 @@ const Personagens = () => {
   return (
     <div>
       <div className="bg-purple-900 text-white p-4">
-        <h1 className="text-2xl font-bold text-center">Personagens</h1>
+      <Link to="/" >
+        <House className="absolute left-4" size={40} />
+      </Link>
+      
+        <h1 className="text-3xl font-bold text-center">Personagens</h1>
       </div>
 
       <div className="m-4 p-4 bg-white rounded-lg shadow-lg">
