@@ -26,7 +26,7 @@ const Quadros = [
   id: '2',
   titulo: "História",
   capa: "https://i.pinimg.com/736x/cb/36/7f/cb367f343734a698d5790e8067044970.jpg",
-  rota: "/history",
+  rota: "/historia",
 },
 {
   id: '3',

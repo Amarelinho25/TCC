@@ -103,6 +103,7 @@ export default function PagStands() {
           <br/>
          <p>Embora Hamon seja menos proeminente nas partes posteriores da série, ele continua a ser uma habilidade respeitada e poderosa dentro do universo de JoJo's Bizarre Adventure.</p>
     </div>
+    
 
     
         </>

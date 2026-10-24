@@ -34,7 +34,7 @@ export default function PagAnime() {
             </div>
             <div className="m-4 p-4 bg-white rounded-lg shadow-lg">
                 <ul className="list-disc list-inside">
-                    <li className="mb-2 font-bold">Parte 2: Battle Tendency</li>
+                    <li className="mb-2 font-bold">Parte 2</li>
                     <p className="mb-4">A história segue Joseph Joestar, neto de Jonathan, enquanto ele enfrenta os Homens do Pilar, seres antigos com habilidades sobrenaturais. A trama combina ação, humor e estratégias inteligentes.</p>
                 </ul>
             </div>
