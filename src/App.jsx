@@ -6,17 +6,22 @@ import PagAnime from "./telas/PagAnime.jsx";
 import PagHistoria from "./telas/PagHistoria";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
+import ScrollToTop from "./components/compoScrollToTop";
 
 
 export default function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/stands" element={<PagStands />} />
-      <Route path="/personagens" element={<PagPersonagens />} />
-      <Route path="/anime" element={<PagAnime />} />
-      <Route path="/historia" element={<PagHistoria />} />
-    </Routes>
+    <>
+      <ScrollToTop />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/stands" element={<PagStands />} />
+        <Route path="/personagens" element={<PagPersonagens />} />
+        <Route path="/anime" element={<PagAnime />} />
+        <Route path="/historia" element={<PagHistoria />} />
+      </Routes>
+    </>
+   
   );
 }
 

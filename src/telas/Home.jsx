@@ -1,7 +1,8 @@
 import react from "react";
 import {NavLink} from "react-router-dom";
 import Carrossel from "../components/compoCarrosel";
-import {House} from "lucide-react";
+import Cabecalho from "../components/compoCabecalho";
+import Rodape from "../components/compoRodape";
 
 const imagensCarrossel = [
   {
@@ -47,13 +48,7 @@ export default function Home() {
   return (
     <>
    
-<div className="relative bg-purple-900 p-4 text-white flex items-center justify-center">
-    
-
-    <h1 className="text-3xl font-bold">
-        Wiki jojo
-    </h1>
-</div> 
+ <Cabecalho titulo="Wiki JoJo" voltar={false} />
 
     <br/>
     

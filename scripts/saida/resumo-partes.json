@@ -1,0 +1,326 @@
+{
+  "1": {
+    "total": 36,
+    "stands": 0,
+    "principais": [
+      {
+        "nome": "Jonathan Joestar",
+        "pagina": "/Jonathan_Joestar",
+        "avatar": "assets/Jonathan_Joestar/avatar-anime-parte1.png"
+      },
+      {
+        "nome": "Robert E. O. Speedwagon",
+        "pagina": "/Robert_E._O._Speedwagon",
+        "avatar": "assets/Robert_E._O._Speedwagon/avatar-anime-parte1.png"
+      },
+      {
+        "nome": "Will Anthonio Zeppeli",
+        "pagina": "/Will_Anthonio_Zeppeli",
+        "avatar": "assets/Will_Anthonio_Zeppeli/avatar-anime-parte1.png"
+      },
+      {
+        "nome": "Tonpetty",
+        "pagina": "/Tonpetty",
+        "avatar": "assets/Tonpetty/avatar-anime-parte1.png"
+      },
+      {
+        "nome": "Dire",
+        "pagina": "/Dire",
+        "avatar": "assets/Dire/avatar-anime-parte1.png"
+      },
+      {
+        "nome": "Straizo",
+        "pagina": "/Straizo",
+        "avatar": "assets/Straizo/avatar-anime-parte1.png"
+      }
+    ]
+  },
+  "2": {
+    "total": 22,
+    "stands": 0,
+    "principais": [
+      {
+        "nome": "Joseph Joestar",
+        "pagina": "/Joseph_Joestar",
+        "avatar": "assets/Joseph_Joestar/avatar-anime-parte2.png"
+      },
+      {
+        "nome": "Caesar Anthonio Zeppeli",
+        "pagina": "/Caesar_Anthonio_Zeppeli",
+        "avatar": "assets/Caesar_Anthonio_Zeppeli/avatar-anime-parte2.png"
+      },
+      {
+        "nome": "Lisa Lisa",
+        "pagina": "/Lisa_Lisa",
+        "avatar": "assets/Lisa_Lisa/avatar-anime-parte2.png"
+      },
+      {
+        "nome": "Rudol von Stroheim",
+        "pagina": "/Rudol_von_Stroheim",
+        "avatar": "assets/Rudol_von_Stroheim/avatar-anime-parte2.png"
+      },
+      {
+        "nome": "Kars",
+        "pagina": "/Kars",
+        "avatar": "assets/Kars/avatar-anime-parte2.png"
+      },
+      {
+        "nome": "Esidisi",
+        "pagina": "/Esidisi",
+        "avatar": "assets/Esidisi/avatar-anime-parte2.png"
+      }
+    ]
+  },
+  "3": {
+    "total": 44,
+    "stands": 35,
+    "principais": [
+      {
+        "nome": "Jotaro Kujo",
+        "pagina": "/Jotaro_Kujo",
+        "avatar": "assets/Jotaro_Kujo/avatar-anime-parte3.png"
+      },
+      {
+        "nome": "Joseph Joestar",
+        "pagina": "/Joseph_Joestar",
+        "avatar": "assets/Joseph_Joestar/avatar-anime-parte3.png"
+      },
+      {
+        "nome": "Muhammad Avdol",
+        "pagina": "/Muhammad_Avdol",
+        "avatar": "assets/Muhammad_Avdol/avatar-anime-parte3.png"
+      },
+      {
+        "nome": "Noriaki Kakyoin",
+        "pagina": "/Noriaki_Kakyoin",
+        "avatar": "assets/Noriaki_Kakyoin/avatar-anime-parte3.png"
+      },
+      {
+        "nome": "Jean Pierre Polnareff",
+        "pagina": "/Jean_Pierre_Polnareff",
+        "avatar": "assets/Jean_Pierre_Polnareff/avatar-anime-parte3.png"
+      },
+      {
+        "nome": "Iggy",
+        "pagina": "/Iggy",
+        "avatar": "assets/Iggy/avatar-anime-parte3.png"
+      }
+    ]
+  },
+  "4": {
+    "total": 47,
+    "stands": 29,
+    "principais": [
+      {
+        "nome": "Josuke Higashikata",
+        "pagina": "/Josuke_Higashikata",
+        "avatar": "assets/Josuke_Higashikata/avatar-anime-parte4.png"
+      },
+      {
+        "nome": "Koichi Hirose",
+        "pagina": "/Koichi_Hirose",
+        "avatar": "assets/Koichi_Hirose/avatar-anime-parte4.png"
+      },
+      {
+        "nome": "Jotaro Kujo",
+        "pagina": "/Jotaro_Kujo",
+        "avatar": "assets/Jotaro_Kujo/avatar-anime-parte4.png"
+      },
+      {
+        "nome": "Okuyasu Nijimura",
+        "pagina": "/Okuyasu_Nijimura",
+        "avatar": "assets/Okuyasu_Nijimura/avatar-anime-parte4.png"
+      },
+      {
+        "nome": "Rohan Kishibe",
+        "pagina": "/Rohan_Kishibe",
+        "avatar": "assets/Rohan_Kishibe/avatar-anime-parte4.png"
+      },
+      {
+        "nome": "Yoshikage Kira",
+        "pagina": "/Yoshikage_Kira",
+        "avatar": "assets/Yoshikage_Kira/avatar-anime-parte4.gif"
+      }
+    ]
+  },
+  "5": {
+    "total": 40,
+    "stands": 31,
+    "principais": [
+      {
+        "nome": "Giorno Giovanna",
+        "pagina": "/Giorno_Giovanna",
+        "avatar": "assets/Giorno_Giovanna/avatar-anime-parte5.png"
+      },
+      {
+        "nome": "Bruno Bucciarati",
+        "pagina": "/Bruno_Bucciarati",
+        "avatar": "assets/Bruno_Bucciarati/avatar-anime-parte5.png"
+      },
+      {
+        "nome": "Leone Abbacchio",
+        "pagina": "/Leone_Abbacchio",
+        "avatar": "assets/Leone_Abbacchio/avatar-anime-parte5.png"
+      },
+      {
+        "nome": "Guido Mista",
+        "pagina": "/Guido_Mista",
+        "avatar": "assets/Guido_Mista/avatar-anime-parte5.png"
+      },
+      {
+        "nome": "Narancia Ghirga",
+        "pagina": "/Narancia_Ghirga",
+        "avatar": "assets/Narancia_Ghirga/avatar-anime-parte5.png"
+      },
+      {
+        "nome": "Pannacotta Fugo",
+        "pagina": "/Pannacotta_Fugo",
+        "avatar": "assets/Pannacotta_Fugo/avatar-anime-parte5.png"
+      }
+    ]
+  },
+  "6": {
+    "total": 46,
+    "stands": 29,
+    "principais": [
+      {
+        "nome": "Jolyne Cujoh",
+        "pagina": "/Jolyne_Cujoh",
+        "avatar": "assets/Jolyne_Cujoh/avatar-anime-parte6.png"
+      },
+      {
+        "nome": "Ermes Costello",
+        "pagina": "/Ermes_Costello",
+        "avatar": "assets/Ermes_Costello/avatar-anime-parte6.png"
+      },
+      {
+        "nome": "Emporio Alnino",
+        "pagina": "/Emporio_Alnino",
+        "avatar": "assets/Emporio_Alnino/avatar-anime-parte6.png"
+      },
+      {
+        "nome": "Jotaro Kujo",
+        "pagina": "/Jotaro_Kujo",
+        "avatar": "assets/Jotaro_Kujo/avatar-anime-parte6.png"
+      },
+      {
+        "nome": "F.F.",
+        "pagina": "/Foo_Fighters",
+        "avatar": "assets/Foo_Fighters/avatar-anime-parte6.png"
+      },
+      {
+        "nome": "Weather Report",
+        "pagina": "/Weather_Report",
+        "avatar": "assets/Weather_Report/avatar-anime-parte6.png"
+      }
+    ]
+  },
+  "7": {
+    "total": 52,
+    "stands": 23,
+    "principais": [
+      {
+        "nome": "Johnny Joestar",
+        "pagina": "/Johnny_Joestar",
+        "avatar": "assets/Johnny_Joestar/avatar-anime-parte7.png"
+      },
+      {
+        "nome": "Gyro Zeppeli",
+        "pagina": "/Gyro_Zeppeli",
+        "avatar": "assets/Gyro_Zeppeli/avatar-anime-parte7.png"
+      },
+      {
+        "nome": "Lucy Steel",
+        "pagina": "/Lucy_Steel",
+        "avatar": "assets/Lucy_Steel/avatar-anime-parte7.png"
+      },
+      {
+        "nome": "Steven Steel",
+        "pagina": "/Steven_Steel",
+        "avatar": "assets/Steven_Steel/avatar-anime-parte7.png"
+      },
+      {
+        "nome": "Diego Brando",
+        "pagina": "/Diego_Brando",
+        "avatar": "assets/Diego_Brando/avatar-anime-parte7.png"
+      },
+      {
+        "nome": "Hot Pants",
+        "pagina": "/Hot_Pants",
+        "avatar": "assets/Hot_Pants/avatar-anime-parte7.png"
+      }
+    ]
+  },
+  "8": {
+    "total": 47,
+    "stands": 30,
+    "principais": [
+      {
+        "nome": "Josuke Higashikata",
+        "pagina": "/Josuke_Higashikata_(JoJolion)",
+        "avatar": "assets/Josuke_Higashikata__JoJolion_/avatar-anime-parte8.png"
+      },
+      {
+        "nome": "Yasuho Hirose",
+        "pagina": "/Yasuho_Hirose",
+        "avatar": "assets/Yasuho_Hirose/avatar-anime-parte8.png"
+      },
+      {
+        "nome": "Rai Mamezuku",
+        "pagina": "/Rai_Mamezuku",
+        "avatar": "assets/Rai_Mamezuku/avatar-anime-parte8.png"
+      },
+      {
+        "nome": "Norisuke Higashikata IV",
+        "pagina": "/Norisuke_Higashikata_IV",
+        "avatar": "assets/Norisuke_Higashikata_IV/avatar-anime-parte8.png"
+      },
+      {
+        "nome": "Tsurugi Higashikata",
+        "pagina": "/Tsurugi_Higashikata",
+        "avatar": "assets/Tsurugi_Higashikata/avatar-anime-parte8.png"
+      },
+      {
+        "nome": "Joshu Higashikata",
+        "pagina": "/Joshu_Higashikata",
+        "avatar": "assets/Joshu_Higashikata/avatar-anime-parte8.png"
+      }
+    ]
+  },
+  "9": {
+    "total": 34,
+    "stands": 15,
+    "principais": [
+      {
+        "nome": "Jodio Joestar",
+        "pagina": "/Jodio_Joestar",
+        "avatar": "assets/Jodio_Joestar/avatar-anime-parte9.png"
+      },
+      {
+        "nome": "Dragona Joestar",
+        "pagina": "/Dragona_Joestar",
+        "avatar": "assets/Dragona_Joestar/avatar-anime-parte9.png"
+      },
+      {
+        "nome": "Paco Laburantes",
+        "pagina": "/Paco_Laburantes",
+        "avatar": "assets/Paco_Laburantes/avatar-anime-parte9.png"
+      },
+      {
+        "nome": "Usagi Alohaoe",
+        "pagina": "/Usagi_Alohaoe",
+        "avatar": "assets/Usagi_Alohaoe/avatar-anime-parte9.png"
+      },
+      {
+        "nome": "Charming Man",
+        "pagina": "/Charming_Man",
+        "avatar": "assets/Charming_Man/avatar-anime-parte9.png"
+      },
+      {
+        "nome": "Meryl Mei Qi",
+        "pagina": "/Meryl_Mei_Qi",
+        "avatar": "assets/Meryl_Mei_Qi/avatar-anime-parte9.png"
+      }
+    ]
+  }
+}

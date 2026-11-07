@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
 import Carrossel from "../components/compoCarrosel";
-import { House } from "lucide-react";
-import { Link } from "react-router-dom";
 import ModalPersonagem from "../components/compoModalPersonagem";
+import Cabecalho from "../components/compoCabecalho";
+import Rodape from "../components/compoRodape";
+import { Link, useSearchParams } from "react-router-dom";
+
 
 const imagensCarrossel = [
   {
@@ -40,12 +42,18 @@ const encurtar = (texto, max = 220) =>
   !texto ? "" : texto.length > max ? texto.slice(0, max) + "..." : texto;
 
 const Personagens = () => {
-  const [parteAtiva, setParteAtiva] = useState(1);
+  const [params] = useSearchParams();
+  const parteInicial = Number(params.get("parte"));
+  const [parteAtiva, setParteAtiva] = useState(
+    parteInicial >= 1 && parteInicial <= 9 ? parteInicial : 1
+  );
   const [lista, setLista] = useState([]);
   const [carregando, setCarregando] = useState(true);
   const [erro, setErro] = useState(null);
   const [busca, setBusca] = useState("");
   const [selecionado, setSelecionado] = useState(null);
+ 
+  
 
   useEffect(() => {
     let ativo = true; // evita gravar dados de uma aba antiga se você trocar rápido
@@ -87,13 +95,7 @@ const Personagens = () => {
 
   return (
     <div>
-      <div className="bg-purple-900 text-white p-4">
-        <Link to="/">
-          <House className="absolute left-4" size={40} />
-        </Link>
-
-        <h1 className="text-3xl font-bold text-center">Personagens</h1>
-      </div>
+      <Cabecalho titulo="Personagens" />
 
       <div className="m-4 p-4 bg-white rounded-lg shadow-lg">
         <div className="flex flex-wrap gap-2 mb-4">
@@ -170,7 +172,9 @@ const Personagens = () => {
             );
           })}
         </div>
+        
       </div>
+
       {selecionado && (
          <ModalPersonagem
          personagem={selecionado}

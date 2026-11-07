@@ -1,7 +1,10 @@
 import { Divide } from "lucide-react";
 import { House } from "lucide-react";
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 import React from "react";
+import Cabecalho from "../components/compoCabecalho";
+import Rodape from "../components/compoRodape";
+import LinhaDoTempo from "../components/compoLinhaDoTempo";
 
 const partes = [
   {
@@ -72,64 +75,49 @@ const partes = [
 export default function PagHistoria() {
   return (
     <>
-    <div>
-        <div className="bg-purple-900 text-white p-4">
-            <Link to="/">
-                 <House className="absolute left-4" size={40}/>
-            </Link>
-            <h1 className="text-2xl font-bold text-center">Anime</h1>
-        </div>
-    </div>
-
+        <Cabecalho titulo="História" />
       <div>
-        <h1 className="font-bold m-4 item-center">História de JoJo's Bizarre Adventure</h1>
-        <p>Esta página contará a história da família Joestar.</p>
+        <h1 className="font-bold flex-items text-center text-lg">História de JoJo's Bizarre Adventure</h1>
+        <br />
+        <p className="mb-4  text-center">Esta página contará a história da família Joestar.</p>
       </div>
 
       <div>
-        <h1 className="mb-4 font-bold">Quem é o criador de JoJo?</h1>
-         <br />
+        <h1 className="mb-4 font-bold text-center text-lg">Quem é o criador de JoJo?</h1>
+        <br />
         <p className="mb-4">Hirohiko Araki é um influente mangaká japonês, aclamado como o criador da icônica série JoJo's Bizarre Adventure, iniciada em 1987. A obra acompanha as aventuras intergeracionais da família Joestar contra ameaças sobrenaturais e revolucionou a narrativa do gênero shonen com a invenção dos Stands — personificações físicas do espírito e poder de luta de cada personagem.</p>
-         <br />
+        <br />
         <p className="mb-4">Sua estética marcante destaca-se pelo uso de poses dramáticas e anatômicas inspiradas na arte clássica, figurinos arrojados com forte influência da alta-costura e constantes homenagens à música ocidental, nomeando heróis, vilões e habilidades com referências a artistas e bandas de rock e pop.</p>
-         <br/>
+        <br />
         <p className="mb-4">O prestígio de Araki extrapolou os quadrinhos, resultando em parcerias oficiais com a grife Gucci e exposições de suas obras no Museu do Louvre, em Paris. Na cultura pop, ele também é carinhosamente conhecido pelo meme de que seria um "vampiro imortal", devido à sua aparência jovem que parece praticamente inalterada com o passar dos anos.</p>
       </div>
 
       <div>
-        <h1 className="mb-4 font-bold">Como começou a Rivalidade entre Jonathan Joestar e Dio Brando?</h1>
-         <br />
-        <p>A rivalidade entre Jonathan Joestar e Dio Brando começou quando Dio foi adotado pela rica família Joestar. Movido pela ganância, o plano de Dio era destruir Jonathan psicologicamente para herdar sozinho a fortuna da família: ele humilhou Jonathan, forçou um beijo em sua namorada (Erina) e matou seu cachorro (Danny).</p>
-         <br />
-        <p>Anos depois, Jonathan descobriu que Dio estava envenenando seu pai para acelerar a herança. Ao ser desmascarado, Dio usou a Máscara de Pedra para se transformar em um vampiro, transformando a disputa familiar em uma luta eterna entre o bem e o mal.</p>
+        <h1 className="mb-4 font-bold text-center text-lg">Introdução a JoJo's Bizarre Adventure</h1>
+        <br />
+        <p>JoJo's Bizarre Adventure é uma famosa obra japonesa criada por Hirohiko Araki, que mistura ação, aventura, comédia, mistério e elementos sobrenaturais. A história acompanha a família Joestar ao longo de várias gerações, apresentando diferentes protagonistas, cada um com sua própria personalidade, habilidades e desafios.</p>
+        <br />
+        <p>Ao longo da obra, conhecemos diversos personagens, poderes e acontecimentos marcantes. Desde o Hamon até os misteriosos Stands, JoJo apresenta um universo cheio de criatividade, batalhas estratégicas e momentos inesperados.</p>
+        <br />
+        <p>Esta wiki foi criada para reunir informações sobre o universo de JoJo's Bizarre Adventure, incluindo seus personagens, Stands, habilidades, histórias e curiosidades. Nosso objetivo é explorar e apresentar os detalhes dessa obra tão única e fascinante.</p>
       </div>
 
-  <div className="flex flex-col gap-4 p-4 max-w-4xl mx-auto w-full">
-  {partes.map((parte) => (
-    <div
-      key={parte.id}
-      className="flex flex-col md:flex-row items-center gap-4 bg-purple-100 p-4 rounded-xl shadow"
-    >
-      <img
-        src={parte.imagem}
-        alt={parte.titulo}
-        className="w-full md:w-48 h-48 object-cover rounded-xl"
-      />
+      <br></br>
 
-      <div className="flex flex-col justify-center flex-1">
-        <h2 className="text-xl font-bold">
-          {parte.titulo}
-        </h2>
+      <div>
+        <h1 className="mb-4 font-bold text-center text-lg">Arvore Genealógica</h1>
+      
+        <img src="https://i.pinimg.com/736x/4a/ad/b1/4aadb15fed441f2f714f71c20daaad8d.jpg" alt="Arvore Genealógica" className="mx-auto mb-4 rounded-lg shadow-lg" />
+      </div>
 
-        <p className="font-semibold">
-          Protagonista: {parte.protagonista}
+      <div className="m-4 p-4 max-w-4xl mx-auto">
+        <h2 className="text-xl font-bold mb-2">As 9 partes da história</h2>
+        <p className="mb-6">
+          Clique em uma parte para ver o resumo, os personagens principais e os Stands.
         </p>
-
-        <p>{parte.resumo}</p>
+        <LinhaDoTempo partes={partes} />
       </div>
-     </div>
-    ))}
-  </div> 
+
 
     </>
   );

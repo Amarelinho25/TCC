@@ -1,0 +1,107 @@
+{
+  "categoria": "Ripple Users",
+  "personagens": [
+    {
+      "nome": "Ripple Clan",
+      "pagina": "/Ripple_Clan",
+      "avatarAnime": "assets/hamon/Ripple_Clan/avatar-anime.gif",
+      "avatarManga": "assets/hamon/Ripple_Clan/avatar-manga.png"
+    },
+    {
+      "nome": "Tonpetty",
+      "pagina": "/Tonpetty",
+      "avatarAnime": "assets/hamon/Tonpetty/avatar-anime.png",
+      "avatarManga": "assets/hamon/Tonpetty/avatar-manga.png"
+    },
+    {
+      "nome": "Indian Doctor",
+      "pagina": "/Indian_Doctor",
+      "avatarAnime": "assets/hamon/Indian_Doctor/avatar-anime.png",
+      "avatarManga": "assets/hamon/Indian_Doctor/avatar-manga.png"
+    },
+    {
+      "nome": "Will Anthonio Zeppeli",
+      "pagina": "/Will_Anthonio_Zeppeli",
+      "avatarAnime": "assets/hamon/Will_Anthonio_Zeppeli/avatar-anime.png",
+      "avatarManga": "assets/hamon/Will_Anthonio_Zeppeli/avatar-manga.png"
+    },
+    {
+      "nome": "Dire",
+      "pagina": "/Dire",
+      "avatarAnime": "assets/hamon/Dire/avatar-anime.png",
+      "avatarManga": "assets/hamon/Dire/avatar-manga.png"
+    },
+    {
+      "nome": "Straizo",
+      "pagina": "/Straizo",
+      "avatarAnime": "assets/hamon/Straizo/avatar-anime.png",
+      "avatarManga": "assets/hamon/Straizo/avatar-manga.png"
+    },
+    {
+      "nome": "Jonathan Joestar",
+      "pagina": "/Jonathan_Joestar",
+      "avatarAnime": "assets/hamon/Jonathan_Joestar/avatar-anime.png",
+      "avatarManga": "assets/hamon/Jonathan_Joestar/avatar-manga.png"
+    },
+    {
+      "nome": "Straizo's Disciples",
+      "pagina": "/Straizo%27s_Disciples",
+      "avatarAnime": "assets/hamon/Straizo_s_Disciples/avatar-anime.gif",
+      "avatarManga": "assets/hamon/Straizo_s_Disciples/avatar-manga.png"
+    },
+    {
+      "nome": "Lisa Lisa",
+      "pagina": "/Lisa_Lisa",
+      "avatarAnime": "assets/hamon/Lisa_Lisa/avatar-anime.png",
+      "avatarManga": "assets/hamon/Lisa_Lisa/avatar-manga.png"
+    },
+    {
+      "nome": "Mario Zeppeli",
+      "pagina": "/Mario_Zeppeli",
+      "avatarAnime": "assets/hamon/Mario_Zeppeli/avatar-anime.png",
+      "avatarManga": "assets/hamon/Mario_Zeppeli/avatar-manga.png"
+    },
+    {
+      "nome": "Messina",
+      "pagina": "/Messina",
+      "avatarAnime": "assets/hamon/Messina/avatar-anime.png",
+      "avatarManga": "assets/hamon/Messina/avatar-manga.png"
+    },
+    {
+      "nome": "Loggins",
+      "pagina": "/Loggins",
+      "avatarAnime": "assets/hamon/Loggins/avatar-anime.png",
+      "avatarManga": "assets/hamon/Loggins/avatar-manga.png"
+    },
+    {
+      "nome": "Caesar Anthonio Zeppeli",
+      "pagina": "/Caesar_Anthonio_Zeppeli",
+      "avatarAnime": "assets/hamon/Caesar_Anthonio_Zeppeli/avatar-anime.png",
+      "avatarManga": "assets/hamon/Caesar_Anthonio_Zeppeli/avatar-manga.png"
+    },
+    {
+      "nome": "Joseph Joestar",
+      "pagina": "/Joseph_Joestar",
+      "avatarAnime": "assets/hamon/Joseph_Joestar/avatar-anime.png",
+      "avatarManga": "assets/hamon/Joseph_Joestar/avatar-manga.png"
+    },
+    {
+      "nome": "Kars",
+      "pagina": "/Kars",
+      "avatarAnime": "assets/hamon/Kars/avatar-anime.png",
+      "avatarManga": "assets/hamon/Kars/avatar-manga.png"
+    },
+    {
+      "nome": "Sasha Loggins",
+      "pagina": "/Sasha_Loggins",
+      "avatarAnime": "assets/hamon/Sasha_Loggins/avatar-anime.png",
+      "avatarManga": null
+    },
+    {
+      "nome": "Gustave Shaulo Messina",
+      "pagina": "/Gustave_Shaulo_Messina",
+      "avatarAnime": "assets/hamon/Gustave_Shaulo_Messina/avatar-anime.png",
+      "avatarManga": null
+    }
+  ]
+}

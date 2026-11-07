@@ -1,0 +1,88 @@
+{
+  "temporadas": [
+    {
+      "ordem": 1,
+      "titulo": "JoJo's Bizarre Adventure",
+      "pagina": "/Phantom_Blood_(Anime)",
+      "estudio": "David Production",
+      "estreia": "October 6, 2012",
+      "fim": "April 6, 2013",
+      "episodios": 26,
+      "generos": "Action, Adventure, Supernatural, Horror, Historical",
+      "resumo": "JoJo's Bizarre Adventure (ジョジョの奇妙な冒険, JoJo no Kimyō na Bōken) is the first season of the television anime series JoJo's Bizarre Adventure: The Animation, produced by David Production and Warner Bros. Japan. It is an adaptation of Parts 1 and 2 of the manga, Phantom Blood and Battle Tendency, respectively. It was first announced on July 5, 2012 at the Hirohiko Araki JoJo Exhibition 2012. The season aired over the course of 26 episodes from October 5, 2012 to April 5, 2013.",
+      "imagem": "assets/anime/Phantom_Blood__Anime_/capa.jpg",
+      "anterior": null,
+      "proxima": "/Stardust_Crusaders_(Anime)"
+    },
+    {
+      "ordem": 2,
+      "titulo": "JoJo's Bizarre Adventure: Stardust Crusaders",
+      "pagina": "/Stardust_Crusaders_(Anime)",
+      "estudio": "David Production",
+      "estreia": "4 de Abril de 2014",
+      "fim": "19 de Junho de 2015",
+      "episodios": 48,
+      "generos": "Ação, Aventura, Sobrenatural, Horror, Drama",
+      "resumo": "JoJo's Bizarre Adventure: Stardust Crusaders (ジョジョの奇妙な冒険 スターダストクルセイダース, JoJo no Kimyō na Bōken: Sutādasuto Kuruseidāsu) é a segunda temporada do anime de JoJo's Bizarre Adventure, produzida pela David Production.",
+      "imagem": "assets/anime/Stardust_Crusaders__Anime_/capa.jpg",
+      "anterior": "/JoJo%27s_Bizarre_Adventure:_The_Animation",
+      "proxima": "/Diamond_is_Unbreakable_(Anime)"
+    },
+    {
+      "ordem": 3,
+      "titulo": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+      "pagina": "/Diamond_is_Unbreakable_(Anime)",
+      "estudio": "David Production",
+      "estreia": "1º de Abril de 2016",
+      "fim": "23 de Dezembro de 2016",
+      "episodios": 39,
+      "generos": "Ação, Slice of Life, Aventura, Sobrenatural, Mistério",
+      "resumo": "JoJo's Bizarre Adventure: Diamond is Unbreakable (ジョジョの奇妙な冒険 ダイヤモンドは砕けない, JoJo no Kimyō na Bōken Daiyamondo wa Kudakenai) é a terceira temporada do anime de JoJo's Bizarre Adventure, produzida pela David Production.",
+      "imagem": "assets/anime/Diamond_is_Unbreakable__Anime_/capa.jpg",
+      "anterior": "/Stardust_Crusaders_(Anime)",
+      "proxima": "/Golden_Wind_(Anime)"
+    },
+    {
+      "ordem": 4,
+      "titulo": "JoJo's Bizarre Adventure: Golden Wind",
+      "pagina": "/Golden_Wind_(Anime)",
+      "estudio": "David Production",
+      "estreia": "5 de Julho de 2018 (Estreia japonesa)5 de Outubro de 2018 (TV)",
+      "fim": "28 de Julho de 2019",
+      "episodios": 39,
+      "generos": "Ação, Aventura, Sobrenatural, Mistério, Crime, Drama",
+      "resumo": "A quarta temporada é a adaptação da quinta parte da série de JoJo's Bizarre Adventure, Vento Aureo. Foi oficialmente anunciada por Hirohiko Araki em 21 de Junho de 2018, ao final de sua conferência na exibição de arte Ripples of Adventure.",
+      "imagem": "assets/anime/Golden_Wind__Anime_/capa.png",
+      "anterior": "/Diamond_is_Unbreakable_(Anime)",
+      "proxima": "/Stone_Ocean_(Anime)"
+    },
+    {
+      "ordem": 5,
+      "titulo": "JoJo's Bizarre Adventure: Stone Ocean",
+      "pagina": "/Stone_Ocean_(Anime)",
+      "estudio": "David Production",
+      "estreia": "1 Dezembro de 2021 (Netflix)7 de Janeiro de 2022 (Transmissão de TV)",
+      "fim": "1 Dezembro de 2022 (Netflix)",
+      "episodios": null,
+      "generos": "Ação, Aventura, Sobrenatural, Mistério, Crime, Drama",
+      "resumo": "A quinta temporada é a adaptação da sexta parte da série de JoJo's Bizarre Adventure, Stone Ocean. Foi oficialmente anunciada no evento JOESTAR The Inherited Soul junto ao anúncio de Fairouz Ai como dubladora da protagonista Jolyne Cujoh.",
+      "imagem": "assets/anime/Stone_Ocean__Anime_/capa.png",
+      "anterior": "/Golden_Wind_(Anime)",
+      "proxima": "/Steel_Ball_Run_(Anime)"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Steel Ball Run: JoJo's Bizarre Adventure",
+      "pagina": "/Steel_Ball_Run_(Anime)",
+      "estudio": "David Production",
+      "estreia": "Em Breve",
+      "fim": null,
+      "episodios": null,
+      "generos": "Ação, Aventura, Sobrenatural, Drama, Histórico, Esportes, Faroeste",
+      "resumo": "Steel Ball Run: JoJo's Bizarre Adventure (スティール・ボール・ラン ジョジョの奇妙な冒険, Sutīru Bōru Ran: JoJo no Kimyō na Bōken), também estilizado como STEEL BALL RUN JoJo's Bizarre Adventure, é a sexta temporada da série animada JoJo's Bizarre Adventure: The Animation e adaptação da sétima parte do mangá, Steel Ball Run. Está sendo produzida pela David Production e Warner Bros. Japão. A temporada foi anunciada oficialmente em 12 de abril de 2025 durante o evento JOJODAY",
+      "imagem": "assets/anime/Steel_Ball_Run__Anime_/capa.jpg",
+      "anterior": "/Stone_Ocean_(Anime)",
+      "proxima": null
+    }
+  ]
+}

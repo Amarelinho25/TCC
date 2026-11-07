@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from "react";
-import {House} from "lucide-react";
-import {Link} from "react-router-dom"
 import ModalStand from "../components/compoModalStand";
+import ModalPersonagem from "../components/compoModalPersonagem";
+import Cabecalho from "../components/compoCabecalho";
+import Rodape from "../components/compoRodape";
+import { useSearchParams } from "react-router-dom";
 
 // Partes que têm Stands na wiki (as partes 1 e 2 não têm)
 const partes = [
@@ -22,14 +24,28 @@ const limparResumo = (texto) =>
 const encurtar = (texto, max = 160) =>
   !texto ? "" : texto.length > max ? texto.slice(0, max) + "..." : texto;
 
+// Lê um JSON e dá erro claro se a resposta não for válida
+const lerJson = (url) =>
+  fetch(url).then((resp) => {
+    if (!resp.ok) throw new Error(`Status ${resp.status} em ${url}`);
+    return resp.json();
+  });
+
 export default function PagStands() {
-    
-    const [parteAtiva, setParteAtiva] = useState(3);
+    const [params] = useSearchParams();
+    const parteInicial = Number(params.get("parte"));
+
+    const [parteAtiva, setParteAtiva] = useState(
+        parteInicial >= 3 && parteInicial <= 9 ? parteInicial : 3
+    );
     const [lista, setLista] = useState([]);
     const [carregando, setCarregando] = useState(true);
     const [erro, setErro] = useState(null);
     const [busca, setBusca] = useState("");
     const [selecionado, setSelecionado] = useState(null);
+    const [personagens, setPersonagens] = useState({});
+    const [personagemAberto, setPersonagemAberto] = useState(null);
+
 
     useEffect(() => {
         let ativo = true; // evita gravar dados de uma aba antiga se você trocar rápido
@@ -52,10 +68,43 @@ export default function PagStands() {
                 if (ativo) setCarregando(false);
             });
 
-        return () => {
+                    return () => {
             ativo = false;
         };
     }, [parteAtiva]);
+
+    // Dados completos dos personagens (partes 1 e 2), organizados pelo campo "pagina"
+    useEffect(() => {
+        Promise.all([lerJson("/data/parte-1.json"), lerJson("/data/parte-2.json")])
+            .then(([p1, p2]) => {
+                const mapa = {};
+                [...p1.personagens, ...p2.personagens].forEach((p) => {
+                    mapa[p.pagina] = p;
+                });
+                setPersonagens(mapa);
+            })
+            .catch((e) => console.error("Erro ao carregar personagens:", e.message));
+    }, []);
+
+    // Abre o modal se tivermos os dados; senão, abre a página da wiki
+    const abrirHamon = (p) => {
+        const dados = personagens[p.pagina];
+        if (!dados) {
+            window.open(`https://jojowiki.com${p.pagina}`, "_blank");
+            return;
+        }
+        // Usa o nome e o avatar do cartão do Hamon
+        setPersonagemAberto({
+            ...dados,
+            nome: p.nome,
+            imagens: {
+                ...dados.imagens,
+                avatarAnime: p.avatarAnime ?? dados.imagens.avatarAnime,
+                avatarManga: p.avatarManga ?? dados.imagens.avatarManga,
+            },
+        });
+    };
+
 
     // Busca pelo nome do Stand ou do usuário (digitar "jotaro" acha o Star Platinum)
     const filtrada = lista.filter((s) => {
@@ -80,16 +129,7 @@ export default function PagStands() {
 
     return (
         <>
-    <div className="relative bg-purple-900 p-4 text-white flex items-center justify-center">
-   <Link to="/" className="absolute left-4">
-        <House size={40} />
-    </Link>
-
-    <h1 className="text-3xl font-bold text-center">
-        Stands
-    </h1>
-</div>
-
+   <Cabecalho titulo="Stands" />
 
     <br/>
 
@@ -180,16 +220,21 @@ export default function PagStands() {
         </div>
     </div>
 
-    <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div className="m-4 p-4 bg-white rounded-lg shadow-lg">
+        <h2 className="text-xl font-bold mb-2">Hamon</h2>
+        <p className="mb-2">
+            Hamon é uma técnica de respiração que permite ao usuário canalizar energia vital para realizar feitos extraordinários, como curar ferimentos e combater vampiros. Embora não seja um Stand, Hamon desempenha um papel importante nas primeiras partes da série.
+        </p>
+    <p className="mb-4">Usuários de Hamon segundo a JoJo Wiki:</p>
+
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4"></div>
             {hamon.map((p) => {
                 const avatar = p.avatarAnime ?? p.avatarManga;
                 return (
-                    <a
+                                        <div
                         key={p.pagina}
-                        href={`https://jojowiki.com${p.pagina}`}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="bg-gray-100 p-3 rounded-lg shadow-md text-center transition duration-200 hover:-translate-y-1 hover:shadow-xl"
+                        onClick={() => abrirHamon(p)}
+                        className="cursor-pointer bg-gray-100 p-3 rounded-lg shadow-md text-center transition duration-200 hover:-translate-y-1 hover:shadow-xl"
                     >
                         {avatar ? (
                             <img
@@ -202,15 +247,23 @@ export default function PagStands() {
                             <div className="w-24 h-24 bg-gray-300 rounded-xl mx-auto mb-2" />
                         )}
                         <p className="font-bold text-sm">{p.nome}</p>
-                    </a>
+                    </div>
                 );
             })}
         </div>
+
     
- {selecionado && (
+
+    {selecionado && (
         <ModalStand stand={selecionado} onFechar={() => setSelecionado(null)} />
     )}
-    
+
+     {personagemAberto && (
+        <ModalPersonagem
+            personagem={personagemAberto}
+            onFechar={() => setPersonagemAberto(null)}
+        />
+      )}
         </>
     );
 }
