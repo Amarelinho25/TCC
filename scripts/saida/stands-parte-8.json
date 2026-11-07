@@ -1,0 +1,3526 @@
+{
+  "parte": 8,
+  "stands": [
+    {
+      "nome": "Soft & Wet",
+      "nomeWiki": "Soft & Wet",
+      "pagina": "/Soft_%26_Wet",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Josuke Higashikata",
+          "pagina": "/Josuke_Higashikata_(JoJolion)"
+        },
+        {
+          "nome": "Josefumi Kujo",
+          "pagina": "/Josefumi_Kujo"
+        }
+      ],
+      "resumo": "Soft & Wet (ソフト＆ウェット, Sofuto ando Wetto) é o Stand de Josuke Higashikata, originalmente pertecendo ao Josefumi Kujo, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion. Ele é um Stand humanoide com uma aparência com temas mecânicos e marinhos. Ele é capaz de criar bolhas que roubam propriedades e objetos.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ソフト&ウェット",
+          "links": []
+        },
+        "user": {
+          "texto": "Josuke Higashikata | Josefumi Kujo (Usuário original)",
+          "links": [
+            {
+              "nome": "Josuke Higashikata",
+              "pagina": "/Josuke_Higashikata_(JoJolion)/pt-br"
+            },
+            {
+              "nome": "Josefumi Kujo",
+              "pagina": "/Josefumi_Kujo/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Soft and Wet (Música do Prince)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Humanoide Artificial | Evoluído | Compartilhado",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            },
+            {
+              "nome": "Evoluído",
+              "pagina": "/Stand_Types/pt-br#Stands_Evoluídos"
+            },
+            {
+              "nome": "Compartilhado",
+              "pagina": "/Stand_Types/pt-br#Stands_Compartilhados"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 1 (Habilidade) | JJL Capítulo 4 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "JJL Capítulo 1",
+              "pagina": "/JJL_Chapter_1/pt-br"
+            },
+            {
+              "nome": "JJL Capítulo 4",
+              "pagina": "/JJL_Chapter_4/pt-br"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "All-Star Battle",
+          "links": [
+            {
+              "nome": "All-Star Battle",
+              "pagina": "/All-Star_Battle"
+            }
+          ]
+        },
+        "cry": {
+          "texto": "ORA ORA ORA ... ! |",
+          "links": []
+        },
+        "seiyuu": {
+          "texto": "Mitsuaki Madono (ASB/EoH)",
+          "links": [
+            {
+              "nome": "Mitsuaki Madono",
+              "pagina": "/Mitsuaki_Madono"
+            },
+            {
+              "nome": "ASB",
+              "pagina": "/All-Star_Battle"
+            },
+            {
+              "nome": "EoH",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoCVelocidadeBAlcanceDPersistênciaBPrecisãoCPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "C",
+          "links": []
+        },
+        "speed": {
+          "texto": "B",
+          "links": []
+        },
+        "range": {
+          "texto": "D",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "C",
+          "links": []
+        },
+        "potential": {
+          "texto": "A",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "C"
+        ],
+        "speed": [
+          "B"
+        ],
+        "range": [
+          "D"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "C"
+        ],
+        "potential": [
+          "A"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Soft & Wet é um Stand humanoide de forma robótica, de cor clara, e de altura semelhante a de Josuke.",
+          "No topo de sua cabeça há um círculo que possui uma estrela de cinco pontas dentro dele. Saindo dos lados de suas cabeças são orelhas parecidas com chifres que Araki gosta de desenhar, no formato de prismas pentagrâmicos pontiaguados. Ele tem olhos redondos, parecidas com a cabeça de um parafuso; verticalmente dividindo pupilas muito pequenas e leves pupilas. Seu rosto tem um vão grosso indo do topo da testa e além do fundo do queixo.",
+          "A frente das duas grandes placas cobrindo seu tronco é cortada como seu rosto no formato de uma grande âncora; assim como em uma linha abaixo de ambos braços e entre a base de suas costas e ombros.",
+          "Seus pés e mãos são revestidos, assim como os lados de seus quadris e ombros, ambos os quais são no formato de corações afiados e possuem uma estrela de cinco pontas. Ele tem braços e pernas finas, com juntas esferoides apoiadas por curtos cabos exteriores. Sua pelvis é à mostra e mecânica. Os vãos em sua armadura revelam uma superfície mais profunda, coberta em um padrão fino de cristas horizontais. Uma estrutura interna é visível em seu perfil, mostrando blocos que lembram centros humanos de massa.",
+          "O design foi criado para combinar com a roupa de Josuke, em vez de com sua habilidade. Araki imaginou o uniforme de um marinheiro combinado com os dispositivos flutuantes em um colete salva-vidas. Em capítulos posteriores, seu tronco assume um formato mais parecido com um coração. Ele também ganha uma joia circular abaixo de seu pescoço, e suas ombreiras se tornam triangulares, saindo fora de seus ombros perpendicularmente. Suas orelhas também ficaram um pouco mais longas desde que ele apareceu.",
+          "Soft & Wet é branco e roxo no mangá colorido, mas, é amarelo e verde em All-Star Battle e Eyes of Heaven.",
+          "As bolhas de Josefumi eram inicialmente sem padrão. Após sua fusão com Kira, as bolhas de Josuke passaram a possuir uma estrela de cinco pontas, parecidas com as bolhas de Kira, e parecem ser um tipo de fusão entre duas bolhas de diferentes tamanhos.",
+          "Esquemas de Cores"
+        ],
+        "Personality": [
+          "O grito de Stand do Soft & Wet era originalmente \"ORA ORA ARA ORA\" (オラオラアラオラ) quando ele desfere sua primeira série de socos contra Ojiro Sasame. No entanto, ele se torna um \"ORA ORA ORA\" (オラオラオラ) normal em todas as lutas posteriores. Ele é do contrário completamente sem emoção, embora ele às vezes exiba gestos excêntricos com as mãos, semelhante aos de seu usuário."
+        ],
+        "Abilities": [
+          "Soft & Wet é um Stand de curto-alcance humanoide. Ele possui uma força aprimorada, demonstrada pela primeira vez quando ele quebra uma grande parte de um apartamente com um único chute, e é também capaz de um combate mano-a-mano extremamente veloz. A extensão do dano que ele pode infligir é limitado, entretanto, já que ele é incapaz de quebrar rochas.",
+          "Sua força em trocas de soco comparada a outros Stands foi ainda mais demonstrada no breve encontro com o Stand I Am a Rock de Yotsuyu Yagiyama, embora seu lançamento de vários golpes rápidos, Soft & Wet facilmente os evitou e os superou com um único golpe 'Ora' articulado.",
+          "Quando seu usuário se transforma em outra pessoa como resultado de passar por uma troca equivalente, Soft & Wet é dado habilidades adicionais como resultado.",
+          "Pré-Troca Equivalente",
+          "Geração de Bolhas",
+          "Soft & Wet gera bolhas flutuantes, que devem fazer contato com seu alvo para funcionar efetivamente. Entretanto, Josuke pode controlar onde as bolhas voam, permitindo que ele as envie onde necessário. As bolhas são na verdade compostas de pequenas cordas vibrando em em velocidades super-altas, dando a elas a aparência de esferas.",
+          "Josuke muitas vezes toma vantagem direta de suas bolhas e suas propriedades. O aspecto flutuante das bolhas permite que Josuke ponha outras pessoas como Yotsuyu Yagiyama em uma bolha gigante e as levante no ar, assim como ajudá-lo a chegar em pontos vantajosos. Josuke também pôs bolhas gigantes em si mesmo e seus aliados para tomar vantagem de sua proteção situacional.",
+          "Em adição a isso, Soft & Wet é capaz de criar bolhas utilizando substâncias existentes, como demonstrado quando ele cria um escudo feito de uma garrafa de água durante a perseguição do Blue Hawaii por Josuke.",
+          "Com o progredir da história, Josuke desenvolveu essa habilidade. Cedo na história, ele muitas vezes usava apenas uma bolha, mas mais tarde, é visto conjurando duzenas de duzenas com uma rápido enxame de ataques.",
+          "Roubo",
+          "A habilidade principal do Soft & Wet é de temporariamente remover coisas físicas como o sentido de som ou visão de alguém ao usar suas bolhas. Josuke pode então roubar aspectos ou propriedades de coisas inanimadas e vivas. Ditas propriedades podem também ser objetos pequenos que vem de um objeto maior. Soft & Wet pode também transferir propriedades roubadas para outros objetos. As propriedades que Josuke saqueou incluem:",
+          "Os objetos roubados podem ficar na bolha e ainda são capazes de estourar depos (como visto com a bolha com o som de um interruptor). A exata quantidade e tipo de objeto que Josuke pode rubar, por quanto tempo ele pode ficar com eles, e como ele é redistribído é atualmente não-definido. De acordo com Josuke, a habilidade do Soft & Wet não pode ser aplicada a ele mesmo.",
+          "Enquanto Josefumi Kujo estava sob o controle do Soft & Wet, essa habilidade foi descrita como \"absorção\". Como um usuário de Stand, Josefumi era experiente o suficiente para usar essa habilidade com extremos níveis de precisão. Por exemplo, Josefumi foi capaz de usar o Soft & Wet precisamente o suficiente para enxertar um galho solto em uma planta diferente, uma habilidade que ele e Yoshikage Kira usaram para a cultivação de uma Locacaca. Josefumi também foi mostrado usando suas bolhas de sabão para remover quantidades excessivas de pimenta preta de sua tigela de lámen.",
+          "Pós-Troca Equivalente",
+          "Em adição às habilidades antes mencionadas, Soft & Wet ganha novas propriedades após seu usuário original passar por uma troca equivalente com o falecido Yoshikage Kira. O Soft & Wet de Josuke é capaz de criar bolhas que são híbridas das bolhas explosivas do Killer Queen, que são dividas no centro com uma linha visível conectando as duas metades. Isso leva à uma mudança na habilidade do Soft & Wet, adotando as propriedades da habilidade de Kira.",
+          "Bolhas explosivas",
+          "Como resultado de sua natureza híbrida, as bolhas do Soft & Wet retem alguns aspectos da habilidade de geração de bolhas do Killer Queen. As bolhas são capazes de estourar com força o suficiente para causar dano em curto-alcance, visto quando Josuke usa uma para quebrar os óculos de Tamaki Damo. Josuke pode também usar essa força para propelir quaisquer objetos pequenos guardados dentro de suas bolhas, aparentemente com um grau de controle sobre a direção na qual elas voam. Em adição a isso, Josuke é capaz de ferir oponentes ao estourar bolhas que foram embutidas dentro de sua pele, uma habilidade que um dos Irmãos A. Phex disseram ter uma forte semelhança a própria técnica do falecido Kira.",
+          "Durante a luta contra Urban Guerrilla e seu animal de estimação Doremifasolati Do, Josuke aparentemente detona bolhas que ele havia anteriormente enterrado no chão.",
+          "Durante a luta contra Satoru Akefu e Do Do Do, De Da Da Da, Josuke detona bolhas em cima de uma mesa, soprando tudo para fora dela e causando uma explosão visível.",
+          "Soft & Wet: Go Beyond",
+          "Na verdade, as bolhas de sabão do Soft & Wet são linhas infintesimalmente finas que giram rapidamente. Rai Mamezuku descreve isso como parte da rotação. Ao aprender sobre a mecânica real por trás da habilidade de seu Stand, Josuke ganha um novo poder, que ele nomeia de \"Soft & Wet: Go Beyond\". As bolhas rapidamente giratórias criadas usando essa técnica se estendem da marca de nascença de Josuke, e são descritas como sendo incontroláveis e impossíveis de mirar sem ajuda.",
+          "Como resumido por Mamezuku, a fusão das bolhas de sabão do Soft & Wet de Josefumi com as bolhas explosivas do Killer Queen de Kira deu a Josuke a habilidade de gerar bolhas invisíveis que utilizam uma \"rotação explosiva\" (爆発的な回転, Bakuhatsu-tekina Kaiten, lit. \"rotação explosiva\") para se mover a velocidades extremamente altas. Essa velocidade combinada com a quase infinita finura das linhas do Soft & Wet (que Mamezuku descreve como sendo \"infinitamente perto de zero\") dá ao Go Beyond propriedades que transcedem os limites da física ordinária. De acordo com Mamezuku, essas bolhas \"não existem nesse mundo.\"",
+          "As bolhas do Go Beyond podem passar por e cruzar por qualquer barreira. Isso é primeiro notado por Mamezuku quando uma bolha invisível consegue passar pela parede sem danificá-la. É mais tarde mostrado ter um efeito maior quando uma bolha criada usando o Go Beyond encurta a distância entre o Hospital Universitário T.G. e a residência Higashikata ao entrar no domínio do Paisley Park, embora com a ajuda de Yasuho Hirose. Ao acertar Toru, uma das bolhas do Go Beyond até parecem passar por sua pele, semelhante a aplicação da habilidade do Killer Queen que costumava ser um elemento principal do estilo de luta de Kira.",
+          "Em adição a isso, o Go Beyond não é sujeito às leis da calamidade. Essas bolhas são tecnicamente inexistentes, então dirigi-las em direção do Wonder of U ou seu usuário não é visto como um ato de perseguição e não ativa a habilidade do Wonder of U.",
+          "Em certo ponto, Mamezuku também alega que essas bolhas possam superar a maldição da família Higashikata e a de Holy Joestar-Kira, embora as mecânicas exatas por trás disso não sejam mostradas.",
+          "Devido a velocidade extrema com a qual as bolhas do Go Beyond podem girar, elas podem ser usadas como projéteis para um efeito devastador. Ao fazer contato com um alvo, o Go Beyond pode instantaneamente erodir qualquer parte de seu corpo com o qual ele faça contato. Além disso, as bolhas do Go Beyond podem estourar com uma quantidade extrema de força; um tiro certo em Toru foi capaz de lançá-lo à uma grande distância no ar.",
+          "Go Beyond era originalmente usado subconscientemente por Josuke. Ele conseguiu produzir uma bolha invisível de sua marca de nascença enquanto carregando uma bolha de sabão em alta-velocidade sem seu conhecimento para lançá-la no Wonder of U. Ao descobrir da presença da bolha invisível, Josuke demonstrou a habilidade de criar uma conscientemente. No entanto, ele é incapaz de controlar ou mirá-las após elas serem criadas. Até agora, a única alternativa para essa limitação foi na forma de um ataque combinado com Yasuho Hirose, onde ela mira o Go Beyond usando o Paisley Park para guiar a bolha invisível pelo celular que Josuke está segurando e para fora de um em sua mão, que ela aponta para o alvo do ataque."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Soft___Wet/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Soft___Wet/Soft_&_Wet_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Paisley Park",
+      "nomeWiki": "Paisley Park",
+      "pagina": "/Paisley_Park",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Yasuho Hirose",
+          "pagina": "/Yasuho_Hirose"
+        }
+      ],
+      "resumo": "Paisley Park (ペイズリー・パーク, Peizurī Pāku) é o Stand de Yasuho Hirose, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ペイズリー・パーク",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Peizurī Pāku",
+          "links": []
+        },
+        "engname": {
+          "texto": "Flower Park (Eyes of Heaven)",
+          "links": [
+            {
+              "nome": "Eyes of Heaven",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "user": {
+          "texto": "Yasuho Hirose",
+          "links": [
+            {
+              "nome": "Yasuho Hirose",
+              "pagina": "/Yasuho_Hirose/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Paisley Park (Música de Prince)",
+          "links": []
+        },
+        "type": {
+          "texto": "Longo Alcance | Reconhecimento | Humanoide Natural | Consciente",
+          "links": [
+            {
+              "nome": "Longo Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Longo_Alcance"
+            },
+            {
+              "nome": "Reconhecimento",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Reconhecimento"
+            },
+            {
+              "nome": "Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Naturais"
+            },
+            {
+              "nome": "Consciente",
+              "pagina": "/Stand_Types/pt-br#Stands_Conscientes"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 12",
+          "links": [
+            {
+              "nome": "JJL Capítulo 12",
+              "pagina": "/JJL_Chapter_12/pt-br"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "All-Star Battle",
+          "links": [
+            {
+              "nome": "All-Star Battle",
+              "pagina": "/All-Star_Battle"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder Destrutivo∅Velocidade∅AlcanceAPersistênciaAPrecisãoDPotencialCABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "Nulo",
+          "links": []
+        },
+        "speed": {
+          "texto": "Nulo",
+          "links": []
+        },
+        "range": {
+          "texto": "A",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "D",
+          "links": []
+        },
+        "potential": {
+          "texto": "C",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "Nulo"
+        ],
+        "speed": [
+          "Nulo"
+        ],
+        "range": [
+          "A"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "D"
+        ],
+        "potential": [
+          "C"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Paisley Park é um Stand humanoide afeminado, parecendo ser um pouco mais alto que Yasuho. Ele tem um tronco grande, cintura fina, e membros mecânicos. O Paisley Park era inicialmente bi-dimensional ao ocupar a sombra de Yasuho ou se espalhar por qualquer superfície. Ele também tem o penteado de Yasuho, um cabelo claro na altura dos ombros amarrado em vários rabos de cavalo com presilhas esféricas.",
+          "Vários símbolos diferentes de mapa de estrada são sobrepostos por todo seu rosto e corpo. Em seu rosto há um olho redondo em sua direita com três cílios grossos e um sinal de estacionamento com um \"P\" em sua esquerda. O lado direito de sua testa possui um sinal com o número 4. Embora os sinais de mapa de estrada em seu rosto sejam normalmente consistentes, os símbolos que aparecem em seu corpo variam em cenas diferentes. Ele também tem uma pequena boca que normalmente não é vista.",
+          "Ele mais tarde aparece sendo tri-dimensional após ser descoberto por Yasuho. Quando o Stand muda sua forma, seu olho redondo sempre ficam presente. Quando Yasuho começa a usá-lo mais, seu design começa a se assemelhar a ela cada vez mais.",
+          "Esquemas de Cores"
+        ],
+        "Personality": [
+          "Ele tem uma personalidade independente já que ele é manifestado pela primeira vez inconscientemente por Yasuho para ajudar Josuke a trazê-lo em segurança de seu perseguidor. O Paisley Park é leal a Yasuho e ajuda assim como seus amigos para alcançar destinos ou ultrapassar segurança. Seu objetivo primário é proteger Yasuho, o que não muda mesmo após ele ser descoberto pela própria Yasuho.",
+          "O Stand pode ser agressivo quando protegendo sua dona ou caso ela seja ameaçada, como mostrado quando ele permite que Yasuho fuja do veículo de sequestradores ao torcer o tornozelo do motorista, fazendo com que o carro se acidente e os sequestradores atravessem o vidro do carro com a cabeça."
+        ],
+        "Abilities": [
+          "Paisley Park foi descrito por Yotsuyu Yagiyama como um Stand de longo-alcance, resistente a controle consciente e de pouca potência física. O Paisley Park não é adequado para confronto direto, mas ele é altamente autônomo e capaz de ajudar sua usuária e aliados constantemente de várias maneiras.",
+          "Guia",
+          "A habilidade primária do Paisley Park envolve ajudar indivíduos importantes para Yasuho a alcançar destinos mais rapidamente ou escapar situações perigosas. O Paisley Park já por exemplo manipulou o aplicativo de GPS de um celular, os resultados de um sistema de busca para aprimorar a eficiência de suas investigações e instigou uma cadeia de eventos permitindo com que Yasuho ultrapassasse um certificado de segurança através de uma identidade enganada. Paisley Park também pode se separar de sua usuária e ir para longe para ajudar outro aliado em necessidade.",
+          "Quando Yasuho descobre o Paisley Park, ele demonstra escolhas limitadas em tempo em seu celular ou laptop. Após selecionar uma opção, o Stand a provem com o item pelo qual ela pediu, que então se torna útil mais tarde. Por exemplo, a escolha de uma lanterna resulta no Paisley Park dando uma a Yasuho, que então ilumina a localização de algo que ela acaba precisando alguns minutos depois. O Stand oferece uma escolha sempre que Yasuho precisa resolver um problema, independente dela estar ciente do que está prestes a acontecer, mas não age quando Yasuho demora de mais para escolher.",
+          "Manipulação Eletrônica",
+          "Embora ele resida em seu celular, o Paisley Park permite que Yasuho interaja com vários tipos de dispositivos eletrônicos em um nível além do possível para um humano.",
+          "O Paisley Park pode hackear vários dispositivos eletrônicos com facilidade e usá-los para ajudar Yasuho em sua investigação ou qualquer outra atividade na qual ela se foca, ultrapassando qualquer tio de segurança que eles possam ter. Por exemplo, ele conseguiu invadir os servidores de informação da polícia local para identificar Dolomite ao ligar um dente aos registros médicos e impressões dentárias. Ele também pode viajar por redes de computador do celular de Yasuho para interagir com outros sistemas sem estar perto do hardware. Essa habilidade em particular é visualizada como o Paisley Park passando por corredores infinitos cheios de portas e quebrando fechaduras. Em um nível mais básico, o Paisley Park pode deletar/apagar arquivos como imagens ou vídeos dos celulares de outras pessoas caso Yasuho queira. O Paisley Park também parece capaz de \"copiar\" certas habilidades tecnológicas. Por exemplo, ela é vista usando sua mão como um raio-X para encontrar os pedaços de pedra no rosto de Yasuho.",
+          "De algum jeito, o Paisley Park também conseguiu transportar uma das bolhas invisíveis do Soft & Wet através de uma conexão de celular, trazendo a bolha de um lugar para outro. Um acontecimento um tanto parecido ocorreu antes quando foi visto que Yasuho também podia fazer a representação 3D da foto de um carro parcialmente emergir da tela de seu celular.",
+          "Metamorfose",
+          "Paisley Park pode livremente mudar sua forma. Ele pode ir de uma forma humanoide tri-dimensional para uma figura plana parecida com uma sombra, ou até uma poça sem forma. Essa habilidade não é só limitada a forma, já que ele foi visto conseguindo transformar sua cabeça em um globo, mudando símbolos normais de mapa de estrada em um mapa da Terra, e então em uma mapa da cidade."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Paisley_Park/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Paisley_Park/Paisley_Park_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Doggy Style",
+      "nomeWiki": "Doggy Style",
+      "pagina": "/Doggy_Style",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Rai Mamezuku",
+          "pagina": "/Rai_Mamezuku"
+        }
+      ],
+      "resumo": "Doggy Style (ドギー・スタイル, Dogī Sutairu) é o Stand de Rai Mamezuku, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion. Esse Stand mecânico permite que Mamezuku desenrole seu corpo em fios.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ドギー・スタイル",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Dogī Sutairu",
+          "links": []
+        },
+        "user": {
+          "texto": "Rai Mamezuku",
+          "links": [
+            {
+              "nome": "Rai Mamezuku",
+              "pagina": "/Rai_Mamezuku/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Doggystyle (Álbum do Snoop Dogg)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Não Humanoide Natural",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Não Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Naturais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 65",
+          "links": [
+            {
+              "nome": "JJL Capítulo 65",
+              "pagina": "/JJL_Chapter_65"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Doggy Style toma a forma de um humanoide com um rosto alongado e quase sem características, com a exceção de seis pequenos olhos e protusões em formato de vagens de feijão nos lados de sua cabeça. Ele tem um tronco em formato de coração, apêndices em formato de batedores de claras como braços e o kanji para \"feijão\" (豆, mame) escrito em seus ombros dentro de um círculo.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Descascar de Pele",
+          "O poder completo do Doggy Style é desconhecido; entretanto, sua habilidade primária permite que Mamezuku \"descasque\" seu próprio corpo como uma maçã, desenrolando seus membros em \"cabos de aço\" que ele pode controlar e manipular.",
+          "Mamezuku primeiro o usa em um teleférico para pegar um morango de um arbusto vários metros abaixo. O uso mais avançado dessa habilidade é quando Mamezuku transforma seu braço inteiro em uma besta improvisada, com a qual ele dispara um garfo usando sua boca. Mamezuku também pode lançar seu cabo rápido o suficiente para dá-lo poder cutâneo. Ele notavelmente cortou um jardim de plantas Locacaca desse jeito. Ele também pode transformar seu dedo em um formato aparentemente afiado de cone, que ele pode estender para atacar em um movimento de perfuração.",
+          "Mamezuku também é capaz de completamente se desenrolar, como visto quando ele finge ter morrido por causa do Ozon Baby do Poor Tom. Ele também parece capaz de desenrolar todas partes de seu corpo além de seus olhos e dentes, fazendo parecer que ele havia sido esmagado até a morte.",
+          "Spin",
+          "Em seus momentos finais, Mamezuku revela a Josuke Higashikata a técnica do Spin. Ele demonstra isso com o Doggy Style ao desenrolar sua mãoe girar o fio rapidamente. A extensão da experiência de Mamezuku com o Spin é desconhecida, já que isso pode ser simplesmente uma demonstração do princípio do \"giro\" e não uma técnica do Spin."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Doggy_Style/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Doggy_Style/Doggy_Style_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "California King Bed",
+      "nomeWiki": "California King Bed",
+      "pagina": "/California_King_Bed",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Daiya Higashikata",
+          "pagina": "/Daiya_Higashikata"
+        }
+      ],
+      "resumo": "California King Bed (カリフォルニア・キング・ベッドちゃん, Kariforunia Kingu Beddo-chan) is the Stand of Daiya Higashikata, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "カリフォルニア・キング・ベッドちゃん",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Kariforunia Kingu Beddo-chan",
+          "links": []
+        },
+        "engname": {
+          "texto": "King Bed (Eyes of Heaven)",
+          "links": [
+            {
+              "nome": "Eyes of Heaven",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "user": {
+          "texto": "Daiya Higashikata",
+          "links": [
+            {
+              "nome": "Daiya Higashikata",
+              "pagina": "/Daiya_Higashikata"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "California King Bed (Rihanna song) | \"King\" (Higashikata Family naming scheme)[a]",
+          "links": [
+            {
+              "nome": "Higashikata Family",
+              "pagina": "/Higashikata_Family"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Close-Range | Psychological Assault | Artificial Non-Humanoid",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Psychological Assault",
+              "pagina": "/Stand_Types#Psychological_Assault_Stands"
+            },
+            {
+              "nome": "Artificial Non-Humanoid",
+              "pagina": "/Stand_Types#Artificial_Non-Humanoid_Stands"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Wall Eyes exposure",
+          "links": [
+            {
+              "nome": "Wall Eyes",
+              "pagina": "/Wall_Eyes"
+            }
+          ]
+        },
+        "awakening": {
+          "texto": "1997",
+          "links": []
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 7",
+          "links": [
+            {
+              "nome": "JJL Chapter 7",
+              "pagina": "/JJL_Chapter_7"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "JJL Chapter 8",
+          "links": [
+            {
+              "nome": "JJL Chapter 8",
+              "pagina": "/JJL_Chapter_8"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of time∅NullSpeedAgility and reflexes as well as performance speed∅NullRangeRange of manifestation, range of ability influence, and spatial mobilityEStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsEPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesEABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "Null",
+          "links": []
+        },
+        "speed": {
+          "texto": "Null",
+          "links": []
+        },
+        "range": {
+          "texto": "E",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "E",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "Null"
+        ],
+        "speed": [
+          "Null"
+        ],
+        "range": [
+          "E"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "A toy-like apparatus, California King Bed is composed of a head and five smaller units, which are its torso and limbs; all bearing a smiley face. The head is composed of what looks like a U-shaped travel cushion, both ends topped by a simple daisy-like flower; bordering a sort of smiley, surrounded by four large petals, with a cheerful open-mouthed smile comparable to that featuring in Takashi Murakami's work Smile. California King Bed's units are connected to each other by rope-like strings or chains: the head connects to both the torso and upper limbs, while the lower limbs connect only to the torso. There are spheres on the midpoints of the chains connecting the lower limbs.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "California King Bed's ability allows for it to steal particular memories from a person under certain conditions set by its user. While fairly harmless and fitting for the playful Daiya, it becomes rather menacing on people like the amnesiac Josuke, as Daiya can effectively brainwash them.",
+          "When the Stand was introduced, it seemed to create a large gash on Daiya's leg. However, when Josuke checked, the gash simply disappeared as if nothing happened. It remains unclear if this is another one of California King Bed's abilities.",
+          "Memory Theft",
+          "California King Bed's ability can steal part of someone's memories if they break a rule set by Daiya. The rules set by her can be anything such as not making Daiya worry. Daiya must be sure that a rule is broken in order to steal a memory.",
+          "When activated, the stolen memory exits the target's body and is materialized in the shape of a chess piece. The stolen memory itself can vary in nature: it may be the memory of a dream, or the memory of a particular event, or the memory about a particular subject, object or person. Meanwhile, the target will forget about whatever the memory is about, although the feeling of having forgotten something remains.",
+          "By touching a chess piece, Daiya may perceive the memory stored inside it. If a piece is destroyed, the memory is lost forever, and damaging the pieces hurts whoever the pieces are from.",
+          "If the user steps on the shadow of a person who has had their memories stolen, the memories of that person are returned to them.",
+          "Although it is harmless to the average person as the memory is likely to be mundane, California King Bed is more dangerous against someone with few memories. The amnesiac Josuke was manipulated into being seduced by Daiya as she kept taking away his memories.",
+          "California King Bed's ability also applies to animals, as evidenced by a memory it had taken from a cat."
+        ],
+        "Quotes": []
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/California_King_Bed/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/California_King_Bed/CFKB_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Born This Way",
+      "nomeWiki": "Born This Way",
+      "pagina": "/Born_This_Way",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Kei Nijimura",
+          "pagina": "/Kei_Nijimura"
+        }
+      ],
+      "resumo": "Born This Way (ボーン・ディス・ウェイ, Bōn Disu Wei) is the Stand of Kei Nijimura, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ボーン・ディス・ウェイ",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Bōn Disu Wei",
+          "links": []
+        },
+        "user": {
+          "texto": "Kei Nijimura",
+          "links": [
+            {
+              "nome": "Kei Nijimura",
+              "pagina": "/Kei_Nijimura"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Born This Way (Lady Gaga song and album)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automatic | Long-Range | Artificial Humanoid",
+          "links": [
+            {
+              "nome": "Automatic",
+              "pagina": "/Stand_Types#Automatic_Stands"
+            },
+            {
+              "nome": "Long-Range",
+              "pagina": "/Stand_Types#Long-Range_Stands"
+            },
+            {
+              "nome": "Artificial Humanoid",
+              "pagina": "/Stand_Types#Artificial_Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 12",
+          "links": [
+            {
+              "nome": "JJL Chapter 12",
+              "pagina": "/JJL_Chapter_12"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "JJL Volume 4 (\"Born This Way\") | JJL Chapter 16 (\"Going Underground\")",
+          "links": [
+            {
+              "nome": "JJL Volume 4",
+              "pagina": "/JJL_Volume_4"
+            },
+            {
+              "nome": "JJL Chapter 16",
+              "pagina": "/JJL_Chapter_16"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeCSpeedAgility and reflexes as well as performance speedBRangeRange of manifestation, range of ability influence, and spatial mobilityAStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityAPrecisionAccuracy and range of influence/effect of their abilities to specified targetsEPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesEABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "C",
+          "links": []
+        },
+        "speed": {
+          "texto": "B",
+          "links": []
+        },
+        "range": {
+          "texto": "A",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "E",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "C"
+        ],
+        "speed": [
+          "B"
+        ],
+        "range": [
+          "A"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Born This Way is composed of a humanoid rider and a motorcycle. The rider is covered in black clothes similar to protective motorcycle clothing, including a helmet with a visor. As such, it is not easily identifiable as a Stand, but when its helmet is removed, it has a stout, robotic head and face, lending it an odd appearance as it doesn't appear to have a distinct neck, its head instead emerging directly from its torso. The head also has a fin-like horn on the top.",
+          "All of these unusual visuals were intentionally added by Araki so people could recognize at first glance that it was a Stand and not a human when it removed its helmet.",
+          "The motorcycle is a heavy, almost armored black sport bike. The front wheels feature decals of a smiley-faced flower on the hub caps, and the front fork has a stitched design similar to the face of the rider.",
+          "The collar of the helmet features a skull emblem similar to those found on her brother's stand.",
+          "Color Schemes"
+        ],
+        "Personality": [
+          "Born This Way mostly avoids engaging in combat directly, instead ramming opponents with its bike. Knocking the rider off the motorcycle causes it to make a \"Shuu\" noise and make a quick, almost clumsy dash to get back on."
+        ],
+        "Abilities": [
+          "Born This Way is an automatic Stand defined by constant power independent of the distance from Nijimura and is unusual in that it rides a motorcycle. Equipped with a helmet and motorcycle riding gear, Born This Way is more resilient than most Stands. The bike is durable enough to withstand Soft & Wet's punches, and can be used to ram into people as a vehicle.",
+          "Although Born This Way is physically powerful, it can only appear when certain conditions are met and can be warded off if the target is careful about their actions.",
+          "Summon Through Opening",
+          "Kei Nijimura can employ Born This Way on any chosen target, but it only appears near them when they \"open\" something. To target a person, Nijimura must touch them at some point but is otherwise able to act freely while her Stand attacks.",
+          "The act of opening may concern doors, notebooks and cellphones but not body parts such as opening one's eyes. The individual does not have to intentionally open something, as merely touching an object as it is opening applies, for instance when Josuke backs into a taxi causing its driver to remotely open the door, or when Nijimura throws a loose pen at him, causing the cap to fall off when it hits. Born This Way immediately appears near the target when they open something but similarly disappears if anyone closes the relevant open object.",
+          "Freezing Wind",
+          "When Born This Way appears, it can conjure powerful and cold gusts of wind to attack. The wind is strong enough to push back a grown man and can violently displace objects. Moreover, it causes an unnatural cold. The temperature dramatically drops where it blows, to the point the eyes can begin to freeze. If the wind persists long enough, a large quantity of snow may appear, and Born This Way can also propel shards of ice into someone as projectiles."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Born_This_Way/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Born_This_Way/Born_This_Way_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Killer Queen",
+      "nomeWiki": "Killer Queen",
+      "pagina": "/Killer_Queen_(JoJolion)",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Yoshikage Kira",
+          "pagina": "/Yoshikage_Kira_(JoJolion)"
+        }
+      ],
+      "resumo": "Killer Queen (キラークイーン, Kirā Kuīn) é o Stand de Yoshikage Kira, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion. Assim como em sua versão original, ele é um Stand humanoide com características felinas. Ele também pode fazer objetos explodirem e conjurar bombas com rodas.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "キラークイーン",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Kirā Kuīn",
+          "links": []
+        },
+        "user": {
+          "texto": "Yoshikage Kira",
+          "links": [
+            {
+              "nome": "Yoshikage Kira",
+              "pagina": "/Yoshikage_Kira_(JoJolion)/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Killer Queen (Stand da Parte 4) | Killer Queen (Música do Queen) | Sheer Heart Attack/Sheer Heart Attack (Álbum e música do Queen)",
+          "links": [
+            {
+              "nome": "Killer Queen",
+              "pagina": "/Killer_Queen/pt-br"
+            },
+            {
+              "nome": "Parte 4",
+              "pagina": "/Diamond_is_Unbreakable/pt-br"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Curto Alcance | Reconhecimento | Humanoide Natural",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Reconhecimento",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Reconhecimento"
+            },
+            {
+              "nome": "Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Naturais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 17 (Menção) | JJL Capítulo 49 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "JJL Capítulo 17",
+              "pagina": "/JJL_Chapter_17/pt-br"
+            },
+            {
+              "nome": "JJL Capítulo 49",
+              "pagina": "/JJL_Chapter_49"
+            }
+          ]
+        },
+        "cry": {
+          "texto": "WRYYYYYEEEEAH!",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Killer Queen é um Stand humanoide de aparência semelhante a sua contraparte alternativa. O topo de sua cabeça é plano, com dois formatos triangulares e afiados nos dois lados de su cabeça. Seus olhos tem pupilas verticais assim como as de um gato na frente de escleras de cor geralmente clara. Ele não possui nariz. Com lábios finos, sua boca é pepertualmente fechada.",
+          "Ele veste luvas escuras, cravejadas da altura de seus antebraços, espelhados em estilo por uma saia em sua cintura e uma sandalia na altura dos tornozelos. Seus dedões são listrados e não são cobertos pelas luvas.",
+          "Seus ombros, atrás de suas mãos, na fivela de seu cinto, ambos lados de seus tornozelos e no topo de seus pés todos possuem um emblema de uma caveira com orelhas lembrando as suas próprias; de tamanhos variantes e decoração externa. Uma diferença menor porém constante entre os designs do Killer Queen e sua contraparte da Parte 4 é que, enquanto o Killer Queen da Parte 4 possui dois emblemas de caveira na fivela de seu cinto, o Killer Queen da Pare 8 apenas possui um.",
+          "Esquemas de Cores"
+        ]
+      },
+      "tecnicas": [
+        {
+          "nome": "Sheer Heart Attack",
+          "japones": "(シアーハートアタック, Shiā Hāto Atakku)",
+          "estreia": "Estreia: JJL Capítulo 50",
+          "descricao": "O Killer Queen pode invocar várias bombas em miniatura com rodas. Diferente do Sheer Heart Attack, Kira pode remotamente controlá-los com precisão. Kira também pode escolher o quão volumosas as bombas são, capaz de fazê-las pequenas o suficiente para viajar pela corrente sanguínea de alguém ou quase tão grandes quanto a cabeça de alguém. O poder da explosão é dependente de seu tamanho, demonstrado pela habilidade do Sheer Heart Attack de limpar um coágulo de um jovem Josefumi Kujo assim como explodir um píer inteiro. Os Sheer Heart Attacks mostrados não tem narizes como sua contraparte original e lembram sua forma danificada."
+        }
+      ],
+      "imagens": {
+        "avatarAnime": "assets/stands/Killer_Queen__JoJolion_/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Killer_Queen__JoJolion_/Killer_Queen_JJL_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Nut King Call",
+      "nomeWiki": "Nut King Call",
+      "pagina": "/Nut_King_Call",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Joshu Higashikata",
+          "pagina": "/Joshu_Higashikata"
+        }
+      ],
+      "resumo": "Nut King Call (ナット・キング・コール, Natto Kingu Kōru) é o Stand de Joshu Higashikata, na oitava parte de JoJo's Bizarre Adventure, JoJolion. Ele é um Stand humanoide com um tema de parafusos e porcas. Seu poder é conjurar parafusos e porcas em objetos ou pessoas, desmontando e as montando como se elas fossem os meros pedaços de uma máquina.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ナット・キング・コール",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Natto Kingu Kōru",
+          "links": []
+        },
+        "engname": {
+          "texto": "Nuts N. Bolts (EOH)",
+          "links": [
+            {
+              "nome": "EOH",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "user": {
+          "texto": "Joshu Higashikata",
+          "links": [
+            {
+              "nome": "Joshu Higashikata",
+              "pagina": "/Joshu_Higashikata/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Nat King Cole (Músico estadunidense)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 20",
+          "links": [
+            {
+              "nome": "JJL Capítulo 20",
+              "pagina": "/JJL_Chapter_20/pt-br"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "Eyes of Heaven",
+          "links": [
+            {
+              "nome": "Eyes of Heaven",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoCVelocidadeDAlcanceCPersistênciaAPrecisãoEPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "C",
+          "links": []
+        },
+        "speed": {
+          "texto": "D",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "A",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "C"
+        ],
+        "speed": [
+          "D"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "A"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Nut King Call é um Stand humanoide de altura semelhante a de Joshu. Ele tem parafusos presos nos lados de sua cabeça e seus braços magricelos. Ele tem dois olhos no formato de escudos semelhantes aos de um inseto e muitos parafusos e porcas cercando seu pescoço lembrando uma gorgeira.",
+          "Em sua testa há uma grande crista em formato de V. Seu rosto e braços também são texturizados com pequenos cumes. Seu tronco é coberto por um padrão de triângulo semelhante a bandana de Caesar ou o cinto de Jotaro.",
+          "Os pulsos do Nut King Call eram originalmente grandes e redondos com duas linhas conectando aos parafusos em seus punhos. Em sua aparição mais tardia, seus pulsos são mais longos e cilíndricos, não tendo mais a conexão aos punhos.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Nut King Call é um Stand humanoide de curto-alcance com a habilidade de manipular os parafusos e porcas que ele pode plantar em um alvo. Ele é mostrado sendo capaz de desferir uma onda de socos, como quando Joshu tentou parar Toru de alcançar Yasuho Hirose no dia da colheita.",
+          "Porcas e Parafusos",
+          "Ao plantar porcas e parafusos em um alvo, o Nut King Call cria articulações artificiais funcionais. Quando uma porca é removida de um parafuso, o que pode ser feito quase instantaneamente, o objeto quebra e é desmontado. Quando aplicado a humanos, o processo de desmontar partes do corpo parece ser indolor. Essas separações parecem se desfazerem quando um alvo fica fora do alcance, como foi visto quando um marginal que abordou Joshu encontrou suas mãos religadas (porém incorretamente) quando Joshu fugiu.",
+          "Nut King Call também pode apertar junto quaisquer objetos estejam entre um parafuso e uma porca conectante. Isso é demonstrado pela primeira vez quando Joshu se livra de um dono de bar e seus homens ao fixar partes de seus corpos juntos à força e escapando enquanto eles tropeçam. Mais tarde, ele faz o mesmo a uma garrafa da qual Zaihei Nigatake estava bebendo e o dinheiro amaldiçoado do Milagroman.",
+          "Nut King Call pode até mesmo remover as partes do corpo de seu próprio usuário, como sua língua. Quando isso acontece, é mostrado que Joshu ainda tem controle e sente a parte removida."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Nut_King_Call/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Nut_King_Call/Nut_King_Call_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Paper Moon King",
+      "nomeWiki": "Paper Moon King",
+      "pagina": "/Paper_Moon_King",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Tsurugi Higashikata",
+          "pagina": "/Tsurugi_Higashikata"
+        }
+      ],
+      "resumo": "Paper Moon King (ペーパー・ムーン・キング, Pēpā Mūn Kingu) é o Stand de Tsurugi Higashikata, na oitava parte de JoJo's Bizarre Adventure, JoJolion. Ele é uma habilidade de Stand capaz de criar origamis vivos que fazem qualquer um que os toque confundir objetos e pessoas.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ペーパー・ムーン・キング",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Pēpā Mūn Kingu",
+          "links": []
+        },
+        "user": {
+          "texto": "Tsurugi Higashikata",
+          "links": [
+            {
+              "nome": "Tsurugi Higashikata",
+              "pagina": "/Tsurugi_Higashikata/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "It's Only a Paper Moon (Música popular cantada por Nat King Cole)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automático | Materializado | Ataque Psicológico | Fenômeno",
+          "links": [
+            {
+              "nome": "Automático",
+              "pagina": "/Stand_Types/pt-br#Stands_Automáticos"
+            },
+            {
+              "nome": "Materializado",
+              "pagina": "/Stand_Types/pt-br#Stands_Materializados"
+            },
+            {
+              "nome": "Ataque Psicológico",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Assalto_Psicológico"
+            },
+            {
+              "nome": "Fenômeno",
+              "pagina": "/Stand_Types/pt-br#Stands_Fenômeno"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 23",
+          "links": [
+            {
+              "nome": "JJL Capítulo 23",
+              "pagina": "/JJL_Chapter_23/pt-br"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoEVelocidadeEAlcanceCPersistênciaCPrecisãoBPotencialEABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "E",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "C",
+          "links": []
+        },
+        "precision": {
+          "texto": "B",
+          "links": []
+        },
+        "potential": {
+          "texto": "E",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E"
+        ],
+        "speed": [
+          "E"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "C"
+        ],
+        "precision": [
+          "B"
+        ],
+        "potential": [
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Paper Moon King se manifesta primariamente nos origamis criados por Tsurugi, que ele pode dar um pouco de vida, permitindo movimento momentâneo. Ele é tipicamente dobrado para parecer um sapo."
+        ],
+        "Abilities": [
+          "O Paper Moon King se apresenta como uma habilidade e não possui habilidade de combate alguma. Tsurugi não busca lutar e prefere depender no poder de seus origamis para desorientar pessoas em vez de feri-las pessoalmente.",
+          "Origamis Vivos",
+          "O Paper Moon King também permite com que Tsurugi dê as qualidades reais do objeto retratado no origami. Por exemplo, Tsurugi pode formar uma cigarra de origami que pode voar ou sapos de origami que podem saltitar e se mexer sozinhos. Tsurugi também pode fazer veículos que emulam seu comportamento e movimento respectivo.",
+          "Ele não precisa estar por perto para manter esse efeito, já que todos os seus origamis de papel estão sob o efeito de seu Stand, quando Yasuho cria bananas de origami sem Tsurugi por perto, eles ainda parecem serem capazes de fazer Yotsuyu Yagiyama tropeçar e cair. Essa habilidade também pode funcionar com o Stand.",
+          "Tsurugi também pôde dobrar objetos duros no formato de um origami, como o celular de Yasuho.",
+          "Manipulação Sensorial",
+          "Assim que um indivíduo entra em contato com o modelo de um origami, o Paper Moon King é capaz de distorcer, ou até mesmo manipular as habilidades sensoriais de perceber a realidade de indivíduos.",
+          "Isso deixa a vítima incapaz de reconhecer rostos, resultando em ver o mesmo rosto em todas pessoas, mesmo em reflexos e rostos artificiais como em manequins ou vídeos. Além dos rostos de outras pessoas, aqueles sob o efeito do Paper Moon King não podem diferenciar corpos, e vozes, já que Yasuho ainda confundiu Joshu por Josuke apesar de ter tido uma conversa ocm ele. Ademais as vítimas de Tsurugi só podem ler a mesma frase em todos os textos que eles verem. O Paper Moon King também pode fazer suas vítimas confundirem dois objetos específicos ou pessoas; por exemplo Tsurugi fez Aisho Dainenjiyama ver todas as folhas no chão como o celular de origami de Yasuho, e ver vários ônibus como Jobin Higashikata; Essa habilidade também foi usada para disfarçar um galho normal de árvore como um galho de Locacaca, enganando Josuke e Poor Tom",
+          "Paper Moon King também posusi a habilidade de exagerar as aparências de coisas, como quando Tsurugi fez os ferimentos dele e de Jobin parecerem piores do que eles realmente eram."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Paper_Moon_King/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Paper_Moon_King/Paper_Moon_King_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "King Nothing",
+      "nomeWiki": "King Nothing",
+      "pagina": "/King_Nothing",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Norisuke Higashikata IV",
+          "pagina": "/Norisuke_Higashikata_IV"
+        }
+      ],
+      "resumo": "King Nothing (キング・ナッシング, Kingu Nasshingu) é o Stand de Norisuke Higashikata IV, na oitava parte de JoJo's Bizarre Adventure, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "キング・ナッシング",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Kingu Nasshingu",
+          "links": []
+        },
+        "engname": {
+          "texto": "King of Nothingness (EoH)",
+          "links": [
+            {
+              "nome": "EoH",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "user": {
+          "texto": "Norisuke Higashikata IV",
+          "links": [
+            {
+              "nome": "Norisuke Higashikata IV",
+              "pagina": "/Norisuke_Higashikata_IV/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "King Nothing (Música do Metallica)",
+          "links": []
+        },
+        "type": {
+          "texto": "Longo Alcance | Reconhecimento | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Longo Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Longo_Alcance"
+            },
+            {
+              "nome": "Reconhecimento",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Reconhecimento"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 27",
+          "links": [
+            {
+              "nome": "JJL Capítulo 27",
+              "pagina": "/JJL_Chapter_27/pt-br"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "King Nothing é um Stand humanoide vazio feito completamente por pedaços de quebra-cabeça. Ele tem dois longos chifres caídos e grandes olhos em formato de escudo. Entre seus chifres e o pedaço em volta de seu pescoço, ele assume um formato reminescente de certos retratos tradicionais de um bobo da corte.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Norisuke IV revelou a Josuke que o King Nothing é um Stand de longa-distância com muito pouco poder físico, o tornando inadequado para batalhas abertas.",
+          "King Nothing possui um conjunto de poderes simples cujos limites não são claros por serem raramente vistos, já que Norisuke não é um lutador.",
+          "Rastreamento de Cheiros",
+          "King Nothing pode registrar o cheiro de uma pessoa ou objeto em particular, e rastrear sua localização como um cão de caça.",
+          "Quando exposto a um objeto, o King Nothing envolverá seus pedaços de quebra-cabeça e memorizar o cheiro do objeto em questão ou alguém que o tocou. Ele irá então automaticamente perseguir o cheiro, mesmo que Norisuke não esteja ciente de sua ativação, e poderá então seguir a trilha do cheiro que a pessoa deixou até chegar em sua localização atual, ou ser mantido dormente e ser automaticamente atraído pelo cheiro.",
+          "O King Nothing pode se remodelar para recriar o objeto ou pessoa que ele está seguindo. Ele faz isso ao grudar partes de seus pedaços de quebra-cabeça em artigos de roupa pertencentes ao lvo ou a superfícies com as quais o alvo recentemente entrou em contato.",
+          "Constituição de Quebra-Cabeça",
+          "O King Nothing é composto de peças de quebra-cabeça podendo se desmontar em pequenos pedaços de peças. Isso permite com que o King Nothing passe por espaços estreitos enquanto seguindo um rastro.",
+          "Adicionalmente, o King Nothing é capaz de prever e se transformar na forma do que quer que ele esteja rastreando usando seus pedaços de quebra-cabeça, tal como quando ele reconstruiu a planta inteira de uma única Locacaca quebrada. Essa habilidade é ligada ao seu rastreamento de cheiros."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/King_Nothing/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/King_Nothing/King_Nothing_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Speed King",
+      "nomeWiki": "Speed King",
+      "pagina": "/Speed_King",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Jobin Higashikata",
+          "pagina": "/Jobin_Higashikata"
+        }
+      ],
+      "resumo": "Speed King (スピード・キング, Supīdo Kingu) é o Stand de Jobin Higashikata, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion. Ele é um Stand humanoide de curto-alcance que pode armazenar calor nos lugares em que ele toca.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "スピード・キング",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Supīdo Kingu",
+          "links": []
+        },
+        "user": {
+          "texto": "Jobin Higashikata",
+          "links": [
+            {
+              "nome": "Jobin Higashikata",
+              "pagina": "/Jobin_Higashikata/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Speed King (Música do Deep Purple)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 37",
+          "links": [
+            {
+              "nome": "JJL Capítulo 37",
+              "pagina": "/JJL_Chapter_37"
+            }
+          ]
+        },
+        "cry": {
+          "texto": "SPEEEEYYY SPEYAHH! | MERARYARYA!",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Speed King tem uma aparência humanoide. Ele possui um corpo semelhante a um manequim e um rosto humanoide com buracos no lugar dos olhos (mais tarde retratados como óculos) e uma superfície plana levantada lembrando um nariz, assim como um chapéu de pescador com vários espinhos metálicos na aba e vários fios de tamanho igual saindo de ambos lados. Ele tem dois chifres grandes em cada lado de sua cabeça, uma boca grande, tendo dentes tortos com poros e furos por toda sua 'pele'.",
+          "Ele parece ter juntas robóticas em seus braços, e um peito plano coberto por foros e furos assim como seu rosto (inicialmente retratado com uma textura de pele de animal cobrindo o peito). O corpo do Speed King torna-se muito esquelético e robótico para baixo do nível do peito, não tendo a maioria de seu abdômen e em vez disso tendo barras metálicas e outros aparatos o conectando à parte inferior de seu corpo.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Pouco se sabe das habilidades do Speed King mas é evidente que seus poderes de calor são letais tanto em curto quanto longo alcance. O Speed King é mostrado ser fisicamente capaz o suficiente para rapidamente golpear inimigos, mas a extensão de seu poder nunca é revelada.",
+          "Acumulação de Calor",
+          "Como explicado por Jobin, o Speed King tem a habilidade primária de armazenar calor e temperatura dentro de um curto ponto localizado, de objetos únicos tais como a superfície de dinheiro ou até um lugar particular no corpo humano. No entanto, o calor pode então ser transferido paraalguém que toca dito ponto onde o calor é armazenado. O Speed King apenas afeta objetos dentro de 10 centímetros, mas é visto que ditos objetos podem irem para bem longe de Jobin e ainda serem afetados pelo armazenamento de calor do Speed King. Por exemplo Ojiro Sasame conseguiu viajar da residência Higashikata até o centro de Morioh e ainda ser afetado.",
+          "Já que Jobin pode esquentar clorato de sódio o suficiente para produzir oxigênio, pode ser assumido que ele pode aumentar a temperatura até pelo menos 300 °C. Ele já o usou para derreter a cera dentro de seus besouros após escová-los com um pincel e fez com que Josuke sangrasse de seu nariz simplesmente após oferecê-lo alguns lenços de papel para passar no rosto. Esse poder pode ser usado ofensivamente para esquentar os vasos sanguíneos de pessoas, fervendo o sangue dentro para deixá-las inconscientes ou até mesmo matá-las, quando aplicado ao canto do rosto o calor pode se tornar tão prejudicial que os olhos estoram."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Speed_King/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Speed_King/Speed_King_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Love Love Deluxe",
+      "nomeWiki": "Love Love Deluxe",
+      "pagina": "/Love_Love_Deluxe",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Karera Sakunami",
+          "pagina": "/Karera_Sakunami"
+        }
+      ],
+      "resumo": "Love Love Deluxe (ラブラブデラックス, Rabu Rabu Derakkusu) é o Stand de Karera Sakunami, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion. Love Love Deluxe é um Stand humanoide que faz cabelo crescer onde quer que um alvo designado toque.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ラブラブデラックス",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Rabu Rabu Derakkusu",
+          "links": []
+        },
+        "user": {
+          "texto": "Karera Sakunami",
+          "links": [
+            {
+              "nome": "Karera Sakunami",
+              "pagina": "/Karera_Sakunami/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Love Deluxe (Stand da Parte 4) | Love Deluxe (Álbum do Sade) | Rabu rabu (ラブラブ) (Gíria japonesa que significa \"estar apaixonado\")",
+          "links": [
+            {
+              "nome": "Love Deluxe",
+              "pagina": "/Love_Deluxe"
+            },
+            {
+              "nome": "Parte 4",
+              "pagina": "/Diamond_is_Unbreakable/pt-br"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Curto Alcance | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 43 (Habilidade apenas) | JJL Capítulo 44",
+          "links": [
+            {
+              "nome": "JJL Capítulo 43",
+              "pagina": "/JJL_Chapter_43"
+            },
+            {
+              "nome": "JJL Capítulo 44",
+              "pagina": "/JJL_Chapter_44"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Love Love Deluxe é um Stand humanoide. Ele tem uma aparência feminina, ele tem articulações mecânicas na cintura, quadris, ombros, cotovelos, e mãos. Um conjunto de cabos metálicos também conecta seu peito ao seu pescoço. Love Love Deluxe é coberto por pedaços de pelo que cobrem suas pernas, braços, e corpo de maenira que lembra um vestido com luvas nos braços e uma meia-calça. Ele também tem uma cabeça com um cabelo que lembra um afro com uma trança no meio dele, lembrando um zíper.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Crescimento Capilar",
+          "Com o Love Love Deluxe, Karera Sakunami tem controle sob o cabelo de outras pessoas, mas apenas dentro de um alcance de 80 m (260 ft) dela mesma. Ela geralmente usa o Love Love Deluxe para dar golpes em pessoas ao fazê-las pensar que ela pode fazer o cabelo delas crescer permanentemente, mas também o usou para evitar pagar por comida ao produzir o cabelo de um vendedor de yakitori em um produto que ela comprou ou o usando para descobrir a senha de alguém cujo cartão de caixa eletrônico ela roubou, já que os cabelos na tela LCD crescem em comprimentos diferentes dependendo da ordem dos números.",
+          "Em termos de ofensiva, ela demonstrou poder criar uma longa mecha de cabelo parecido com uma corda do tanque de gás de um carro em um alvo e acendê-la com um isqueiro."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Love_Love_Deluxe/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Love_Love_Deluxe/Love_Love_Deluxe_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Walking Heart",
+      "nomeWiki": "Walking Heart",
+      "pagina": "/Walking_Heart",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Hato Higashikata",
+          "pagina": "/Hato_Higashikata"
+        }
+      ],
+      "resumo": "Walking Heart (ウォーキング・ハート, Wōkingu Hāto) é o Stand de Hato Higashikata, na oitava parte de JoJo's Bizarre Adventure, JoJolion. Esse Stand humanoide alonga os saltos de Hato, lhes transformando em armas mortais.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ウォーキング・ハート",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Wōkingu Hāto",
+          "links": []
+        },
+        "user": {
+          "texto": "Hato Higashikata",
+          "links": [
+            {
+              "nome": "Hato Higashikata",
+              "pagina": "/Hato_Higashikata/pt-br"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Curto Alcance | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 54",
+          "links": [
+            {
+              "nome": "JJL Capítulo 54",
+              "pagina": "/JJL_Chapter_54"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Walking Heart assume uma aparência humanoide feminina lembrando a de Hato, feito quase completamente de longos e finos fios rígidos. Ele não tem nariz e boca, tendo apenas olhos sem emoção e um longo e rígido cabelo. Em seu peito há um grande coração, cercado por coração menor em cada lado e um colarinho em formato de coração em volta de seu pescoço. Em volta de sua cintura há um cinto com vários cumes e outro coração no meio.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Não se sabe muito sobre o Walking Heart. Embora ele possua uma forma, seu poder só manifestou uma habilidade que Hato usa para combate direto. Embora seja uma habilidade simples, a velocidade e poder do Walking Heart faz de Hato uma lutadora surpreendentemente letal.",
+          "Espinhos dos Saltos",
+          "Walking Heart permite que Hato transforme seus saltos ou os calcanhares de seus sapatos em espinhos enrigecidos, permitindo que eles se estendam até 4 metros. A extensão e subsequente retração são rápidas o suficiente para irem mais rápido que o tempo de reação de um humano. Esses espinhos penetram qualquer superfície, incluíndo vidro e rocha, assim como o corpo de outros humanos (ou humanos de pedra). Isso permite que Hato ande em paredes com seus saltos cavando diretamente nos tijolos ou outros materiais, assim como atacar com seus saltos estendidos com movimentos de chute. É desconhecido se o Walking Heart pode estender outros objetos ou partes de seu corpo desse mesmo modo."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Walking_Heart/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Walking_Heart/Walking_Heart_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Space Trucking",
+      "nomeWiki": "Space Trucking",
+      "pagina": "/Space_Trucking",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Kaato Higashikata",
+          "pagina": "/Kaato_Higashikata"
+        }
+      ],
+      "resumo": "Space Trucking (スペース・トラッキング, Supēsu Torakkingu) is the Stand of Kaato Higashikata, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "スペース・トラッキング",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Supēsu Torakkingu",
+          "links": []
+        },
+        "user": {
+          "texto": "Kaato Higashikata",
+          "links": [
+            {
+              "nome": "Kaato Higashikata",
+              "pagina": "/Kaato_Higashikata"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Space Truckin' (Deep Purple song) | \"King\" (Higashikata Family naming scheme)[a]",
+          "links": [
+            {
+              "nome": "Higashikata Family",
+              "pagina": "/Higashikata_Family"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Materialized | Artificial Humanoid",
+          "links": [
+            {
+              "nome": "Materialized",
+              "pagina": "/Stand_Types#Materialized_Stands"
+            },
+            {
+              "nome": "Artificial Humanoid",
+              "pagina": "/Stand_Types#Artificial_Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 55 (Ability only) | JJL Chapter 107 (1st full debut)",
+          "links": [
+            {
+              "nome": "JJL Chapter 55",
+              "pagina": "/JJL_Chapter_55"
+            },
+            {
+              "nome": "JJL Chapter 107",
+              "pagina": "/JJL_Chapter_107"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Space Trucking has a humanoid appearance with thin mechanical limbs and long fingers. It has a large shoulder cape that extends beneath its chest, with long triangular shoulder pads attached to it that jut out perpendicularly to its arms. It has an egg-shaped head with a pointed protuberance extending from its chin. The top right side of its head is covered in a patch with a polka-dot pattern. Its face consists of a large smiling mouth and above it a rectangle resembling a 2-dot face of a die.",
+          "Each of the Stand's body parts is decorated with playing card imagery. On the left of its shoulder cape is a pattern of hearts. Its right shoulder, left shoulder pad, waist, and feet exhibit patterns reminiscent of those on court cards. Below its right shoulder is a circular cut-out, from which emerges a large King of Spades card covering the right side of its chest. This King of Spades card has some elements from the other King cards, namely clubs and diamonds on the king's clothing. There are several diamonds embedded in its crotch, and Ace of Spades cards on each of its knees.",
+          "The cover of JJL Chapter 107 erroneously depicts the King of Spades on Space Trucking's right chest with the King of Hearts suit.",
+          "Space Trucking is bound to a deck of cards, from which it manifests its power. The deck itself is relatively ordinary and bears the Higashikata Fruit Parlor's crest.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Dimensional Storage",
+          "Space Trucking allows Kaato to store objects and hide living things inside the space between her cards as if nothing was there. She can store objects that are considerably larger than the deck, as seen when she brings forth a chair to attack Joshu, and she even hides Tsurugi in her deck to make him reappear from the cards later, without harm. The cards can also be used to immobilize people, as Kaato pins Toru to the floor by hiding his limbs inside her cards.",
+          "Kaato explains that the objects hidden in her cards may appear to be crushed but in reality, they are merely hidden. However, she is seen crushing the Locacaca branch in her deck to extract its sap."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Space_Trucking/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Space_Trucking/Space_Trucking_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Awaking III Leaves",
+      "nomeWiki": "Awaking III Leaves",
+      "pagina": "/Awaking_III_Leaves",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Mitsuba Higashikata",
+          "pagina": "/Mitsuba_Higashikata"
+        }
+      ],
+      "resumo": "Awaking III Leaves (アウェイキング・Ⅲ(スリー)リーブス, Aweikingu Surī Rībusu) is the Stand of Mitsuba Higashikata, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "アウェイキング・Ⅲ(スリー)リーブス",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Aweikingu Surī Rībusu",
+          "links": []
+        },
+        "user": {
+          "texto": "Mitsuba Higashikata",
+          "links": [
+            {
+              "nome": "Mitsuba Higashikata",
+              "pagina": "/Mitsuba_Higashikata"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "\"King\" (Higashikata Family naming scheme)[a] | \"III Leaves\": Clubs (三葉, Mitsuba, lit. \"Three Leaves\")",
+          "links": [
+            {
+              "nome": "Higashikata Family",
+              "pagina": "/Higashikata_Family"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Close-Range | Artificial Humanoid",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Artificial Humanoid",
+              "pagina": "/Stand_Types#Artificial_Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 79",
+          "links": [
+            {
+              "nome": "JJL Chapter 79",
+              "pagina": "/JJL_Chapter_79"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Awaking III Leaves appears as a hooded figure with its legs exposed. Its face cannot be seen, but both of its eyes are visible. The cloak it wears has arrows decorating it in a circular pattern, with some facing downward. The arrows reach from the head to the end of the outfit. Tassels hang from the bottom of the cloak, with more downward-pointing arrows in the back.",
+          "Its legs have three leaves on each knee, one underneath the other, and mechanical-looking joints on their sides. The arrow pattern is also present under its knees, going in the same circular direction as the ones on the outfit. An arrow and leaves can be seen on the ankles, as well as one larger arrow pointing to the direction of its toes.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Vector Manipulation",
+          "Awaking III Leaves produces symbolic arrows that allow Mitsuba to manipulate Euclidean vectors, changing the movement of the energy to match the direction the arrow is pointing. This can be as generic as a single upwards arrow placed on herself to lift her body into the air against the force of gravity, or as specialized as using an arrow to expel certain foreign objects from her body against their intended controlled movement.",
+          "Multiple arrows will also combine their vectors together through vector addition. When Mitsuba places multiple arrows facing the same direction on an elevator's walls, it increases the elevator's acceleration; when she places multiple arrows facing in opposite directions it creates a new vector of movement at an angle between the existing arrows, such as when she deflected the dust of Doctor Wu."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Awaking_III_Leaves/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Awaking_III_Leaves/Awaking_III_Leaves_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Wonder of U",
+      "nomeWiki": "Wonder of U",
+      "pagina": "/Wonder_of_U",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Toru",
+          "pagina": "/Toru"
+        }
+      ],
+      "resumo": "Wonder of U (ワンダー・オブ・U, Wandā obu Yū) é o Stand de Toru, assim como um antagonista primário na oitava parte de JoJo's Bizarre Adventure, JoJolion, e introduzido no arco \"The Wonder of You\".",
+      "infobox": {
+        "image": {
+          "texto": "Forma HíbridaForma de StandForma Humana (Satoru Akefu)",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ワンダー・オブ・U",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Wandā obu Yū",
+          "links": []
+        },
+        "alias": {
+          "texto": "Satoru Akefu (明負 悟, Akefu Satoru) | Médico-Chefe",
+          "links": []
+        },
+        "user": {
+          "texto": "Toru",
+          "links": [
+            {
+              "nome": "Toru",
+              "pagina": "/Toru/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "The Wonder of You (álbum e música cantada por Elvis Presley)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automático | Consciente | Humanoide Natural | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Automático",
+              "pagina": "/Stand_Types/pt-br#Stands_Automáticos"
+            },
+            {
+              "nome": "Consciente",
+              "pagina": "/Stand_Types/pt-br#Stands_Conscientes"
+            },
+            {
+              "nome": "Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Naturais"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 76 (Habilidade) | JJL Capítulo 84 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "JJL Capítulo 76",
+              "pagina": "/JJL_Chapter_76"
+            },
+            {
+              "nome": "JJL Capítulo 84",
+              "pagina": "/JJL_Chapter_84"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Wonder of U é um Stand artificial humanoide com características robóticas. Ele tem um tronco grande e finos braços tubulares, com várias articulações em seus braços e cintura. Seu corpo inteiro é coberto por círculos que possuem espaços uniformes. Ele também tem longas laminas curvadas em seus pulsos. Sua cabeça tem um formato ovoide achatado com dois olhos em formato de moeda, os olhos são desenhados com triângulos que fazem com que eles pareçam sóis, parecidos com o padrão de sol no colete de Toru. O rosto inteiro é enquadrado por dois pares de paus metálicos atrás de seus olhos.",
+          "A aparência do Wonder of U é diferente dependendo de quem a vê, para o público geral, ele aparace em seu disfarce; enquanto, para aqueles que sabem de sua habilidade, seu rosto verdadeiro aparece. O disfarce toma aparência de Satoru Akefu, um homem idoso com um porte entroncado dito ter 89 anos de idade. O disfarce tem um rosto fino e enrugado com maçãs-do-rosto salientes, um nariz grande, e um grosso cabelo branco. As características mais notáveis do disfarce são uma barba estilizada em vários pequenos espinhos e um monóculo em seu olho direito. Assim como o subordinado do Stand Wu Tomoki, o cabelo aos lados de sua cabeça é composto de várias esferas. O cabelo no topo de sua cabeça é muito mais natural, embora parecendo um bocado bagunçado. Suas costeletas possuem um padrão parecido, mas tem o formato de retângulos. Seus braços e pernas são notalvemente mais magros que o resto de seu rosto. Ele veste um chapéu-coco e terno de cor escura, junto de um cachecol de cor clara com um padrão de pequenas fendas irregulares. Ele também veste sapatos sociais e uma bengala para caminhar.",
+          "Assim que revelado que Satoru Akefu e Wonder of U são a mesma entidade, Wonder of U mantem as roupas e acessórios de Satoru, mas mostra o rosto do médico-chefe com menos frequência para Rai Mamezuku e Josuke Higashikata.",
+          "Esquemas de Cores"
+        ],
+        "Personality": [
+          "Wonder of U é um Stand consciente que é, diferente da maioria dos Stands da obra, consideravelmente expressivo e possui um comportamento calmo porém ameaçador.",
+          "Ele é bastante confiante em suas próprias habilidades, alegando que nada pode se aproximar dele ou feri-lo. Quando Taoka ameaça expôr as operações ilegais da Organização da Locacaca, Akefu calmamente nota como um desastre cairá sobre ele antes que ele possa sair da sala. Sob a ameaça de perigo, ele é surpreendido quando Rai Mamezuku consegue chegar à alguns centímetros de proximidade dele. Quando ele é finalmente ferido pelas bolhas de Josuke, Wonder of U fica chocado em saber que alguém poderia feri-lo.",
+          "Wonder of U é perceptivo, entendendo a armadilha que Josuke fez para ele e rapidamente analisa a ameaça que Josuke representava por causa de um ferimento surpresa. Assim como seu usuário, Wonder of U é bastante engenhoso, tomando cuidados para evitar combate direto ao utilizar Do Do Do, De Da Da Da na batalha contra Josuke e Rai, e notavelmente lança Ob-La-Di, Ob-La-Da em Josuke quando chega a hora certa. Quando Josuke descobre um novo aspecto das bolhas de seu Stand, Wonder of U decide que o melhor curso de ação seria simplesmente recuar.",
+          "O Stand repetidamente manipula seus inimigos a persegui-lo e ativar sua habilidade, através de zombamentos e ameaças. Ele revela a Rai que ele foi a causa da morte de seu pai, e o faz cair no seu plano.",
+          "Como o Stand de um humano de pedra, Wonder of U mostra sua dominância sobre humanos em geral, como quando ele declara que \"eles\" não tem permissão de possuir quaisquer coisas, seja um pomar de pêras (se referindo ao pai de Mamezuku) ou a {nova Locacaca (se referindo a Josuke e Rai). Ele também valoriza a Locacaca 6251, notando seu preço de 200 milhões de ienes, mas também destacando seu valor para o mundo como uma medicina milagrosa. A visão de Josuke destruindo o abastamecimento faz com que Wonder of U se aproxime de Josuke.",
+          "Quando disfarçado como o médico-chefe do Hospital Universitário TG Wonder of U é uma figura bastante ilusiva apesar de ter um título incrivelmente prestigioso. Durante sua apresentação, \"Akefu\" se apresenta como um médico orgulhoso pronto para introduzir a Locacaca 6251 para uma audiência e discutir suas consequências na ciência médica. \"Akefu\" também é um profissional e a primeira coisa que ele faz com o jornalista Taoka é trocar cartões de negócio.",
+          "Wonder of U tem a peculiaridade de ocasionalmente dizer seu nome em uma conversa."
+        ],
+        "Abilities": [
+          "Pretensão de Identidade",
+          "Wonder of U permite que Toru tenha uma vida dupla sob a identidade de Satoru Akefu, permitindo que ele aja como o médico-chefe do TG University hospital. Isso é feito quando o Wonder of U assume uma forma humana, que diferente da maioria dos Stands, pode ser vista por não-usuários de Stand. Isso permite que Toru ganhe acesso a tanto os recursos do hospital quanto os credenciais presumidos necessários para realizar seu papel como o líder da Organização da Locacaca.",
+          "Criação de Ilusão à Longo-Alcance",
+          "Wonder of U é capaz de criar várias ilusões de si mesmo, que podem ser designadas a alvos específicos. Essas ilusões normalmente tomam a forma da identidade assumida por Toru, e tipicamente se posicionam para que suas costas sejam encaradas por seu alvo. Wonder of U já demonstrou ter um grau de controle sobre quem pode ou não pode ver essas ilusões.",
+          "Por exemplo, uma ilusão para Mitsuba Higashikata não pôde ser vista pelos outros membros da família Higashikata, enquanto outra ilusão do Stand podia ser vista por uma grande audiência atendendo a apresentação do médico-chefe. Até mesmo em sua forma humana, as ilusoes do Wonder of U são capazes de atravessar objetos como paredes, e são capazes de viajar por superfícies refletivas.",
+          "Manipulação de Calamidade",
+          "A habilidade do Wonder of U pode ser ativada em qualquer pessoa que olhou para as costas do Stand enquanto em sua forma humana. Enquanto a habilidade do Wonder of U está ativa, alvos irão passar por desenvolvimentos horríveis referidos como calamidades. Algumas calamdiades serão o resultado do próprio comportamento do alvo levando a um resultado incomumente detrimental (ex. Mitsuba cortando sua mão enquanto preparando comida) enquanto outros tomam a forma de fatores ambientais que normalmente seriam inofensivos como tendo um resultado anormalmente mal (ex. Josuke Higashikata recebendo ferimentos quase-fatais do impacto de gotas de chuva, ou uma lâmpada na proximidade de Mamezuku explodindo). Como regra, as calamidades do Wonder of U sempre se manifestam na forma de alguma colisão prejudicial.",
+          "Assim que o Wonder of U escolheu um alvo, qualquer tentativa de perseguir ou do contrário ferir Satoru Akefu irá resultar na habilidade sendo reativada. O princípio de reativação é extremamente sensível, já que a mera intenção de confrontar o presumido usuário do Stand foi o suficiente para que a habilidade quase matasse Josuke. Enquanto a perseguição é o gatilho mais comum do Stand, o Wonder of U também pode atacar qualquer pessoa que vê as costas de seu presumido usuário, indendente de se eles ainda possuem a intenção de perseguir. Isso foi demonstrado por Mamezuku, que mostrou a outro detento em sua cela uma fotografia das costas do Stand, resultando nele sendo mortalmente ferido. Objetos que entram em contato com o Wonder of U podem ser infundidos com a calamidade e engatilhar a habilidade quando tocados.",
+          "Há uma forte correlação entre o tamanho de um objeto e quão imediato e severo o ferimento será em impacto. Por exemplo, enquanto um cigarro descartado acertando a mão de Josuke resultou nele imediatamente perfurando sua palma, colidir com um apoio de guarda-chuva resultou em um ferimento muito mais grave na perna de Mamezuku, embora com uma demora notável entre a colisão e a aparição do ferimento. Parece que para colisões com objetos maiores, há um período de demora em que os efeitos do impacto podem ser transferidos para outra pessoa. Um civil foi mostrado sofrer de um ferimento no pescoço repentino e fatal após entrar em contato com o sangue de Josuke dentro de momentos dele ser acertado por um carro durante o ataque do Stand. Como dito por Mamezuku, a severidade das calamidades causadas pelo médico-chefe a alguém que não está o perseugindo parece funcionar como uma forma de karma e é influenciado pela história do indivíduo. Isso é demonstrado um assassino condenado viu de relance as costas do Wonder of U e recebeu uma calamidade que resultou em um ferimento extremamente grave, enquanto o de Mamezuku tomou a forma de coisas relativamente inofensivas, como uma lâmpada estourando e vermes aparecendo em comida. Isso é ainda mais elaborado pelo Wonder of U, alegando qeu há um \"fluxo\" de coisas que sempre resultam em calamidade o que foi previamente sugerido por Toru.",
+          "Entretanto, apesar das capacidades ofensivas e defensivas aparentemente invencíveis do Wonder of U, uma fraqueza possível em sua defesa é notada por Josuke seugindo sua derrota inicial do Stand. Ao ficar completamente inativo e forçar o Stand a confrontá-lo, Josuke foi aparentemente capaz de ignorar o perigo da habilidade do Stand, já que nenhum comportamento ou fatores ambientais que estavam presentes poderiam ser extrapolados em uma calamidade. Coisas não-existentes também não serão afetadas por ela já que elas não seriam vistas como uma perseguição.",
+          "É descoberto que mesmo após a morte de Toru, Wonder of U pode agir independentemente e infligir outra calamidade em outra pessoa ao entrar em seu corpo, até mesmo se materializando ali dentro.",
+          "Conhecimento",
+          "Fingindo ser um médico no comando de um hospital inteiro, pode ser presumido que Wonder of U é conhecedor de conhecimento médico geral, assim como as aplicações médicas da fruta Locacaca."
+        ],
+        "History": [
+          "Passado",
+          "A identidade de Akefu foi roubada de um médico humano real, que se graduou no Hospital Universitário TG. Toru usa a identidade dele para se infiltrar no hospital com Wu Tomoki, Urban Guerrilla, e Poor Tom, se tornando o médico-chefe. Akefu é dito tem uma carreira longa e ilustre como um médico e ter recebido prêmios médicos por seu trabalho, embora esses feitos tenham sido conquistados pelo Akefu original. Devido a sua posição honorária, ele não está mais envolvido em práticas médicas. Akefu e o resto da Organização da Locacaca conduziram pesquisas sobre as frutas Locacaca e seu potencial como uma medicina, usando o grupo de Tamaki Damo como subordinados e equipe para realizar testes humanos não-oficiais, e também testar sua medicina em Holy. Em certo ponto, Akefu conhece Mitsuba Higashikata e aparece em uma foto com ela.",
+          "Wonder of U parece ter algum tipo de relação com o pai de Mamezuku, já que ele atendeu ao seu funeral. Além disso, Wonder of U é sugerido ter sido responsável pelas calamidades que afetaram a família Mamezuku.",
+          "JoJolion",
+          "The Wonder of You",
+          "\"Akefu\" é perseguido por Josuke Higashikata, Yasuho Hirose, and Rai Mamezuku. Completamente os ignorando., \"Akefu\" lança sua habilidade atrás dos três e foge em um ônibus. Ele é mais tarde visto por Mitsuba Higashikata tanto na escola de seu filho quanto na propriedade em volta da residência Higashikata",
+          "Josuke e Mamezuku descobrem que \"Akefu\" tem uma palestra agendada sobre medicina regenerativa. Decidindo persegui-lo até essa palestra faz com que o Wonder of U ative e os ataque assim que a chuva começa a cair. Encurralado pela chuva e a polícia, Josuke decide deixar as gotas de chuva atravessarem seu corpo e é levado à um hospital. Enquanto isso, \"Akefu\" continua indo atrás da família Higashikata e sua habilidade causa desastres contra eles, com a doença de Tsurugi piorando na mesma hora.",
+          "No dia da palestra, \"Akefu\" revela seu produto, a Locacaca 6251, ao público. O Stand disfarçado apresenta a nova medicina e seus processos. Enquanto isso, Josuke é novamente atacado pela calamidade e eventualmente revisa seu plano.",
+          "No dia da colheita, \"Akefu\" é novamente visto por Mitsuba e Yasuho espreitando por perto da residência Higashikata e também por Rai fora da delegacia de polícia à qual ele foi levado. Na residência Higashikata, sua habilidade causa umasérie de eventos que levam a nova Locacaca ser revelada, Enquanto Jobin discute com Norisuke e eventualmente o causa um derrame, \"Akefu\" finalmente passa a agir. O Stand entra na residência e se aproxima da família. Mitsuba o vê passando pela moldura da porta do corredor fora do quarto de Tsurugi, passar pela tela de um computador, o vidro de estantes, passar pelo banheiro, e então indo para baixo dos lençóis da cama. Jobin, avisado de sua presença por Mitsuba, invoca seu Stand Speed King e o ataca. Logo, a habilidade de \"Akefu\" causa outra calamidade e Jobin tem seu sangue drenado, sua Locacaca envasada rolando até a porta da garagem.",
+          "No Hospital Universitário TG, \"Akefu\" programou se encontrar com um repórter da revista jornalistica \"Pangea Land\", Taoka, Taoka mostra a \"Akefu\" a gravação de Holy Joestar-Kira, o laboratório secreto de Locacaca, e uma amostra da fruta dentro de uma jarra. Taoka acusa \"Akefu\" de conduzir testes humanos ilegais e está pronto para persegui-lo. \"Akefu\" então levanta a possibilidade da amostra ser falsa e t eoriza que Taoka deve ter tocado a fruta, e que um pouco de suco deve ter entrado em um pequeno corte em sua mão. O Stand disfarçado deixa Taoka, sabendo que sua habilidade mataria o repórter e saindo para encontrar o enviador do pacote, Josuke. Durante esse tempo, Rai Mamezuku utiliza a habilidade de Wonder of U para sua vantagem para escapar de sua cela da prisão e ir ao hospital para ajudar Josuke em sua batalha. Enquanto \"Satoru\" avança em direção do laboratório da Locacaca no departamento de ginecologia, é mostrado que o médico-chefe e o Stand são a mesma entidade.",
+          "Ambos indo à localização de Josuke no hospital, Rai nota Wonder of U logo atrás dele, aparentemente autonômo e atravessando vidro para alcançar o laboratório. Rai corre até Josuke, observando Wonder of U atravessar paredes para confrontá-lo, o rosto verdadeiro do Stand é revelado. Quando ele chega ao laboratório, Wonder of U sente que algo está errado e não entra na sala. Em vez disso, ele lança um inseto de pedra chamado Do Do Do, De Da Da Da, que começa seu ataque contra Josuke e Rai.",
+          "Wonder of U deixa Do Do Do, De Da Da Da atacar Josuke, mas Rai Mamezuku eventualmente intervem e mata o inseto de pedra. Rai se aproxima de Wonder of U e o confronta, abanando seus dedos pontiagudos dois centímetros de distância do rosto do Stand, e sem nenhuma calamidade em vista para pará-lo. Quando ele aproxima a ponta de seu fio ao rosto de Wonder of U, Mamezuku começa a alegar que o poder do Stand de calamidade poderia ser um truque. Wonder of U abertamente se pergunta como isso poderia acontecer já que ningué nunca chegou tão perto dele mas declara que ainda sim, ninguém pode atacá-lo. Então, Wonder of U lembra Mamezuku de seu passado, sobre como seu pai morreu, como um inseto misterioso causou estragos ao pomar da família de Mamezuku, e como a mãe de Mamezuku adoeceu e morreu ao se sentir sobrecarregada com todas as calamidades que haviam acontecido. Enraivecido pela provocação, Mamezuku agarra Wonder of U pelo pescoço e ameaça impalá-lo com seu dedo pontiagudo.",
+          "De repente, uma das tranças de Mamezuku sai voando. Mamezuku errou o pescoço do Stand por pocuo e pedaços esféricos de carne foram removidos de seu ombro. Josuke vê que suas próprias bolhas de sabão foram responsáveis por terem ferido Mamezuku. Wonder of U percebe que isso era a armadilha de Josuke: Josuke havai deixado várias bolhas na sala mas algumas delas estavam escondidas e girando a altas velocidades. Ao deixar Wonder of U vir até ele, Josuke esperava que essas bolhas iriam matar o Stand inimigo mas em vez disso, por puro azar, essas bolhas em vez disso gravemente feriram Mamezuku. Enquanto Mamezuku cai, a confiança de Wonder of U em sua invencibilidade é reassegurada. Entretanto, Mamezuku revela com suas últimas forças o poder do Spin a Josuke.",
+          "Wonder of U pergunta novamente se Josuke planejava se aproximar dele. Josuke reflete sobre a verdadeira natureza de suas bolhas antes de readquirir seu foco. Ele declara que ele é quem fez o Wonder of U abordá-lo. Para atrai-lo para perto, Josuke convoca o Soft & Wet para destruir o cofre contentendo todos os tubos de Locacaca6251. Ele dispersa o tubo e até destrói as portas com suas bolhas explosivas. Wonder of U protesta, alegando que mesmo se a nova Locacaca seja necessária, a Locacaca6251 continua extremamente valiosa e que o mundo precisa dela. Ouvindo sobre o preço da medicina por 200,000 ienes por um tubo, Josuke responde que seus tênis custaram 7,890 ienes e pisoteia os tubos. Wonder of U finalmente entra na sala e se aproxima de Josuke, enquanto cuidadosamente ficando longe das bolhas do of Soft & Wet. Entretanto, Wonder of U abruptamente o ifnroma de que Yasuho está na residência Higashikata em perigo. Josuke hesita por um momento, e então volta a destruir os tubos com ainda mais vontade. Entretanto, um pedaço de vidro ricocheteia para seu pescoço. Wonder of U expressa incompreensão sobre a teimosia de Josuke e explica que o fluxo da calamidade irá atacá-lo através de todos os objetos que o Stand está tocando. Ao mesmo tempo, ele ostensivamente toca o resto dos tubos e o entulho do cofre. Josuke tenta chutar Wonder of U no pescoço, mas uma bolha entra no caminho e corta parte de sua perna. Josuke tropeça e impala seu ombro em uma vara de metal saindo do entulho. Wonder of U expressa sua satisfação, mas do nada uma rajada de vento surge para dentro do cofre. Born This Way. Com seu vento congelante, o Stand congela várias bolhas e as lança contra o Wonder of U, que tenta refleti-las com sua bengala. Entretanto, uma das bolhas acerta Wonder of U e fere sua cabeça, chocando o Stand.",
+          "Soft & Wet: Go Beyond",
+          "Kei Nijimura entra dentro da sala mortalmente ferida mas apesar disso, Toru considera que Josuke ainda é perigoso de mais para se aproximar. Wonder of U então sai da sala. Ele vai em direção do elevador e nota que Josuke está o perseguindo. Confiante de que ele estará seguro, Wonder of U zomba de Josuke antes de entrar no elevador mas Josuke se prepara para disparar uma bola no Stand. Entretanto, Wonder of U já havia esperado por isso e lança um inseto de pedra chamado Ob-La-Di, Ob-La-Da que reflete a bolha e se prende em Josuke. Wonder of U entra no elevador. Enquanto Ob-La-Di, Ob-La-Da começa a se multiplicar e cobrir Josuke, Wonder of U explica um pouco de sua biologia e provoca Josuke, que agora está coberto pelo inseto. Wonder of U fecha a porta do elevador, mas Paisley Park o hackeia, forçando a porta a se abrir ep ermitindo que Josuke confronte o Stand em alcance de queima-roupa. Josuke dispara uma segunda bolha, mas Ob-La-Di, Ob-La-Da entra no caminho e reflete o segundo tiro novamente. Wonder of U vê Josuke cair, sobrecarregado pelo inseto, mas então uma bolha invisível é disparada da marca de nascença de Josuke e viaja até a residência Higashikata através do Paisley Park de Yasuho. A bolha voa até Toru e o acerta.",
+          "A bolha invisível reaparece dentro do abdômen de Toru, o nocauteando e parando o fluxo de calamidade. De volta no hospital, Wonder of U, aparecendo em seu disfarce de Satoru Akefu, foge de Josuke com um ferimento em seu abdômen e é abordado por duas enfermeiras. Entretanto, eles são bloqueados por um carrinho por causa de sua tentativa de perseguir \"Akefu\". Ao mesmo tempo, Toru come a outra planta Locacaca restante e corre em direção de Yasuho mas é lançado voando por outra bolha invisível, aterrissando em um carro dentro da garagem onde uma Kaato Higashikata em lágrimas está presente.",
+          "Enquanto Toru rasteja, Kaato chora. Ela começa a exlicar a comida favorita de seu filho enquanto Yasuho a avisa sobre Toru ter comido a Locacaca. Toru começa a lentamente se levantar, e provoca Kaato sobre a morte de seu filho e seu legado como um assassino cruel. Essa tentativa de manipulá-la a persegui-lo falha, e Kaato começa a usar seuSpace Trucking para prendê-lo ao chão. Wonder of U se manifesta no ar compartilhando as mesmas feridas que Toru sinalizando o começo de uma calamidade. Kaato lentamente revela suas intenções verdadeiras, e liberta Tsurugi Higashikata para realizar uma troca no corpo de Toru. Wonder of U começa a voar diretamente atrás de Kaato enquanto Toru e Tsurugi fazem contato.",
+          "Enquanto a troca começa e Toru lentamente se despedaça, Kaato revela que ela esmagou os galhos da Nova Locacaca e pôs o suco na boca de Tsurugi. Wonder of U se manifesta atrás dela e tenta atacá-la mas lentamente se despedaça junto de Toru. A troca tem sucesso e ambos são aparentemente eliminados. Entretanto, devido a sua natureza, o Wonder of U se manifesta novamente na boca de Norisuke, tentando matá-lo com a energia da calamidade. Isso falha quando Josuke Higashikata chega e o elimina com o Soft & Wet: Go Beyond, acabando com a calamidadey."
+        ],
+        "Quotes": []
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Wonder_of_U/avatar-anime-parte8.png",
+        "avatarManga": "assets/stands/Wonder_of_U/avatar-manga-parte8.png",
+        "infobox": [
+          "assets/stands/Wonder_of_U/Wonder_of_U_Hybrid_Infobox_Manga.png",
+          "assets/stands/Wonder_of_U/Wonder_of_U_Infobox_Manga.png",
+          "assets/stands/Wonder_of_U/Satoru_Akefu_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Fun Fun Fun",
+      "nomeWiki": "Fun Fun Fun",
+      "pagina": "/Fun_Fun_Fun",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Ojiro Sasame",
+          "pagina": "/Ojiro_Sasame"
+        }
+      ],
+      "resumo": "Fun Fun Fun (ファン・ファン・ファン, Fan Fan Fan) é o Stand de Ojiro Sasame, na oitaa parte de JoJo's Bizarre Adventure, JoJolion. Quando Ojiro fica acima de alguém e seus membros são feridos, o Fun Fun Fun marca o membro ferido e pode controlá-lo.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ファン・ファン・ファン",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Fan Fan Fan",
+          "links": []
+        },
+        "user": {
+          "texto": "Ojiro Sasame",
+          "links": [
+            {
+              "nome": "Ojiro Sasame",
+              "pagina": "/Ojiro_Sasame/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Fun, Fun, Fun (Música dos Beach Boys)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Não Humanoide Natural",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Não Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Naturais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 3 (Habilidade apenas) | JJL Capítulo 5",
+          "links": [
+            {
+              "nome": "JJL Capítulo 3",
+              "pagina": "/JJL_Chapter_3/pt-br"
+            },
+            {
+              "nome": "JJL Capítulo 5",
+              "pagina": "/JJL_Chapter_5/pt-br"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoEVelocidadeCAlcanceDPersistênciaAPrecisãoEPotencialEABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "D",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "E",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "D"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Fun Fun Fun possui uma cabeça no formato de um sino, com linhas verticais, e um tronco humanoide; sua cintura completamente atrofiada. Em seus quadris ficam pendurados quatro pequenos vestígios de pernas, enquanto ele fica de pé em quatro longas pernas que dobram ou gavinhas saindo de seus ombros; com quatro finas e afiadas ombreiras. Duas peças em formato de Q ficam em sua cabeça, em direção de seus lados, com duas peças menores em seus colarinhos, um grande no centro de seu peito, e um pequeno na fivela de um grosso cinto com rebites que fica solto em seus quadris.",
+          "Ele tem a imagem de um estetoscópio, já que ele ouve para descobrir o que está acontecendo no piso abaixo dele. Sua cabeça é baseada em um espremedor de limão.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Pela habilidade do Fun Fun Fun ser difícil de preparar, e ele nao ter nenhuma habilidade física, ele é inadequado para o combate. Ojiro tipicamente usa seu Stand para tormentar pessoas normais, ep refere montar aramadilhas para assumir controle de um inimigo.",
+          "Marionetismo Corporal",
+          "Por cima de outras pessoas, o Fun Fun Fun pode controlar os movimentos de seu alvo através de seus ferimentos, como com uma marionete.",
+          "Se um alvo sofrer o ferimento mais minímo que seja em seu corpo enquanto estando fisicamente abaixo do Fun Fun Fun, notavelmente as mãos ou pés, o sangue fluíndo do ferimento se coágulo para formar um símbolo no formato de um \"Q\". O membro ferido correspondente então cai sobre o controle de Ojiro, permitindo com que ele se mexa como desejar. Se uma marca acumular todos os quatro membros da vítima, a vítima fica essencialmente sobre o controle absoluto de Ojiro. Independente disso,a vítima ainda pode livremente falar e mexer as outras partes não-marcas de seu corpo como os ombros. Além disso, assim qeu Ojiro assume controle completo de uma vítima, ela ficará presa abaixo dele e o seguirá caso ele se mexa.",
+          "As marcas parecem saltar e agir como pinos sempre que Ojiro estiver prendendo uma vítima.",
+          "As marcas na parte ferida do corpo ganham volume quando Ojiro ativamente controla um alvo.",
+          "Ojiro ode tirar uma vítima de seu controle à seu bel prazer, removendo suas marcas. Outra maneira da vítima ser completamente liberta e livrada de suas marcas é caso Ojiro não esteja mais acima dela.",
+          "No entanto, Ojiro deve estar fisicamente acima de suas vítimas para controlá-las e estar consciente disso. Pode-se ficar acima dele com todos os membros marcados e ser liberto de esu movimento caos Ojiro perca o rastro de sua posição (por exemplo, Josuke fez a sala na qual ele estava preso ficar à prova de som para confundir Ojiro). Um ferimento não se transforma em um símbolo a menos que Ojiro esteja acima da vítima.",
+          "Quando Ojiro volta mais tarde, o Fun Fun Fun é capaz de pôr sua marca nos membros de sua vítima ao tocá-la sem precisar antes feri-la."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Fun_Fun_Fun/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Fun_Fun_Fun/Fun_Fun_Fun_Infobox_Manga.PNG"
+        ]
+      }
+    },
+    {
+      "nome": "Les Feuilles",
+      "nomeWiki": "Les Feuilles",
+      "pagina": "/Les_Feuilles",
+      "parte": 8,
+      "usuarios": [],
+      "resumo": "Les Feuilles (オータム・リーブス, Ōtamu Rībusu)[N.T. 1] é o Stand pertencente às árvores Gingko biloba localizadas na Rua da Extorsão na oitava parte de JoJo's Bizarre Adventure, JoJolion. Esse Stand é uma colônia de pequenas criaturas habitando as folhas caídas das árvores, e pode instantaneamente transportar itens e pessoas pelos caminhos criados pelas folhas.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "オータム・リーブス",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Ōtamu Rībusu",
+          "links": []
+        },
+        "user": {
+          "texto": "Shakedown Road",
+          "links": [
+            {
+              "nome": "Shakedown Road",
+              "pagina": "/Shakedown_Road"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Autumn Leaves (Álbum e música de Bill Evans)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automático | Não Humanoide Natural | Colônia",
+          "links": [
+            {
+              "nome": "Automático",
+              "pagina": "/Stand_Types/pt-br#Stands_Automáticos"
+            },
+            {
+              "nome": "Não Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Naturais"
+            },
+            {
+              "nome": "Colônia",
+              "pagina": "/Stand_Types/pt-br#Stands_Colônia"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 18",
+          "links": [
+            {
+              "nome": "JJL Capítulo 18",
+              "pagina": "/JJL_Chapter_18/pt-br"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Os Les Feuilles são uma colônia de pequenos Stands que aparecem como criaturas achatadas e redondas com cabeças cilíndricas e pés suctivos, eles são pequenos o suficiente para vários deles grudarem-se embaixo de folhas. Eles todos tem padrões de pontos, e o número 11 em perpendicular em suas cabeças.",
+          "Les Feuilles só se manifestam na Rua da Extorsão, abaixo das folhas de árvores Gingko biloba.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Os Les Feuilles são um Stand incomum no fato deles não terem um usuário de verdade, e qualquer um pode usar suas ações para sua vantagem caso saibam como. Eles não mostram habilidade de combate alguma, mas são extremamente úteis aos moradores da Rua da Extorsão para prepararr crimes.",
+          "Transporte",
+          "Les Feuilles se escondem embaixo das folhas caídas de ginkgo na rua e calçada. Se folhas o suficiente se conectam para formar um caminho, qualquer coisa e qualquer um que toqeu nas folhas será instantaneamente transportado de um canto do caminho para outro.",
+          "O transporte é incrivelmente rápido, sendo pelo menos mais rápido do que o olho pode ver. Além disso, caso alguém que não saiba sobre o Stand pise nas folhas, ele pode ser transportado sem seu conhecimento. No entanto, uma câmera pode ser rápida o suficiente para gravar o fenômeno. Enquanto um objeto é transportado, é possível interceptá-lo ao pisar no caminho tomado, logo o cortando e fazendo o objeto aparecer em seus pés.",
+          "O povo da Rua da Extorsão tipicamente prepara caminhos para fazer uma pessoa danificar uma posse e então ser pressionada a compensar a vítima com dinheiro. Os Les Feuilles também podem ser usados para sorrateiramente transportar objetos. Alguém usou a Rua da Extorsão para habilidosamente transportar-se em alta velocidade, por exemplo três marginais conseguiram alcançar Joshu apesar dele ter uma vantagem considerável."
+        ],
+        "History": [
+          "Les Feuilles são mostrados já existirem em 1901. De acordo com o conto do Veterano da Rua da Extorsão da lenda de Johnny Joestar, eles foram a causa de Johnny ter tido sua cabeça esmagada por uma grande rocha.",
+          "Nos dias atuais, eles são usados pelos habitantes da Rua da Extorsão para extorquir pessoas, tendo os conhecido por várias gerações. Josuke e Joshu tem um encontro com os golpistas na rua e os dois descobrem a existência dos Les Feuilles, entretanto eles só conseguem pagar as dívida forçadas sobre eles, e deixam a rua com seu status quo intacto."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Les_Feuilles/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Les_Feuilles/Les_Feuilles_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "I Am a Rock",
+      "nomeWiki": "I Am a Rock",
+      "pagina": "/I_Am_a_Rock",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Yotsuyu Yagiyama",
+          "pagina": "/Yotsuyu_Yagiyama"
+        }
+      ],
+      "resumo": "I Am a Rock (アイ・アム・ア・ロック, Ai Amu a Rokku) is the Stand of Yotsuyu Yagiyama, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "アイ・アム・ア・ロック",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Ai Amu a Rokku",
+          "links": []
+        },
+        "engname": {
+          "texto": "I, Rock (Eyes of Heaven)",
+          "links": [
+            {
+              "nome": "Eyes of Heaven",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "user": {
+          "texto": "Yotsuyu Yagiyama",
+          "links": [
+            {
+              "nome": "Yotsuyu Yagiyama",
+              "pagina": "/Yotsuyu_Yagiyama"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "I Am a Rock (Simon & Garfunkel song)[a]",
+          "links": []
+        },
+        "type": {
+          "texto": "Close-Range | Artificial Humanoid",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Artificial Humanoid",
+              "pagina": "/Stand_Types#Artificial_Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 26",
+          "links": [
+            {
+              "nome": "JJL Chapter 26",
+              "pagina": "/JJL_Chapter_26"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "JJL Chapter 31",
+          "links": [
+            {
+              "nome": "JJL Chapter 31",
+              "pagina": "/JJL_Chapter_31"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "I Am a Rock is an artificial humanoid Stand that is about as tall as Yotsuyu. Its face has segmented eyes with visible muscles around it, a horizontal line underneath each eye, no nose, and a frowning mouth. It has a bald head covered in spikes all around the top and sides. Behind its head, it has a capsule-shaped hood-like helmet which is also covered in spikes. Its neck has a high collar with a circular emblem attached in the middle, having a single spike in the center.",
+          "I Am a Rock has long shoulder pads attached to its torso, with evenly-spaced spikes on top of them. Resembling bones, its shoulders and upper arms are extremely thin, although its forearms are wider. It has an oval-shaped torso that is lighter on its sides and back, also having several spikes covering it.",
+          "It has a thin waist with bone-like wires on the sides connecting its torso to its lower body. The Stand's legs appear to be in the shape of hammer pants. The upper center of its pelvis has a circular emblem with a symbol resembling the letter \"H\" and a thin zipper running below it.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "I Am a Rock is a close-range Stand, unable to travel far from Yotsuyu and with a short ability range. In terms of speed and power, this Stand is capable of overpowering a human like Karera Sakunami. However, despite Yotsuyu's confidence in a frontal assault against Josuke, Soft & Wet is able to overwhelm I Am a Rock in a fistfight.",
+          "Thus, Yotsuyu prefers to let his Stand's ability kill the target rather than openly confront them.",
+          "Selective Attraction",
+          "When Yotsuyu touches someone, the victim begins to naturally attract specific objects toward them.",
+          "After being touched, the victim will have objects slowly converging toward them with exponential speed and strength as the objects approach. The objects will eventually come in contact with the victim and push into the flesh toward the center of the body. Every time the power is activated, the victim will attract only one type of object, for instance, flower pots, chestnuts, or liquid pesticide. The converging is inexorable; breaking the objects only results in more pieces digging themselves into the victim and the strength of the attraction is important, thus it is impossible to simply push away the objects. Yotsuyu can affect several people at the same time with the same type of object or affect himself, although he is then able to toggle the ability. Yotsuyu can choose what kind of object will be attracted to the victim.",
+          "Because of the great power of this ability, I Am a Rock also possesses a small range of 5 to 10 meters, and it is possible to exit the range of its ability to escape.",
+          "Yotsuyu typically attacks someone by using I Am a Rock in conjunction with his Rock Human physiology. By hiding in the landscape as a rock and then stealthily touching someone, he can simply wait until the victim is overwhelmed by the converging items and repeat the process if it fails."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/I_Am_a_Rock/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/I_Am_a_Rock/I_Am_a_Rock_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Doobie Wah!",
+      "nomeWiki": "Doobie Wah!",
+      "pagina": "/Doobie_Wah!",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Aisho Dainenjiyama",
+          "pagina": "/Aisho_Dainenjiyama"
+        }
+      ],
+      "resumo": "Doobie Wah! (ドゥービー・ワゥ！, Dūbī Wau!) is the Stand of Aisho Dainenjiyama, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ドゥービー・ワゥ！",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Dūbī Wau!",
+          "links": []
+        },
+        "user": {
+          "texto": "Aisho Dainenjiyama",
+          "links": [
+            {
+              "nome": "Aisho Dainenjiyama",
+              "pagina": "/Aisho_Dainenjiyama"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Doobie Wah (Peter Frampton song)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automatic | Artificial Non-Humanoid | Natural Non-Humanoid (Vortex)",
+          "links": [
+            {
+              "nome": "Automatic",
+              "pagina": "/Stand_Types#Automatic_Stands"
+            },
+            {
+              "nome": "Artificial Non-Humanoid",
+              "pagina": "/Stand_Types#Artificial_Non-Humanoid_Stands"
+            },
+            {
+              "nome": "Natural Non-Humanoid",
+              "pagina": "/Stand_Types#Natural_Non-Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 40",
+          "links": [
+            {
+              "nome": "JJL Chapter 40",
+              "pagina": "/JJL_Chapter_40"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Doobie Wah! manifests as a vaguely humanoid Stand lacking a lower body and disproportionately long arms, with bladed index fingers. Doobie Wah!'s arms are wrapped in cloth, and pads stick out from its shoulders. Its body is cone-shaped, resembling a tornado, and at the center of its chest is a hole.",
+          "Doobie Wah!'s head is wrapped in cloth, with spikes jutting out from it, and what resembles a crown sticks out from its head. Doobie Wah! has a single eye at the center of its head, resembling the hole in the center of its chest.",
+          "Doobie Wah! appears inside of the vortexes that it creates, which can change its size and shape to pursue its targets.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Doobie Wah! is a powerful automatic Stand that relentlessly pursues its target no matter how far they are from him but with a straightforward power. Because of its power, it is more suitable for Aisho to sic it on an enemy and simply wait until it kills them than openly confront them.",
+          "Pursuing Vortex",
+          "Doobie Wah! manifests itself inside a small but highly destructive tornado and implacably pursues a target.",
+          "When Aisho touches someone, or at least touches their Stand, he is able to make Doobie Wah! automatically pursue and attack the target(s).",
+          "Doobie Wah! materializes itself near the target through their exhalation, which gathers and forms a small tornado on which Doobie Wah! hides. If the target manages to escape a tornado, Doobie Wah! will use their breath to appear near them again. Thus escaping Doobie Wah! is impossible, as it will keep appearing unless the target wants to hold their breath indefinitely. It is possible for the target to hide their presence from Doobie Wah! by holding their breath, and even stay inside the vortex, but it is only a temporary measure. Attacking the tornado also doesn't harm Doobie Wah!, thus people cannot defend themselves either. The only option is to flee or attack Aisho.",
+          "The vortex itself is strong enough to cut the flesh and destroy objects such as a laptop, at least when Doobie Wah! is consciously attacking. The vortex will also increase in size as long as it is materialized by using the target's breath to feed itself, but getting separated from the target such as having a sealed window between it and the victim will make the tornado weaken and disappear. Doobie Wah! can also claw at its victim from inside the whirlwind.",
+          "Doobie Wah! is able to pursue multiple targets, notably manifesting from both Tsurugi and Yasuho's exhalations after Aisho stepped on their combined Stands."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Doobie_Wah_/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Doobie_Wah_/Doobie_Wah!_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Schott Key No.1",
+      "nomeWiki": "Schott Key No.1",
+      "pagina": "/Schott_Key_No.1",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Elder A. Phex Brother",
+          "pagina": "/A._Phex_Brothers"
+        }
+      ],
+      "resumo": "Schott Key No.1 (ショット・キーNo.1(ナンバーワン), Shotto Kī Nanbā Wan) is the Stand of the elder A. Phex Brother, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ショット・キーNo.1(ナンバーワン)",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Shotto Kī Nanbā Wan",
+          "links": []
+        },
+        "user": {
+          "texto": "Elder A. Phex Brother",
+          "links": [
+            {
+              "nome": "Elder A. Phex Brother",
+              "pagina": "/A._Phex_Brothers"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Schottkey 7th Path (Aphex Twin song)",
+          "links": []
+        },
+        "type": {
+          "texto": "Range Irrelevant | Integrated | Natural Non-Humanoid",
+          "links": [
+            {
+              "nome": "Range Irrelevant",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Integrated",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Natural Non-Humanoid",
+              "pagina": "/Stand_Types#Natural_Non-Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 44",
+          "links": [
+            {
+              "nome": "JJL Chapter 44",
+              "pagina": "/JJL_Chapter_44"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "The Stand resides in the right hand of the elder A. Phex Brother, which has deformed it into a rocky stump that has a spiral pattern around the wrist.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Schott Key No. 1 is an ability Stand and thus has no physical power to speak of. Although its power may be useful in close combat, it has limited offensive ability. The elder A. Phex brother relies on the environment or Schott Key No.2 to be able to attack and is defenseless against other conventional Stands.",
+          "Left Hand-Right Hand Transfer",
+          "Schott Key No.1 allows the elder A. Phex brother to transfer objects he touches with his left hand to be transferred to the rocky stub where his right hand used to be.",
+          "The objects transferred between hands seem to crumble away like rock and recomposes near the right stub, enabling the elder to slightly displace objects. Schott Key No. 1 can transfer anything regardless of physical state: it could transfer a metal handcuff, a hand (indirectly forcing the arm to move), liquid gas, wires, or even glass. The elder brother can make it so the transferred object materializes in a manner advantageous to him, for instance, causing straight wires to appear directly binding an enemy.",
+          "The elder may perform a combination attack with his younger brother's Stand Schott Key No.2, putting his left hand inside the soccer ball to transfer Schott Key No.2's toxic gas through his hand."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Schott_Key_No.1/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Schott_Key_No.1/Schott_Key_No.1_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Schott Key No.2",
+      "nomeWiki": "Schott Key No.2",
+      "pagina": "/Schott_Key_No.2",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Younger A. Phex Brother",
+          "pagina": "/A._Phex_Brothers"
+        }
+      ],
+      "resumo": "Schott Key No.2 (ショット・キーNo.2(ナンバーツー), Shotto Kī Nanbā Tsū) is the Stand of the younger A. Phex Brother, featured in the eighth part of the JoJo's Bizarre Adventure series, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ショット・キーNo.2(ナンバーツー)",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Shotto Kī Nanbā Tsū",
+          "links": []
+        },
+        "user": {
+          "texto": "Younger A. Phex Brother",
+          "links": [
+            {
+              "nome": "Younger A. Phex Brother",
+              "pagina": "/A._Phex_Brothers"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Schottkey 7th Path (Aphex Twin song)",
+          "links": []
+        },
+        "type": {
+          "texto": "Close-Range | Automatic | Natural Non-Humanoid",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Automatic",
+              "pagina": "/Stand_Types#Automatic_Stands"
+            },
+            {
+              "nome": "Natural Non-Humanoid",
+              "pagina": "/Stand_Types#Natural_Non-Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Chapter 46",
+          "links": [
+            {
+              "nome": "JJL Chapter 46",
+              "pagina": "/JJL_Chapter_46"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Schott Key No.2 is a small doll-like Stand made of a dark poisonous gas. It is vaguely humanoid, its head stuck to a bubbling amorphous body, with triangle-shaped marks on the head and four similarly marked antennae protruding from the top of the head.",
+          "It is kept contained within the younger A. Phex brother's soccerball (football).",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Schott Key No.2 is an automatic Stand with a straightforward and deadly poison ability but with no shown physical power. Thus it is impractical to use in direct combat.",
+          "To seal Schott Key No. 2, the younger brother must keep it hidden inside his soccerball. Fortunately for the A. Phex Brothers, the younger can expertly manipulate the ball with his body to juggle and attack.",
+          "Toxic Gas",
+          "Schott Key No.2 constantly releases a toxic gas, the strength of which is not shown in full.",
+          "The gas is potent enough to burn Josuke's skin on contact and a brief exposure made it difficult for him to breathe, and at full exposure, it can kill a person.",
+          "The younger A. Phex brother is notably not immune to his own poison. Thus he hides his Stand inside a soccerball which he throws or kicks at the enemy. Schott Key No.2's attack range is about 20 cm (7.8 inches) from inside the ball, although its gas can disperse at a further distance.",
+          "Schott Key No.2 can be used in combination with Schott Key No.1, as the elder A. Phex Brother can touch the zipper on the soccer ball with his left hand to spread Schott Key No.2's toxic gas with his right hand."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Schott_Key_No.2/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Schott_Key_No.2/Schott_Key_No.2_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Vitamin C",
+      "nomeWiki": "Vitamin C",
+      "pagina": "/Vitamin_C",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Tamaki Damo",
+          "pagina": "/Tamaki_Damo"
+        }
+      ],
+      "resumo": "Vitamin C (ビタミンC, Bitamin Shī) é o Stand pertencente a Tamaki Damo, apresentado na oitava parte de JoJo's Bizarre Adventure de JoJolion. Ele é um Stand tentaculoso com um padrão de mãos. Quando alguém toca nas impressões que ele deixa, a vítima será amaciada ao ponto de liquidificação desde que eles permaneçam dentro do alcance.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ビタミンC",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Bitamin Shī",
+          "links": []
+        },
+        "user": {
+          "texto": "Tamaki Damo",
+          "links": [
+            {
+              "nome": "Tamaki Damo",
+              "pagina": "/Tamaki_Damo/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Vitamin C (Música do Can)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Não Humanoide Natural",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Não Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Naturais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 47",
+          "links": [
+            {
+              "nome": "JJL Capítulo 47",
+              "pagina": "/JJL_Chapter_47"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Vitamin C aparece inicialmente como impressões digitais que são deixadas em o que quer que Damo toque e pode se espalhar para outras coisas como bactérias. Quando confrontando Norisuke IV e Josuke sozinho, Tamaki Damo revela mais do Vitamin C.",
+          "Ele tem uma cabeça vagamente humanoide com chifres de bobo da corte para baixo, semelhantes ao King Nothing, com uma marca de mão lembrando a logo da Lucky Land em seu rosto. O resto do objeto abaixo de seus ombros consiste de uma massa de tentáculos rastejantes em formato de mãos, lembrando uma água-vivas. Ele é coberto por objetos em formato de porcas, alguns deles lembrando a letra C.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Vitamin C é um Stand aterrorizante em curto-alcance e em espaços apertados por causa de seu poder amaciante que deixa todos indefesos diante de Damo. O Vitamin C não mostra habilidades físicas excepcionais, mas é no mínimo capaz de socar uma pessoa amaciada em uma parede. Vitamin C também mostrou ter uma agilidade excepcional, capaz de facilmente ser mais rápido que o Killer Queen, vários Sheer Heart Attacks e até mesmo o Soft & Wet.",
+          "No entanto, ele tem um curto alcance, deixando Damo vulnerável a ataques de longe.",
+          "Amaciamento Orgânico",
+          "A habilidade principal do Vitamin C é \"amaciar\" os tecidos de seres vivos, os derretendo em um estado líquido.",
+          "Vitamin C e Damo podem deixar impressões digitais pouco nítidas em qualquer superfície, e com as várias mãos do Vitamin C, isso resulta em cômodos inteiros sendo cobertos pelas impressões. As impressões parecem serem feitas de uma substância mole que pessoas conseguem notar.",
+          "Qualquer, até mesmo Stands, que tocam nas impressões digitais serão amaciados, assumindo a característica de um líquido e se tornando elásticos. Pessoas perdem sua consistência e tipicamente derretem em uma poça de carne com o tempo. Se torna fácil para Damo inserir objetos aleatórios em suas vítimas e até cortá-las. Ele notavelmente corta membros e órgãos de suas vítimas amaciadas com uma nota de 1,000 ienes. Nesse estado, as vítimas ficam incapazes de se mover ou atacar, já que qualquer impacto faz com que eles percam sua coerência. Logo eles ficam indefesos, e Damo livre para tormentá-los e matá-los. Damo parece ser capaz de modificar a velocidade com a qual pessoas são amaciadas. Joshu foi amaciado por um período considerável enquanto Hato foi reduzida a um líquido quase imediatamente quando Damo a atacou.",
+          "A fraqueza da habilidade de amaciamento é que ela tem um alcance muito curto, aparentemente restringido a uma única área fechada como um barco pequeno ou uma casa. Se alguém afetado pela habilidade sair do alcance do Vitamin C, seus efeitos dispersam imediatamente."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Vitamin_C/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Vitamin_C/Vitamin_C_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Milagroman",
+      "nomeWiki": "Milagroman",
+      "pagina": "/Milagroman",
+      "parte": 8,
+      "usuarios": [],
+      "resumo": "Milagroman (ミラグロマン, Miraguroman) é o Stand que pertencia à um vendedor de armas não nomeado desconhecido e falecido, na oitava parte de JoJo's Bizarre Adventure, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ミラグロマン",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Miraguroman",
+          "links": []
+        },
+        "user": {
+          "texto": "Usuário do Milagroman (originalmente) | Joshu Higashikata (temporariamente) | Zaihei Nigatake",
+          "links": [
+            {
+              "nome": "Usuário do Milagroman",
+              "pagina": "/Milagroman%27s_User"
+            },
+            {
+              "nome": "Joshu Higashikata",
+              "pagina": "/Joshu_Higashikata/pt-br"
+            },
+            {
+              "nome": "Zaihei Nigatake",
+              "pagina": "/Zaihei_Nigatake"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Milagro: \"milagre\" em espanhol | Milagro (Música e álbum do Santana) | Miracle Man (Música de Elvis Costello) | Miracle Man (Música de Ozzy Osbourne)",
+          "links": []
+        },
+        "type": {
+          "texto": "Alcance Irrelevante | Humanoide Artificial | Compartilhado",
+          "links": [
+            {
+              "nome": "Alcance Irrelevante",
+              "pagina": "/Stand_Types/pt-br#Stands_com_Alcance_Irrelevante"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            },
+            {
+              "nome": "Compartilhado",
+              "pagina": "/Stand_Types/pt-br#Stands_Compartilhados"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 56",
+          "links": [
+            {
+              "nome": "JJL Capítulo 56",
+              "pagina": "/JJL_Chapter_56"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Milagroman é um Stand humanoide artificial com uma cintura fina e quadris grandes, tendo uma aparência andrógina. Sua cabeça tem bulbos em cada lado e não tem um rosto, tendo um grande buraco no centro em vez disso. O buraco e seus bulbos tem formatos circulares com finas linhas em volta deles. Sua testa e queixo tem grandes vincos que são mais escuros que o resto de seu rosto. O pescoço do Stand é segmentado e tem vários pequenos círculos em cada segmento, fazendo parecer como se ele estivesse usando três gargantilhas.",
+          "Seu corpo tem o padrão de finos triângulos apontados para cima que são um pouco curvados. Tem três chifres triangulares saíndo de seus ombros e um saíndo de seus antebraços perto de seus cotovelos. Seus bíceps, antebraços, e coxas superiores tem pequenos buracos triangulares, enquanto o centro de suas mãos tem grandes buracos circulares como em sua cabeça. Seus punhos tem três espinhos triangulares salientes. Enquanto a maioria do corpo do Milagroman é claro em cor, a região de sua cintura e pelvis são particularmente escuras.",
+          "Nenhuma das notas que o Milagroman gera são exatamente idênticas, mas todas possuem um número de série acabando em \"13\". As notas de certos paises como o Japão tem um número de série que acaba em \"13R\".",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Manipulação Monetária",
+          "A história da maldição do Milagroman se origina de sua habilidade. No seu mais básico, o Stand pdoe criar e duplicar dinheiro, com o número de série mudando dependendo do país no qual o dinheiro do Stand se encontra. O dinheiro parece ser gerado dos cantos de outras notas, e também do puro ar.",
+          "Qualquer um aflito pelo poder do Milagroman através do simples toque irá constantemente ganhar dinheiro até serem literalmente soterrados em dinheiro, eventualmente resultando em sua morte devido a esmagamento ou asfixia. Não importa o quanto seu usuário tente gastar ou destruir o dinheiro, ele voltará a ele e ele irá de alguma maneira receber mais dinheiro do que eles originalmente gastaram. A única maneira de escapar do poder do Milagroman é devolver o dinheiro ao usuário anterior ou ter o dinheiro destruído por outra pessoa, depois do qual o Milagroman é transferido para a próxima vítima."
+        ],
+        "History": [
+          "Passado",
+          "As origens do Milagroman são misteriosas. De acordo com Zaihei Nigatake, um vendedor de armas que perdeu milhões em um processo enlouqueceu, matou sua família inteira, e ateou fogo à sua mansão, com apenas uma única nota chamuscada deixada intacta. A maldição nascida desse ato hediondo permitiu a criação e perpetuação do Stand.",
+          "Durante um período desconhecido, a maldição foi passada de uma vitima para outra, enquanto o dinheiro continuava mudando de aparência para adequar-se ao propósito de sua vítima.",
+          "Dois anos antes dos eventos de JoJolion, Zaihei Nigatake foi enganado a tomar a maldição do Milagroman quando ele roubou uma nota de €20 da vítima anterior do Stand em Hamburgo, que se disfarçou como uma pessoa sem-teto. Por dois anos, Zaihei viveu em Morioh sob a maldição, não conseguindo passá-la para alguém porque a existência da maldição era um segredo aberto e ninguém podia ser enganado.",
+          "Milagroman",
+          "Quando visitando uma loja de mercadoria de idols, Joshu Higashikata bisbilhota Zaihei Nigatake falando sobre sua idol favorita e não conseguir achar sua carteira. Joshu vê a carteira e usa seu cartão do caixa eletrônico depois de decifrar a senha de Nigatake. Ele então corta o cartão após esvaziar sua conta bancária. Desse ponto para frente, não importa o quanto Joshu tente gastar seu dinheiro, ele é recusado a ser servido e dado mais dinheiro do que ele originalmente planejava gastar. Quando Joshu vai à uma casa noturna e o dono lhe acusa de ser associado ao \"Milagroman\", Joshu fica surpreso em ser dado todo seu dinheiro de volta, e ainda mais.",
+          "Agora com mais de 50 milhões de ienes, Joshu começa a sofrer do efeito do Milagroman e recebe mais dinheiro do que antes e tenta escondê-lo sem sucesso. Em certo ponto, ele percebe que todas as notas bancárias tem os números de série acabando em \"13R\". Joshu finalmente percebe que algo está errado quando até mesmo seu motorista de táxi se recusa a levá-lo para casa e ser pago após encontrar um trânsito ruim. Joshu força o dinheiro no motorista, acidentalmente batendo num isqueiro no bolso do homem e queimando uma das notas, fazendo com que o dinheiro assuma um formato humanoide e o enterre. Na manhã seguinte, Joshu desperta em casa no sofá da sala de estar sob as ordens de seu pai. Crendo que os eventos da noite passada foram sonhos, ele entra em seu quarto, apenas para ser enterrado vivo por milhões de notas de ienes, todas com o número de série acabando em \"13R\".",
+          "Joshu encontra Nigatake com sucesso, que revela a origem da maldição. Nigatake explica que a única maneira de passar o Milagroman parao utra pessoa é fazer a pessoa roubar dinheiro de você e então destruir uma nota, e então bebe suco. Joshu então revela que ele usou seu Stand, Nut King Call para grudar uma das notas amaldiçoadas no suco de Nigatake abaixo do rótulo que Nigatake acabou de rasgar. Joshu sai enquanto o apartamento de Nigatake é enchido com o dinheiro que Joshu havia sido anteriormente amaldiçoado como resultado do poder do Milagroman"
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Milagroman/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Milagroman/Milagroman_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Blue Hawaii",
+      "nomeWiki": "Blue Hawaii",
+      "pagina": "/Blue_Hawaii",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Dolomite",
+          "pagina": "/Dolomite"
+        }
+      ],
+      "resumo": "Blue Hawaii (ブルー・ハワイ, Burū Hawai) é o Stand de Dolomite, na oitava parte de JoJo's Bizarre Adventure, JoJolion. Ele é um Stand humanoide sem cabeça que toma controle de uma pessoa por vez, dito hospedeiro perseguindo o alvo implacavelmente.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ブルー・ハワイ",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Burū Hawai",
+          "links": []
+        },
+        "user": {
+          "texto": "Dolomite",
+          "links": [
+            {
+              "nome": "Dolomite",
+              "pagina": "/Dolomite/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Blue Hawaii (Álbum de Elvis Presley) | Blue Hawaii (Música de Bing Crosby)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automático | Ataque Psicológico | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Automático",
+              "pagina": "/Stand_Types/pt-br#Stands_Automáticos"
+            },
+            {
+              "nome": "Ataque Psicológico",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Assalto_Psicológico"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 60",
+          "links": [
+            {
+              "nome": "JJL Capítulo 60",
+              "pagina": "/JJL_Chapter_60"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Blue Hawaii se manifesta como um humanoide de proporções estranhas, sem cabeça, com pequenos braços e pés mecânicos tendo quatro digitos pontudos. O corpo do Stand é todo rachado, ossos decoram a parte superior de seu corpo e ele possui uma caveira animalesca em sua virilha; os ossos no corpo do Blue Hawaii se manifestam brevemente dentro do corpo da vítima antes que eles sejam controlados. Os ombros od Blue Hawaii são largos, com dois apêndices saíndo deles lembrando asas.",
+          "Esquemas de Cores"
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Blue_Hawaii/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Blue_Hawaii/Blue_Hawaii_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Brain Storm",
+      "nomeWiki": "Brain Storm",
+      "pagina": "/Brain_Storm",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Urban Guerrilla",
+          "pagina": "/Urban_Guerrilla"
+        }
+      ],
+      "resumo": "Brain Storm (ブレイン・ストーム, Burein Sutōmu) é o Stand de Urban Guerrilla, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion. Ele é uma colônia de pequenos Stands que podem derreter carne quando eles encostam em alguém.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ブレイン・ストーム",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Burein Sutōmu",
+          "links": []
+        },
+        "user": {
+          "texto": "Urban Guerrilla",
+          "links": [
+            {
+              "nome": "Urban Guerrilla",
+              "pagina": "/Urban_Guerrilla/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Brainstorm (Música do Hawkwind)",
+          "links": []
+        },
+        "type": {
+          "texto": "Longo Alcance | Não Humanoide Artificial | Colônia",
+          "links": [
+            {
+              "nome": "Longo Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Longo_Alcance"
+            },
+            {
+              "nome": "Não Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Artificiais"
+            },
+            {
+              "nome": "Colônia",
+              "pagina": "/Stand_Types/pt-br#Stands_Colônia"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 66",
+          "links": [
+            {
+              "nome": "JJL Capítulo 66",
+              "pagina": "/JJL_Chapter_66"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Brain Storm se manifesta como uma colônia de Stands extremamente pequenos em formato de quebra-cabeças burr, de cerca de o tamanho de uma moeda. Membros do Brain Storm tem um apalpador em suas superfícies que eles podem estender um pouco para frente, para penetrar a superfície da pele e aparentemente para locomoção.",
+          "Quando o Brain Storm começa a devorar suas vítimas, os ferimentos de seus furos aparecem como buracos em seus corpos.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Hemolysis",
+          "Brain Storm é um Stand parecido com uma bactéria que Urban Guerrilla envia de suas mãos, que podem derreter a carne de qualquer um que encosta nele. Primeiro, eles agarram a superfície da pele com seus apalpadores. Eles penetram a pele com seus apalpadores e se estendem para dentro do corpo da vítima. O Stand causa hemólise e entra mais fundo no corpo, enquanto também constantemente se multiplicando exponencialmente. Isso faz com que o corpo do alvo seja destruído como se os buracos estivessem sendo cavados nele. Os buracos que o Stand cria no corpo de sua vítima tem a aparência de buracos de crioconita em uma geleira.",
+          "Como Rai Mamezuku aponta, assim que o Stand entrou no corpo ele é impossível de remover, requerindo amputação imediata para evitar a morte. No entanto, o Stand é facilmente removido com água caso ele ainda não tenha adentrado o corpo."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Brain_Storm/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Brain_Storm/Brain_Storm_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Ozon Baby",
+      "nomeWiki": "Ozon Baby",
+      "pagina": "/Ozon_Baby",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Poor Tom",
+          "pagina": "/Poor_Tom"
+        }
+      ],
+      "resumo": "Ozon Baby (オゾン・ベイビー, Ozon Beibī) é o Stand de Poor Tom, na oitava parte de JoJo's Bizarre Adventure, JoJolion.",
+      "infobox": {
+        "image": {
+          "texto": "AtivadoAdormecido",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "オゾン・ベイビー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Ozon Beibī",
+          "links": []
+        },
+        "user": {
+          "texto": "Poor Tom",
+          "links": [
+            {
+              "nome": "Poor Tom",
+              "pagina": "/Poor_Tom/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Ozone Baby | (Música do Led Zeppelin)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automático | Materializado (Inativo) | Não Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Automático",
+              "pagina": "/Stand_Types/pt-br#Stands_Automáticos"
+            },
+            {
+              "nome": "Materializado",
+              "pagina": "/Stand_Types/pt-br#Stands_Materializados"
+            },
+            {
+              "nome": "Não Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 70 | JJL Capítulo 72 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "JJL Capítulo 70",
+              "pagina": "/JJL_Chapter_70"
+            },
+            {
+              "nome": "JJL Capítulo 72",
+              "pagina": "/JJL_Chapter_72"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Enquanto adormecido, o Ozon Baby aparece como uma réplica quase idêntica do modelo de LEGO da Casa Branca 21006.",
+          "Assim que ativado, o Ozon Baby recebe um tronco humanoide porém parte inferior mecânica. O topo de sua cabeça é coberto por um capacete com vários espinhos saíndo dele e com o nome do Stand gravado nele em uma fonte estilizada. Sua cabeça é quadrada e musculosa, com olhos afundados e labios escuros constantemente espichados em um sorriso maníaco, com o uqe parecem ser pequenas tatuagens quadradas alinhadas abaixo de seu labio inferior. O tronco do Stand é coberto por um colete com um colarinho escuro, três botões no peito (depois desenhados apenas como dois), e duas caudas com dois botões maiores em cada lado da cintura.",
+          "Embora os braços superiores do Ozon Baby pareçam mecânicos, eles se tornam mais humanoides do cotovelo para cima. Seus ombros lembram rodamentos com decorações de borlas neles. Seus antebraços são cobertos por tecido e seus dedos possuem unhas longas e afiadas.",
+          "Em vez de pés, suas pernas tem dois pares de rodas na frente e atrás. Em sua virilha há quatro esferas conectadas verticalmente em uma linha reta, com cada esfera sendo menor do que as anteriores.",
+          "Enquanto em seu estado pós-ativado, a forma humanoide do Ozon Baby é meramente uma ilusão usada para intimidar aqueles que ele ataca, e não pode ser ferida ou tocada. Quaisquer tentativas de atacar ou do contrário tocar essa forma meramente passarão pelo Stand como se ele fosse feito de nevoa.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "De acordo com as descobertas de Jobin Higashikata, o Ozon Baby é um Stand automático de longo-alcance, logo possuíndo uma habilidade poderosa sustentável mesmo longe de seu usuário, Poor Tom. No entanto, a proximidade ao próprio Poor Tom dramaticamente aumenta as variações de pressão. Poor Tom revela que seu poder tem uma área de efeito em um raio de 100 metros.",
+          "O poder do Ozon Baby gira em torno de manipular a pressão do ar de uma maneira capaz de cercar uma área. Enterrando a casa de LEGO na terra diminui o efeito da pressão.",
+          "Além dessa despressurização em uma área de efeito, a manifestação física do Ozon Baby pode criar ilusões de si mesmo ou é feito de ar, o tornando invulnerável a ataques normais.",
+          "Manipulação de Pressão",
+          "Ao ser ativado, o Ozon Baby automaticamente começa a causar anomalias da pressão atmosférica. Objetos vazios como recipientes de plástico começam a colapsar em si mesmos, e organismos vivos começam a passar por leves sintomas da despressurização, tais como dor nos ouvidos e sangramento nasal.",
+          "Caso alguém saia de uma sala fechada, a despressurização se torna dramaticamente mais grave. Todo o ar dissolvido dentro dos vasos sanguíneos formam bolhas, causando um sangramento grave nos vasos capilares, notavelmente nos olhos, nariz e orelhas, o que pode debilitar um homem adulto em segundos, e fazer com que seus olhos saíam de suas cavidades oculares. Esse efeito é provável de se provar letal caso a exposição seja prolongada.",
+          "Qualquer sala que é aberta e então fechada recupera sua pressão atmosférica, as paredes e aberturas fechadas agindo como barreiras contra o poder do Ozon Baby. Qualquer vítima sobrevivente conseguindo recuperar a segurança de uma sala fechada pode se recuperar de sua despressurização. No entanto, meramente ficar dentro de um espaço fechado também é perigoso já que a pressão de dentro irá gradualmente aumentar até níveis letais. No seu pior, a pressão esmagadora faz com que o corpo desmorone em si mesmo."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Ozon_Baby/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Ozon_Baby/Ozon_Baby_Stand_Infobox_Manga.png",
+          "assets/stands/Ozon_Baby/Ozon_Baby_House_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Doctor Wu",
+      "nomeWiki": "Doctor Wu",
+      "pagina": "/Doctor_Wu",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Wu Tomoki",
+          "pagina": "/Wu_Tomoki"
+        }
+      ],
+      "resumo": "Doctor Wu (ドクター・ウー, Dokutā Ū) é o Stand de Wu Tomoki, apresentado na oitava parte de JoJo's Bizarre Adventure, JoJolion. Ele é puramente uma habilidade de Stand que permite que Tomoki se decomponha em pequenas partículas.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ドクター・ウー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Dokutā Ū",
+          "links": []
+        },
+        "user": {
+          "texto": "Wu Tomoki",
+          "links": [
+            {
+              "nome": "Wu Tomoki",
+              "pagina": "/Wu_Tomoki/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Doctor Wu (Música do Steely Dan)",
+          "links": []
+        },
+        "type": {
+          "texto": "Alcance Irrelevante | Integrado | Fenômeno",
+          "links": [
+            {
+              "nome": "Alcance Irrelevante",
+              "pagina": "/Stand_Types/pt-br#Stands_com_Alcance_Irrelevante"
+            },
+            {
+              "nome": "Integrado",
+              "pagina": "/Stand_Types/pt-br#Stands_Materializados"
+            },
+            {
+              "nome": "Fenômeno",
+              "pagina": "/Stand_Types/pt-br#Stands_Fenômeno"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "JJL Capítulo 78",
+          "links": [
+            {
+              "nome": "JJL Capítulo 78",
+              "pagina": "/JJL_Chapter_78"
+            }
+          ]
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "Doctor Wu é um Stand integrado que só se manifesta dentro de seu usuário como uma habilidade sobrenatural e por isso não possui uma aparência própria."
+        ],
+        "Abilities": [
+          "Doctor Wu dá a Tomoki uma habilidade útil que o torna tanto elusivo quanto perigoso, já que as partículas nas quais ele se transforma podem ultrapassar as defesas de seus oponentes e são dificéis de atacar. Pelo outro lado, esse mesmo estado granular limita sua habilidade de agir e o torna vulnerável a novos objetos, como ficar preso.",
+          "Transformação em Cascalho",
+          "Doctor Wu permite que Wu Tomoki desfaça seu corpo em várias pequenas pedras independentemente controladas, e então se reconstruir. As próprias partículas não tem nenhum poder além de flutuar com o vento. Nessa forma, Wu pode invadir o corpo de alguém e assumir controle de seus movimentos, assim como controlar seu Stand a um certo grau. Ele se funde com partes do corpo como ossos, ligamentos e tendões. No entanto, parece que essa habilidade de parasitar alguém é ligada a uma pedra em particular agindo como uma guia para o resto dos cascalhos e paralisar suas vítimas ao mesmo tempo.",
+          "Sua forma de cascalho parece induzir uma reação alérgica naqueles que ele ataca caso ela seja inalada, já que ele é essencialmente um corpo diferente. Ele também pode adicionar outras substâncias a sua forma de cascalho, como pílulas de sono, que ele usa para tentar parar Mitsuba Higashikata e Yasuho Hirose."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Doctor_Wu/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Doctor_Wu/Doctor_Wu_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Tusk",
+      "nomeWiki": "Tusk",
+      "pagina": "/Tusk",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Johnny Joestar",
+          "pagina": "/Johnny_Joestar"
+        }
+      ],
+      "resumo": "Tusk (タスク (牙), Tasuku, às vezes escrito como 爪) é o Stand de Johnny Joestar, apresentado na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "Parte 7Parte 8ACT1ACT2ACT3ACT4MangáAnime",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "タスク (牙) / (爪)",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Tasuku",
+          "links": []
+        },
+        "user": {
+          "texto": "Johnny Joestar",
+          "links": [
+            {
+              "nome": "Johnny Joestar",
+              "pagina": "/Johnny_Joestar/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Tusk (Música e álbum de Fleetwood Mac)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Evoluído | ACT1: | Consciente | Não Humanoide Natural | ACT2, ACT3: | Não Humanoide Artificial | ACT4: | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Evoluído",
+              "pagina": "/Stand_Types/pt-br#Stands_Evoluídos"
+            },
+            {
+              "nome": "Consciente",
+              "pagina": "/Stand_Types/pt-br#Stands_Conscientes"
+            },
+            {
+              "nome": "Não Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Naturais"
+            },
+            {
+              "nome": "Não Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Artificiais"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Exposição a Palma do Diabo",
+          "links": [
+            {
+              "nome": "Palma do Diabo",
+              "pagina": "/Devil%27s_Palm/pt-br"
+            }
+          ]
+        },
+        "awakening": {
+          "texto": "26 de setembro de 1890",
+          "links": []
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 19 (Apenas habilidade) | SBR Capítulo 26 (ACT1) | SBR Capítulo 43 (ACT2) | SBR Capítulo 59 (ACT3) | SBR Capítulo 85 (ACT4)",
+          "links": [
+            {
+              "nome": "SBR Capítulo 19",
+              "pagina": "/SBR_Chapter_19"
+            },
+            {
+              "nome": "SBR Capítulo 26",
+              "pagina": "/SBR_Chapter_26"
+            },
+            {
+              "nome": "SBR Capítulo 43",
+              "pagina": "/SBR_Chapter_43"
+            },
+            {
+              "nome": "SBR Capítulo 59",
+              "pagina": "/SBR_Chapter_59"
+            },
+            {
+              "nome": "SBR Capítulo 85",
+              "pagina": "/SBR_Chapter_85"
+            }
+          ]
+        },
+        "animedebut": {
+          "texto": "SBR Episódio 4 (Apenas habilidade) | SBR Episódio 7 (ACT1)",
+          "links": [
+            {
+              "nome": "SBR Episódio 4",
+              "pagina": "/SBR_Episode_4"
+            },
+            {
+              "nome": "SBR Episódio 7",
+              "pagina": "/SBR_Episode_7"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "All-Star Battle",
+          "links": [
+            {
+              "nome": "All-Star Battle",
+              "pagina": "/All-Star_Battle"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Capítulo 27 | SBR Capítulo 86 (Convenção de nomenclatura de ACTs)",
+          "links": [
+            {
+              "nome": "SBR Capítulo 27",
+              "pagina": "/SBR_Chapter_27"
+            },
+            {
+              "nome": "SBR Capítulo 86",
+              "pagina": "/SBR_Chapter_86"
+            }
+          ]
+        },
+        "cry": {
+          "texto": "EnlargeCHUMIMI~N! | (チュミミ～ン!) | EnlargeORAORAORA! | (オラオラオラ!)",
+          "links": []
+        },
+        "seiyuu": {
+          "texto": "Yuki Kaji (ASB/EoH/ASB R)",
+          "links": [
+            {
+              "nome": "Yuki Kaji",
+              "pagina": "/Yuki_Kaji"
+            },
+            {
+              "nome": "ASB",
+              "pagina": "/All-Star_Battle"
+            },
+            {
+              "nome": "EoH",
+              "pagina": "/Eyes_of_Heaven"
+            },
+            {
+              "nome": "ASB R",
+              "pagina": "/All-Star_Battle_R"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "ACT1ACT2ACT3ACT4Poder DestrutivoEVelocidadeEAlcanceEPersistênciaBPrecisãoEPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range E E E Stamina Precision Potential B E A Poder DestrutivoDVelocidadeDAlcanceDPersistênciaCPrecisãoCPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range D D D Stamina Precision Potential C C A Poder DestrutivoDVelocidadeDAlcanceDPersistênciaDPrecisãoCPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range D D D Stamina Precision Potential D C A Poder DestrutivoAVelocidadeBAlcanceCPersistênciaAPrecisãoBPotencialEABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range A B C Stamina Precision Potential A B E",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "E",
+          "links": []
+        },
+        "range": {
+          "texto": "E",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "A",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E",
+          "D",
+          "D",
+          "A"
+        ],
+        "speed": [
+          "E",
+          "D",
+          "D",
+          "B"
+        ],
+        "range": [
+          "E",
+          "D",
+          "D",
+          "C"
+        ],
+        "stamina": [
+          "B",
+          "C",
+          "D",
+          "A"
+        ],
+        "precision": [
+          "E",
+          "C",
+          "C",
+          "B"
+        ],
+        "potential": [
+          "A",
+          "A",
+          "A",
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Inicialmente chamado apenas de \"Tusk\" por ser a primeira forma que Johnny viu, Tusk ACT1 é a forma base do Stand. Ele é referido como o guardião do Braço Esquerdo do Cadáver Santo. ACT1 se assemelha a um pequeno animal neotênico. Sua cabeça é de tamanho igual ou um pouco maior que o de seu corpo, e ele flutua com dois curtos e inarticulados braços e uma única perna. Sua frente é marcada um tanto irregularmente por pequenas estrelas, atrás de círculos escuros que radiam seus pontos; enquanto quatro gavinhas saem da base de seu tronco até a aproximada altura de sua perna, tendo formatos de coração.",
+          "Em sua cabeça, ele possui duas longas orelhas de mamífero; pequenos e refletivos olhos negros sob um cenho preocupado; uma grande estrela no topo de sua testa, atrás da qual um círculo escuro radia aos seus pontos, e do centro do qual um fio liga à ponta de um cone ligado a região de seu nariz. Oito vestígios emanam de sua cabeça lateralmente: Dois em cima; quatro de seus lados, o mais baixo estando nas bochechas, e também cercados por um círculo escuro; e um dos dois lados de seu queixo. Ele foi criado com um axolote em mente.",
+          "Tusk ACT2 é a primeira forma evoluído do Tusk, acessado quando Johnny faz progresso na técnica da rotação e usa o Retângulo de Ouro. Mecanicamente, o ACT2 possui um tronco e braços robustos, de proporção maior que sua cabeça. De sua cabeça são pendurados dois objetos em formato de barril. Uma unidade em formato de barril com o tamanho de sua cabeça é segurada na base de uma curta e plana coluna. Araki adicionou alguns elementos para deixar incerto se ele é um animal ou uma máquina, como um Stand tradicional.",
+          "Tusk ACT3 é a segunda evolução do Tusk, desbloqueada quando Johnny presencia Jesus Cristo o aconselhando e encontra uma determinação de vida renovada. Embora ele seja distintamente mais humano em forma, sua cabeça ainda é presa ao seu corpo. O ACT3 tem espinhos afiados saindo dos dois lados de baixo de cada um de seus pés triangulares e pequenas mãos em forma de disco. Em seus escuros ombros esféricos ele possui uma grande estrela; e de seu lábio superior até as costas de sua cabeça cruza uma grande protrusão lembrando um moicano.",
+          "Tusk ACT4 é a última evolução do Tusk, acessada apenas quando Johnny usa a Rotação áurea. O ACT4 tem um formato humanoide e porte largo ou quadrado; com pernas, braços, mãos e dedos articulados. Sua cabeça é montada na frente de seu peito, e da parte de baixo de seu peito até seus joelhos há uma vestimenta composta de fios em formato de elipses verticais. Como Johnny, ele tem uma ferradura de cavalo em sua testa. O interior de seu corpo-cortina é vazio, e seu rosto pode se mexer como o olho singular do MS-05 Zaku I de Mobile Suit Gundam.",
+          "Esquemas de Cores"
+        ],
+        "Personality": [
+          "Tusk ACT1 possui uma consciência separada da de Johnny, já que ele é o espírito guardião do Cadáver do Santo. Ele decide aparecer diante de Johnny e ajudá-lo independentemente. O ACT1 ocasionalmente produz o som \"chumimi~in\".",
+          "Tusk ACT3 não demonstra nenhuma característica de personalidade além de sussurrar seu som \"chumimi~n\" característico. ACT4 também vocaliza \"chumimi~n\", em adição a seu grito de Stand \"ORA ORA\" enquanto desfere um Ataque em Rajada."
+        ],
+        "Abilities": [
+          "Apesar de ter uma forma corpórea, o poder do Tusk funciona como uma habilidade sobrenatural que Johnny deve usar pessoalmente para lutar como um pistoleiro. o Tusk ACT1 é em geral bastante fraco e não é o suficiente para desafiar a maioria dos usuários de Stand. Com um poder destrutivo aprimorado e novas propriedades para suas balas de unha, o Tusk ACT2 é uma melhoria direta do ACT1. Ele permite que Johnny se dê melhor em combate mas limita o número de unhas a sua disposição. Embora ele funcione identicamente ao Tusk ACT2, o ACT3 envolve Johnny diretamente se aproveitando dos buracos criados por suas balas para se reposicionar durante a batalha e aumentar suas opções. O Tusk ACT3 ainda possui todas as habilidades e limitações do ACT2.",
+          "O princípio por trás do Tusk ACT4 é derivado do uso da rotação áurea, que requer que Johnny faça seu cavalo correr em seu \"estado natural\". Ao fazer isso, o cavalo produz energia rotacional na forma do retângulo de ouro e ao combiná-lo com o Tusk, Johnny é capaz de lançar uma energia rotacional infinita. Ele pode, no entanto, encurtar o processo como último recurso, usando uma esfera de aço para temporariamente galvanizar os movimentos de Slow Dancer. O Tusk ACT4 é então um dos Stands mais poderosos da obra devido a energia infinita por trás dele, mas, em troca, também é incrivelmente difícil de ativá-lo. Do contrário, o Tusk ACT4 demonstra as habilidades físicas de um Stand de curto-alcance e consegue espancar o Dirty Deeds Done Dirt Cheap.",
+          "Embora Tusk inicialmente serve como o guardião do braço esquerdo do Cadáver do Santo, a evolução do Stand eventualmente permite Johnny a mantê-lo mesmo após perder o cadáver.",
+          "ACT1: Unhas giratórias",
+          "Tusk ACT1 dá a Johnny a habilidade de imbuir suas unhas com a rotação. Johnny é capaz de fazer suas unhas das mãos, e mais tarde as dos pés, girarem a uma alta velocidade e dispará-las ocmo balas em até 10 metros. As unhas tem um poder cutâneo incrível, capaz de cortar pedras, cortar membros fora de forma limpa, ou esculpir uma árvore em um formato humanoide em segundos. No entanto, elas não possuem o poder de cortar metais.",
+          "Após Johnny disparar uma unha, elas demoram um curto tempo para crescerem de volta. Quando ele põe as unhas contra o chão, a rotação delas pode rapidamente tirar Johnny de sua posição atual. Ele também pode usar suas unhas como arma branca de curto alcance. As unhas giratórias emitem um zumbido fraco, parecido com a de uma vespa, de acordo com Oyecomova. Como mostrado em sua luta contra Oyecomova, as unhas tem a habilidade de ficarem suspensas no ar, se parecendo com pequenas hélices.",
+          "Técnicas do ACT1",
+          "ACT2: Unhas do Retângulo de Ouro",
+          "Assim que Johnny aprende como imbuir suas unhas com a rotação usando o Retângulo de Ouro, as propriedades básicas de seus tiros são drásticamente aprimoradas. Quando Johnny ativa Tusk, as unhas agoram rotacionam em volta de seus dedos como um eixo. Logo, quando ele dispara as unhas, elas possuem uma propriedade de broca, que dramaticamente aumenta o poder dos tiros. Por exemplo, um disparo é capaz de detonar uma grande zona no impacto. Pelo outro lado, as unhas crescem consideravelmente mais lentas, e por isso, Johnny deve poupar suas unhas ou ele irá se encontrar sem munição.",
+          "Além do aumento do dano, os tiros das unhas ganham uma nova propriedade: após elas acertarem um alvo, elas desaparecem deixam um buraco negro. Esses mesmos buracos criados através da rotação podem automaticamente perseguir qualquer alvo designado por Johnny caso ele erre, deixando uma trilha escura para trás. Quando eles conseguem tocar no inimigo, os buracos os destroem ao romper um caminho até seus órgãos vitais. Os buracos encolhem e desaparecem depois de oito segundos. Quando Johnny atira uma unha com a rotação áurea, a unha demora vários minutos para crescer de volta; todavia, Johnny descobre que ao comer ervas ou beber chá, entre outras mentas e camomila, ele pode acelerar o processo do crescimento.",
+          "Assim como Tusk ACT1, Johnny pode fazer as unhas continuarem a girar em volta de seus dedos sem as disparar. Ele é visto muitas vezes usando isso para coisas ordinárias como escovar seus dentes, ralar queijo e enrolar espaguete em volta de seus dedos. Por causa de sua natureza, Funny Valentine não pode usar Dirty Deeds Done Dirt Cheap para enviar os buracos para um mundo paralelo. É explicado que os buracos são por definição vazios e que não há o que ser enviado para longe.",
+          "ACT3: Buraco de Minhoca Espacial",
+          "Ao atirar em si mesmo com uma unha imbuída com uma rotação axial, Johnny é capaz de sugar seu corpo para dentro do buraco que ela cria. O buraco criado pelo tiro de unha, especificamente o ponto infinitesimalmente pequeno girando na extremidade do buraco, se torna um buraco especial que, devido a proporção infinita da rotação de Johnny, também é infinito e se torna um buraco de minhoca através do espaço, possivelmente a fronteira entre os mundos paralelos. Ao mover o buraco enquanto seu corpo está dentro, Johnny é capaz de rapidamente se reposicionar, ou deslocar partes dele mesmo, como suas mãos com as quais ele dispara, ou atacar de ângulos inesperados.",
+          "Apenas Johnny pode entrar naquele \"local\" e qualquer outra coisa sem ser ele será cortada. Essa habilidade é limitada por quanto tempo os buracos podem persistir no mundo. Devido aos buracos funcionarem como um buracos de minhoca, qualquer coisa que entrar dentro dele irá sair pelo outro lado, embora ela será dilacerada. Isso inclui ataques de inimigos.",
+          "Gyro considera essa habilidade um novo nível de dominação do Spin que nem a família Zeppeli conseguiu acessar com suas esferas de aço.",
+          "ACT4: Rotação Infinita",
+          "Tusk ACT4 incorpora a energia e rotação infinita do rotação áurea e é capaz de usá-la de várias maneiras. Seguindo o princípio da rotação áurea, a energia portada e incorporada pelo Tusk ACT4 é infinita, permitindo vários feitos que de outra forma seriam impossíveis. Uma de suas primeiras habilidades demonstradas é de quebrar a barreira dimensional de D4C Love Train e entrar no espaço em que Valentine se esconde. Além disso, o Tusk ACT4 quebra as leis da gravidade e logo ainda pode se mexer e provavelmente ainda influenciar Diego durante o tempo parado. O dano causado pela rotação é dito provavelmente também ser infinito. Como com o ACT2 e ACT3, a energia do Spin pode persistir dentro de objetos mesmo se Johnny errar o disparo de unha, e pode ser redirecionado para um alvo.",
+          "Se o ACT4 tocar em alguém, ele imbui o alvo com um movimento giratório infinito. Não só uma parte separada do corpo gira, mas sim tudo incluindo células indiviauis giram em si mesmas, distorcendo o formato da vítima. Eventualmente, os alvos são desintegrados pela rotação e de acordo com Diego, enviados para outra dimensão. O Spin continua para sempre e nunca deixa a pessoa ou seu Stand, lhes forçando a voltar ao lugar em que eles foram acertados ou seu equivalente em cada dimensão paralela, logo Funny Valentine não foi capaz de escapar dele apesar de trocar de dimensões e de corpo, sempre voltando ao lugar subterrâneo em que ele foi acertado. Se alguém usa uma ferramenta, como uma carruagem, para sair de perto do lugar, o Spin imbuirá a si mesmo na ferramente a destruirá, forçando o alvo a voltar para sua localização. A rotação não acaba a menos que Johnny atire no alvo com uma rotação parecida que está girando na direção oposta, resultando nas duas rotações cancelando uma a outra.",
+          "O Tusk ACT4 também pode aplicar a energia do Spin de maneira mais parecida a suas formas anteriores e diretamente abrir um espaço maior onde não havia um, como mostrado na batalha de Johnny com Diego durante a qual o Stand fisicamente abre um buraco no chão e entra nos esgotos com Johnny e seu cavalo.",
+          "O Spin também é transferível entre objetos, como o Diego Brando paralelo cortou sua perna fora e a jogou em Johnny, transferindo a rotação infinita ao seu usuário. Outro exemplo é quando Funny Valentine foi a um carro que ali passava tentando escapar do Tusk; a rotação infinita destruiu o carro quase instantaneamente e voltou ao Valentine.",
+          "Técnicas do ACT4"
+        ]
+      },
+      "tecnicas": [
+        {
+          "nome": "Cortador de dedos",
+          "japones": "(指のカッター, Yubi no Kattā)",
+          "estreia": "Estreia: Steel Ball Run, Capítulo 23: O Terrorista de Um País Distante, Parte 2 / Steel Ball Run Episódio 5: O Terrorista de um País Distante",
+          "descricao": "Ao rodar suas unhas, Johnny é capaz de usá-las como lâminas em miniatura para cortar com suas mãos."
+        },
+        {
+          "nome": "Ora Ora",
+          "japones": "(オラオラ, Ora Ora)",
+          "estreia": "Estreia: Steel Ball Run, Capítulo 86: Ball Breaker, Parte 4",
+          "descricao": "Tusk ACT4 soca o inimigo rápidamente, o que ele usa várias vezes para espancar Funny Valentine."
+        }
+      ],
+      "imagens": {
+        "avatarAnime": "assets/stands/Tusk/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Tusk/Tusk_ACT1_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT1_SBR_Infobox_Anime.png",
+          "assets/stands/Tusk/Tusk_ACT2_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT3_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT4_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT4_JJL_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Stand do Joseph",
+      "nomeWiki": "Lista de Stands não nomeados",
+      "pagina": "/List_of_Unnamed_Stands/pt-br#Stand_do_Joseph",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Joseph Joestar",
+          "pagina": "/Joseph_Joestar_(JoJolion)"
+        }
+      ],
+      "resumo": "Há certos casos em que o nome de um Stand é incerto ou desconhecido. Essa página lista todos Stands que se encaixam nessa categoria até que seus nomes seja oficialmente confirmado.",
+      "infobox": {},
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {},
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/List_of_Unnamed_Stands_pt-br_Stand_do_Joseph/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": []
+      }
+    },
+    {
+      "nome": "Holy's Stand",
+      "nomeWiki": "List of Unnamed Stands",
+      "pagina": "/List_of_Unnamed_Stands#Holy_Joestar-Kira's_Stand",
+      "parte": 8,
+      "usuarios": [
+        {
+          "nome": "Holy Joestar-Kira",
+          "pagina": "/Holy_Joestar-Kira"
+        }
+      ],
+      "resumo": "There are some cases in which the name of a Stand power is either unclear or unknown. This page is to list all such Stands until a name for them has officially been confirmed.",
+      "infobox": {},
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {},
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/List_of_Unnamed_Stands_Holy_Joestar-Kira_s_Stand/avatar-anime-parte8.png",
+        "avatarManga": null,
+        "infobox": []
+      }
+    }
+  ],
+  "falhas": []
+}

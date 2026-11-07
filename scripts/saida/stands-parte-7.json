@@ -1,0 +1,3677 @@
+{
+  "parte": 7,
+  "stands": [
+    {
+      "nome": "Tusk",
+      "nomeWiki": "Tusk",
+      "pagina": "/Tusk",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Johnny Joestar",
+          "pagina": "/Johnny_Joestar"
+        }
+      ],
+      "resumo": "Tusk (タスク (牙), Tasuku, às vezes escrito como 爪) é o Stand de Johnny Joestar, apresentado na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "Parte 7Parte 8ACT1ACT2ACT3ACT4MangáAnime",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "タスク (牙) / (爪)",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Tasuku",
+          "links": []
+        },
+        "user": {
+          "texto": "Johnny Joestar",
+          "links": [
+            {
+              "nome": "Johnny Joestar",
+              "pagina": "/Johnny_Joestar/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Tusk (Música e álbum de Fleetwood Mac)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Evoluído | ACT1: | Consciente | Não Humanoide Natural | ACT2, ACT3: | Não Humanoide Artificial | ACT4: | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Evoluído",
+              "pagina": "/Stand_Types/pt-br#Stands_Evoluídos"
+            },
+            {
+              "nome": "Consciente",
+              "pagina": "/Stand_Types/pt-br#Stands_Conscientes"
+            },
+            {
+              "nome": "Não Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Naturais"
+            },
+            {
+              "nome": "Não Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Artificiais"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Exposição a Palma do Diabo",
+          "links": [
+            {
+              "nome": "Palma do Diabo",
+              "pagina": "/Devil%27s_Palm/pt-br"
+            }
+          ]
+        },
+        "awakening": {
+          "texto": "26 de setembro de 1890",
+          "links": []
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 19 (Apenas habilidade) | SBR Capítulo 26 (ACT1) | SBR Capítulo 43 (ACT2) | SBR Capítulo 59 (ACT3) | SBR Capítulo 85 (ACT4)",
+          "links": [
+            {
+              "nome": "SBR Capítulo 19",
+              "pagina": "/SBR_Chapter_19"
+            },
+            {
+              "nome": "SBR Capítulo 26",
+              "pagina": "/SBR_Chapter_26"
+            },
+            {
+              "nome": "SBR Capítulo 43",
+              "pagina": "/SBR_Chapter_43"
+            },
+            {
+              "nome": "SBR Capítulo 59",
+              "pagina": "/SBR_Chapter_59"
+            },
+            {
+              "nome": "SBR Capítulo 85",
+              "pagina": "/SBR_Chapter_85"
+            }
+          ]
+        },
+        "animedebut": {
+          "texto": "SBR Episódio 4 (Apenas habilidade) | SBR Episódio 7 (ACT1)",
+          "links": [
+            {
+              "nome": "SBR Episódio 4",
+              "pagina": "/SBR_Episode_4"
+            },
+            {
+              "nome": "SBR Episódio 7",
+              "pagina": "/SBR_Episode_7"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "All-Star Battle",
+          "links": [
+            {
+              "nome": "All-Star Battle",
+              "pagina": "/All-Star_Battle"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Capítulo 27 | SBR Capítulo 86 (Convenção de nomenclatura de ACTs)",
+          "links": [
+            {
+              "nome": "SBR Capítulo 27",
+              "pagina": "/SBR_Chapter_27"
+            },
+            {
+              "nome": "SBR Capítulo 86",
+              "pagina": "/SBR_Chapter_86"
+            }
+          ]
+        },
+        "cry": {
+          "texto": "EnlargeCHUMIMI~N! | (チュミミ～ン!) | EnlargeORAORAORA! | (オラオラオラ!)",
+          "links": []
+        },
+        "seiyuu": {
+          "texto": "Yuki Kaji (ASB/EoH/ASB R)",
+          "links": [
+            {
+              "nome": "Yuki Kaji",
+              "pagina": "/Yuki_Kaji"
+            },
+            {
+              "nome": "ASB",
+              "pagina": "/All-Star_Battle"
+            },
+            {
+              "nome": "EoH",
+              "pagina": "/Eyes_of_Heaven"
+            },
+            {
+              "nome": "ASB R",
+              "pagina": "/All-Star_Battle_R"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "ACT1ACT2ACT3ACT4Poder DestrutivoEVelocidadeEAlcanceEPersistênciaBPrecisãoEPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range E E E Stamina Precision Potential B E A Poder DestrutivoDVelocidadeDAlcanceDPersistênciaCPrecisãoCPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range D D D Stamina Precision Potential C C A Poder DestrutivoDVelocidadeDAlcanceDPersistênciaDPrecisãoCPotencialAABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range D D D Stamina Precision Potential D C A Poder DestrutivoAVelocidadeBAlcanceCPersistênciaAPrecisãoBPotencialEABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim Destructive Power Speed Range A B C Stamina Precision Potential A B E",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "E",
+          "links": []
+        },
+        "range": {
+          "texto": "E",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "A",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E",
+          "D",
+          "D",
+          "A"
+        ],
+        "speed": [
+          "E",
+          "D",
+          "D",
+          "B"
+        ],
+        "range": [
+          "E",
+          "D",
+          "D",
+          "C"
+        ],
+        "stamina": [
+          "B",
+          "C",
+          "D",
+          "A"
+        ],
+        "precision": [
+          "E",
+          "C",
+          "C",
+          "B"
+        ],
+        "potential": [
+          "A",
+          "A",
+          "A",
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Inicialmente chamado apenas de \"Tusk\" por ser a primeira forma que Johnny viu, Tusk ACT1 é a forma base do Stand. Ele é referido como o guardião do Braço Esquerdo do Cadáver Santo. ACT1 se assemelha a um pequeno animal neotênico. Sua cabeça é de tamanho igual ou um pouco maior que o de seu corpo, e ele flutua com dois curtos e inarticulados braços e uma única perna. Sua frente é marcada um tanto irregularmente por pequenas estrelas, atrás de círculos escuros que radiam seus pontos; enquanto quatro gavinhas saem da base de seu tronco até a aproximada altura de sua perna, tendo formatos de coração.",
+          "Em sua cabeça, ele possui duas longas orelhas de mamífero; pequenos e refletivos olhos negros sob um cenho preocupado; uma grande estrela no topo de sua testa, atrás da qual um círculo escuro radia aos seus pontos, e do centro do qual um fio liga à ponta de um cone ligado a região de seu nariz. Oito vestígios emanam de sua cabeça lateralmente: Dois em cima; quatro de seus lados, o mais baixo estando nas bochechas, e também cercados por um círculo escuro; e um dos dois lados de seu queixo. Ele foi criado com um axolote em mente.",
+          "Tusk ACT2 é a primeira forma evoluído do Tusk, acessado quando Johnny faz progresso na técnica da rotação e usa o Retângulo de Ouro. Mecanicamente, o ACT2 possui um tronco e braços robustos, de proporção maior que sua cabeça. De sua cabeça são pendurados dois objetos em formato de barril. Uma unidade em formato de barril com o tamanho de sua cabeça é segurada na base de uma curta e plana coluna. Araki adicionou alguns elementos para deixar incerto se ele é um animal ou uma máquina, como um Stand tradicional.",
+          "Tusk ACT3 é a segunda evolução do Tusk, desbloqueada quando Johnny presencia Jesus Cristo o aconselhando e encontra uma determinação de vida renovada. Embora ele seja distintamente mais humano em forma, sua cabeça ainda é presa ao seu corpo. O ACT3 tem espinhos afiados saindo dos dois lados de baixo de cada um de seus pés triangulares e pequenas mãos em forma de disco. Em seus escuros ombros esféricos ele possui uma grande estrela; e de seu lábio superior até as costas de sua cabeça cruza uma grande protrusão lembrando um moicano.",
+          "Tusk ACT4 é a última evolução do Tusk, acessada apenas quando Johnny usa a Rotação áurea. O ACT4 tem um formato humanoide e porte largo ou quadrado; com pernas, braços, mãos e dedos articulados. Sua cabeça é montada na frente de seu peito, e da parte de baixo de seu peito até seus joelhos há uma vestimenta composta de fios em formato de elipses verticais. Como Johnny, ele tem uma ferradura de cavalo em sua testa. O interior de seu corpo-cortina é vazio, e seu rosto pode se mexer como o olho singular do MS-05 Zaku I de Mobile Suit Gundam.",
+          "Esquemas de Cores"
+        ],
+        "Personality": [
+          "Tusk ACT1 possui uma consciência separada da de Johnny, já que ele é o espírito guardião do Cadáver do Santo. Ele decide aparecer diante de Johnny e ajudá-lo independentemente. O ACT1 ocasionalmente produz o som \"chumimi~in\".",
+          "Tusk ACT3 não demonstra nenhuma característica de personalidade além de sussurrar seu som \"chumimi~n\" característico. ACT4 também vocaliza \"chumimi~n\", em adição a seu grito de Stand \"ORA ORA\" enquanto desfere um Ataque em Rajada."
+        ],
+        "Abilities": [
+          "Apesar de ter uma forma corpórea, o poder do Tusk funciona como uma habilidade sobrenatural que Johnny deve usar pessoalmente para lutar como um pistoleiro. o Tusk ACT1 é em geral bastante fraco e não é o suficiente para desafiar a maioria dos usuários de Stand. Com um poder destrutivo aprimorado e novas propriedades para suas balas de unha, o Tusk ACT2 é uma melhoria direta do ACT1. Ele permite que Johnny se dê melhor em combate mas limita o número de unhas a sua disposição. Embora ele funcione identicamente ao Tusk ACT2, o ACT3 envolve Johnny diretamente se aproveitando dos buracos criados por suas balas para se reposicionar durante a batalha e aumentar suas opções. O Tusk ACT3 ainda possui todas as habilidades e limitações do ACT2.",
+          "O princípio por trás do Tusk ACT4 é derivado do uso da rotação áurea, que requer que Johnny faça seu cavalo correr em seu \"estado natural\". Ao fazer isso, o cavalo produz energia rotacional na forma do retângulo de ouro e ao combiná-lo com o Tusk, Johnny é capaz de lançar uma energia rotacional infinita. Ele pode, no entanto, encurtar o processo como último recurso, usando uma esfera de aço para temporariamente galvanizar os movimentos de Slow Dancer. O Tusk ACT4 é então um dos Stands mais poderosos da obra devido a energia infinita por trás dele, mas, em troca, também é incrivelmente difícil de ativá-lo. Do contrário, o Tusk ACT4 demonstra as habilidades físicas de um Stand de curto-alcance e consegue espancar o Dirty Deeds Done Dirt Cheap.",
+          "Embora Tusk inicialmente serve como o guardião do braço esquerdo do Cadáver do Santo, a evolução do Stand eventualmente permite Johnny a mantê-lo mesmo após perder o cadáver.",
+          "ACT1: Unhas giratórias",
+          "Tusk ACT1 dá a Johnny a habilidade de imbuir suas unhas com a rotação. Johnny é capaz de fazer suas unhas das mãos, e mais tarde as dos pés, girarem a uma alta velocidade e dispará-las ocmo balas em até 10 metros. As unhas tem um poder cutâneo incrível, capaz de cortar pedras, cortar membros fora de forma limpa, ou esculpir uma árvore em um formato humanoide em segundos. No entanto, elas não possuem o poder de cortar metais.",
+          "Após Johnny disparar uma unha, elas demoram um curto tempo para crescerem de volta. Quando ele põe as unhas contra o chão, a rotação delas pode rapidamente tirar Johnny de sua posição atual. Ele também pode usar suas unhas como arma branca de curto alcance. As unhas giratórias emitem um zumbido fraco, parecido com a de uma vespa, de acordo com Oyecomova. Como mostrado em sua luta contra Oyecomova, as unhas tem a habilidade de ficarem suspensas no ar, se parecendo com pequenas hélices.",
+          "Técnicas do ACT1",
+          "ACT2: Unhas do Retângulo de Ouro",
+          "Assim que Johnny aprende como imbuir suas unhas com a rotação usando o Retângulo de Ouro, as propriedades básicas de seus tiros são drásticamente aprimoradas. Quando Johnny ativa Tusk, as unhas agoram rotacionam em volta de seus dedos como um eixo. Logo, quando ele dispara as unhas, elas possuem uma propriedade de broca, que dramaticamente aumenta o poder dos tiros. Por exemplo, um disparo é capaz de detonar uma grande zona no impacto. Pelo outro lado, as unhas crescem consideravelmente mais lentas, e por isso, Johnny deve poupar suas unhas ou ele irá se encontrar sem munição.",
+          "Além do aumento do dano, os tiros das unhas ganham uma nova propriedade: após elas acertarem um alvo, elas desaparecem deixam um buraco negro. Esses mesmos buracos criados através da rotação podem automaticamente perseguir qualquer alvo designado por Johnny caso ele erre, deixando uma trilha escura para trás. Quando eles conseguem tocar no inimigo, os buracos os destroem ao romper um caminho até seus órgãos vitais. Os buracos encolhem e desaparecem depois de oito segundos. Quando Johnny atira uma unha com a rotação áurea, a unha demora vários minutos para crescer de volta; todavia, Johnny descobre que ao comer ervas ou beber chá, entre outras mentas e camomila, ele pode acelerar o processo do crescimento.",
+          "Assim como Tusk ACT1, Johnny pode fazer as unhas continuarem a girar em volta de seus dedos sem as disparar. Ele é visto muitas vezes usando isso para coisas ordinárias como escovar seus dentes, ralar queijo e enrolar espaguete em volta de seus dedos. Por causa de sua natureza, Funny Valentine não pode usar Dirty Deeds Done Dirt Cheap para enviar os buracos para um mundo paralelo. É explicado que os buracos são por definição vazios e que não há o que ser enviado para longe.",
+          "ACT3: Buraco de Minhoca Espacial",
+          "Ao atirar em si mesmo com uma unha imbuída com uma rotação axial, Johnny é capaz de sugar seu corpo para dentro do buraco que ela cria. O buraco criado pelo tiro de unha, especificamente o ponto infinitesimalmente pequeno girando na extremidade do buraco, se torna um buraco especial que, devido a proporção infinita da rotação de Johnny, também é infinito e se torna um buraco de minhoca através do espaço, possivelmente a fronteira entre os mundos paralelos. Ao mover o buraco enquanto seu corpo está dentro, Johnny é capaz de rapidamente se reposicionar, ou deslocar partes dele mesmo, como suas mãos com as quais ele dispara, ou atacar de ângulos inesperados.",
+          "Apenas Johnny pode entrar naquele \"local\" e qualquer outra coisa sem ser ele será cortada. Essa habilidade é limitada por quanto tempo os buracos podem persistir no mundo. Devido aos buracos funcionarem como um buracos de minhoca, qualquer coisa que entrar dentro dele irá sair pelo outro lado, embora ela será dilacerada. Isso inclui ataques de inimigos.",
+          "Gyro considera essa habilidade um novo nível de dominação do Spin que nem a família Zeppeli conseguiu acessar com suas esferas de aço.",
+          "ACT4: Rotação Infinita",
+          "Tusk ACT4 incorpora a energia e rotação infinita do rotação áurea e é capaz de usá-la de várias maneiras. Seguindo o princípio da rotação áurea, a energia portada e incorporada pelo Tusk ACT4 é infinita, permitindo vários feitos que de outra forma seriam impossíveis. Uma de suas primeiras habilidades demonstradas é de quebrar a barreira dimensional de D4C Love Train e entrar no espaço em que Valentine se esconde. Além disso, o Tusk ACT4 quebra as leis da gravidade e logo ainda pode se mexer e provavelmente ainda influenciar Diego durante o tempo parado. O dano causado pela rotação é dito provavelmente também ser infinito. Como com o ACT2 e ACT3, a energia do Spin pode persistir dentro de objetos mesmo se Johnny errar o disparo de unha, e pode ser redirecionado para um alvo.",
+          "Se o ACT4 tocar em alguém, ele imbui o alvo com um movimento giratório infinito. Não só uma parte separada do corpo gira, mas sim tudo incluindo células indiviauis giram em si mesmas, distorcendo o formato da vítima. Eventualmente, os alvos são desintegrados pela rotação e de acordo com Diego, enviados para outra dimensão. O Spin continua para sempre e nunca deixa a pessoa ou seu Stand, lhes forçando a voltar ao lugar em que eles foram acertados ou seu equivalente em cada dimensão paralela, logo Funny Valentine não foi capaz de escapar dele apesar de trocar de dimensões e de corpo, sempre voltando ao lugar subterrâneo em que ele foi acertado. Se alguém usa uma ferramenta, como uma carruagem, para sair de perto do lugar, o Spin imbuirá a si mesmo na ferramente a destruirá, forçando o alvo a voltar para sua localização. A rotação não acaba a menos que Johnny atire no alvo com uma rotação parecida que está girando na direção oposta, resultando nas duas rotações cancelando uma a outra.",
+          "O Tusk ACT4 também pode aplicar a energia do Spin de maneira mais parecida a suas formas anteriores e diretamente abrir um espaço maior onde não havia um, como mostrado na batalha de Johnny com Diego durante a qual o Stand fisicamente abre um buraco no chão e entra nos esgotos com Johnny e seu cavalo.",
+          "O Spin também é transferível entre objetos, como o Diego Brando paralelo cortou sua perna fora e a jogou em Johnny, transferindo a rotação infinita ao seu usuário. Outro exemplo é quando Funny Valentine foi a um carro que ali passava tentando escapar do Tusk; a rotação infinita destruiu o carro quase instantaneamente e voltou ao Valentine.",
+          "Técnicas do ACT4"
+        ]
+      },
+      "tecnicas": [
+        {
+          "nome": "Cortador de dedos",
+          "japones": "(指のカッター, Yubi no Kattā)",
+          "estreia": "Estreia: Steel Ball Run, Capítulo 23: O Terrorista de Um País Distante, Parte 2 / Steel Ball Run Episódio 5: O Terrorista de um País Distante",
+          "descricao": "Ao rodar suas unhas, Johnny é capaz de usá-las como lâminas em miniatura para cortar com suas mãos."
+        },
+        {
+          "nome": "Ora Ora",
+          "japones": "(オラオラ, Ora Ora)",
+          "estreia": "Estreia: Steel Ball Run, Capítulo 86: Ball Breaker, Parte 4",
+          "descricao": "Tusk ACT4 soca o inimigo rápidamente, o que ele usa várias vezes para espancar Funny Valentine."
+        }
+      ],
+      "imagens": {
+        "avatarAnime": "assets/stands/Tusk/avatar-anime-parte7.gif",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Tusk/Tusk_ACT1_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT1_SBR_Infobox_Anime.png",
+          "assets/stands/Tusk/Tusk_ACT2_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT3_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT4_SBR_Infobox_Manga.png",
+          "assets/stands/Tusk/Tusk_ACT4_JJL_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Ball Breaker",
+      "nomeWiki": "Ball Breaker",
+      "pagina": "/Ball_Breaker",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Gyro Zeppeli",
+          "pagina": "/Gyro_Zeppeli"
+        }
+      ],
+      "resumo": "Ball Breaker (ボール・ブレイカー, Bōru Bureikā) é o Stand usado por Gyro Zeppeli, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ボール・ブレイカー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Bōru Bureikā",
+          "links": []
+        },
+        "user": {
+          "texto": "Gyro Zeppeli (técnica das esferas de aço)",
+          "links": [
+            {
+              "nome": "Gyro Zeppeli",
+              "pagina": "/Gyro_Zeppeli/pt-br"
+            },
+            {
+              "nome": "esferas de aço",
+              "pagina": "/Steel_Ball/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Ballbreaker (Álbum e música de AC/DC)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Executando a técnica de arremesso suprema da Família Zeppeli",
+          "links": [
+            {
+              "nome": "Família Zeppeli",
+              "pagina": "/Zeppeli_Family/pt-br"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 83",
+          "links": [
+            {
+              "nome": "SBR Capítulo 83",
+              "pagina": "/SBR_Chapter_83"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "All-Star Battle",
+          "links": [
+            {
+              "nome": "All-Star Battle",
+              "pagina": "/All-Star_Battle"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Capítulo 83",
+          "links": [
+            {
+              "nome": "SBR Capítulo 83",
+              "pagina": "/SBR_Chapter_83"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeASpeedAgility and reflexes as well as performance speedARangeRange of manifestation, range of ability influence, and spatial mobilityDStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsCPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesBABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "A",
+          "links": []
+        },
+        "speed": {
+          "texto": "A",
+          "links": []
+        },
+        "range": {
+          "texto": "D",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "C",
+          "links": []
+        },
+        "potential": {
+          "texto": "B",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "A"
+        ],
+        "speed": [
+          "A"
+        ],
+        "range": [
+          "D"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "C"
+        ],
+        "potential": [
+          "B"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Ball Breaker é um Stand relativamente pequeno, de aproximadamente o tamanho de uma esfera de aço, da qual ele se origina. Ele é vagamente humanoide em forma, com uma corcunda e pés parecidos com as patas de um cavalo. Há vários pequenos círculos em uma pequena formação em seu rosto com seu corpo de maneira semelhante. Sua característica mais prominente é uma grande aba atrás de sua cabeça, acabando em dois semi-círculos na frente, que ambos formam proporções áureas. O Ball Breaker é normalmente cercado por uma nuvem de energia lembrando uma descarga eletrostática.",
+          "Esquemas de cores"
+        ],
+        "Abilities": [
+          "Pouco se sabe das capacidades completas do Ball Breaker já que ele apenas apareceu uma vez e a técnica era falha por causa de uma esfera de aço imperfeita. Pode ser assumido que o Ball Breaker é incrivelmente poderoso por ser desenvolvido apartir da rotação áurea.",
+          "Rotação áurea",
+          "Ball Breaker incorpora a vasta quantidade de energia coletada por uma esfera de aço quando jogada com o rotação áurea (ex. em sequência com o retângulo de ouro portado por tanto o cavalo quanto seu dono). Como resultado, ele é capaz de feitos milagrosos como ultrapassar a parede dimensional do D4C Love Train.",
+          "O único poder específico que o Ball Breaker demonstrou é de indzuir um envelhecimento dramático em um alvo, lhes envelhecendo rapidamente na zona em que ele o toca. Quando usado em um ser vivo, dentro de segundos eles envelhecerão em segundos de maneira dramática e seu Stand também será afetado pelo envelhecimento."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Ball_Breaker/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Ball_Breaker/Ball_Breaker_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Ticket to Ride",
+      "nomeWiki": "Ticket to Ride",
+      "pagina": "/Ticket_to_Ride",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Lucy Steel",
+          "pagina": "/Lucy_Steel"
+        }
+      ],
+      "resumo": "Ticket to Ride (涙の乗車券(チケット・ゥ・ライド), Chikettu Raido, lit. \"Bilhete de Lágrimas\") é o Stand usado por Lucy Steel, apresentado na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run. Ele se manifesta como habilidades que protegem Lucy.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "涙の乗車券(チケット・ゥ・ライド)",
+          "links": []
+        },
+        "user": {
+          "texto": "Lucy Steel",
+          "links": [
+            {
+              "nome": "Lucy Steel",
+              "pagina": "/Lucy_Steel/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Ticket to Ride (Música dos Beatles)",
+          "links": []
+        },
+        "type": {
+          "texto": "Alcance-Irrelevante | Integrado | Fenômeno",
+          "links": [
+            {
+              "nome": "Alcance-Irrelevante",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Integrado",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Fenômeno",
+              "pagina": "/Stand_Types#Phenomenon_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 71 | SBR Capítulo 77 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "SBR Capítulo 71",
+              "pagina": "/SBR_Chapter_71"
+            },
+            {
+              "nome": "SBR Capítulo 77",
+              "pagina": "/SBR_Chapter_77"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoEVelocidadeEAlcanceEPersistênciaCPrecisãoEPotencialCABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "E",
+          "links": []
+        },
+        "range": {
+          "texto": "E",
+          "links": []
+        },
+        "stamina": {
+          "texto": "C",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "C",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E"
+        ],
+        "speed": [
+          "E"
+        ],
+        "range": [
+          "E"
+        ],
+        "stamina": [
+          "C"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "C"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Esse Stand é a forma completa do Cadáver Santo e se funde com sua usuária, juntando-se dentro dela e assumindo suas funções corporais. O Stand aparece através das seguintes fases:",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Ticket to Ride consiste de um conjunto de fracos porém úteis poderes defensivos que servem para proteger Lucy quando ela se torna a hospedeira do Cadáver Santo",
+          "Lamina de Lágrimas",
+          "Lucy é capaz de tirar faixas de seus olhos e usá-las como facas. Já que as laminas de lágrimas imediatamente se decompoem ao entrar em contato com alguém, essa habiidade não tem uso real além de ameaçar alguém. No entanto, quando a lamina é usada contra alguém ou algo, eles ficam vulneráveis a habilidade primária de Lucy: A Proteção Divina.",
+          "Proteção Divina",
+          "Essa habilidade protege Lucy de qualquer mau feito a ela ao criar uma cadeia de reações de coincidências improváveis através das coisas na circunvizinhança para neutralizar qualquer agressor. Similarmente, o fenômeno também pode forçar um alvo a fazer o que Lucy quer. Essa habilidade, enquanto Lucy é capaz de se mexer, parece apenas funcionar contra aqueles que Lucy tocou com suas laminas-lágrima.",
+          "Por exemplo, quando duas pessoas tentaram tranquilizar Lucy, mas ela acidentalmente derruba uma garrafa no chão e derrama um líquido. Um deles repentinamente pisa no líquido e tropeça, deixando Lucy escapar, então o outro a persegue mas pisa em uma garrafa de vidro, fazendo ele quebrar e fazer estilhaços entrarem seu olho.",
+          "Isso também pode ser aplicado a objetos não-vivos: Lucy escreve em um pedaço de tecido e o deixa em uma doca, onde Valentine o destrói, apenas para uma série de coincidências recriarem a mensagem inteira e pô-la quase no exato mesmo lugar da doca. Essencialmente, essa habilidade (ou pelo menos até Lucy perder suas capacidades corporais) manipula a sorte do que é cortado para criar o resultado que Lucy quer."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Ticket_to_Ride/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Ticket_to_Ride/Ticket_to_Ride_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Oh! Lonesome Me",
+      "nomeWiki": "Oh! Lonesome Me",
+      "pagina": "/Oh!_Lonesome_Me",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Mountain Tim",
+          "pagina": "/Mountain_Tim"
+        }
+      ],
+      "resumo": "Oh! Lonesome Me (オー！ロンサム・ミー, Ō! Ronsamu Mī) é o Stand de Mountain Tim, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run. Sua habilidade dá à Mountain Tim a capacidade de se fundir com sua corda, que pode se dividir e desmembrar os corpos com quem se conecta, incluindo ele mesmo, em partes separadas que ele pode manuseiar livremente pela corda.",
+      "infobox": {
+        "image": {
+          "texto": "MangáAnime",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "オー! ロンサム・ミー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Ō! Ronsamu Mī",
+          "links": []
+        },
+        "engname": {
+          "texto": "Lasso Blues",
+          "links": []
+        },
+        "user": {
+          "texto": "Mountain Tim",
+          "links": [
+            {
+              "nome": "Mountain Tim",
+              "pagina": "/Mountain_Tim/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Oh Lonesome Me (Música de Don Gibson)",
+          "links": []
+        },
+        "type": {
+          "texto": "Alcance Irrelevante | Integrado | Materializado | Não Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Alcance Irrelevante",
+              "pagina": "/Stand_Types/pt-br#Stands_com_Alcance_Irrelevante"
+            },
+            {
+              "nome": "Integrado",
+              "pagina": "/Stand_Types/pt-br#Stands_Materializados"
+            },
+            {
+              "nome": "Materializado",
+              "pagina": "/Stand_Types/pt-br#Stands_Materializados"
+            },
+            {
+              "nome": "Não Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Palma do Diabo",
+          "links": [
+            {
+              "nome": "Palma do Diabo",
+              "pagina": "/Devil%27s_Palm/pt-br"
+            }
+          ]
+        },
+        "awakening": {
+          "texto": "1875",
+          "links": []
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 17",
+          "links": [
+            {
+              "nome": "SBR Capítulo 17",
+              "pagina": "/SBR_Chapter_17"
+            }
+          ]
+        },
+        "animedebut": {
+          "texto": "SBR Episódio 2 (Apenas a habilidade) | SBR Episódio 3 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "SBR Episódio 2",
+              "pagina": "/SBR_Episode_2"
+            },
+            {
+              "nome": "SBR Episódio 3",
+              "pagina": "/SBR_Episode_3"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Capítulo 37",
+          "links": [
+            {
+              "nome": "SBR Capítulo 37",
+              "pagina": "/SBR_Chapter_17"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoEVelocidadeCAlcanceCPersistênciaBPrecisãoCPotencialDABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "C",
+          "links": []
+        },
+        "potential": {
+          "texto": "D",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "C"
+        ],
+        "potential": [
+          "D"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Oh! Lonesome Me se manifesta primariamente na corda de Mountain Tim e sua habilidade de se fundir, separar e espalhar o corpo de Tim e outros sobre qualquer distância quando lançada. O interior de Tim é escurecido e não é anatomicamente articulado.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Amalgamação da Corda",
+          "Oh! Lonesome Me permite com que a corda de Mountain Tim separe partes de seu corpo, assim como os de outras pessoas e livremente as deslize por uma corda. Ele também lhe dá um controle sobre-humano sob a corda, livremente e precisamente a manipulando para pegar pequenos objetos de longe por exemplo.",
+          "Essa habilidade de se separar em pedacinhos até onde a corda ir dá a Mountain Tim uma grande agilidade e flexibilidade. Se lançando com ela, Tim pode atirar em inimigos de ângulos incomuns; e através do processo de se separar e juntar a si mesmo e outras pessoas, ele pode atravessar e escapar em pequenos espaços. Ao se separar, Mountain Tim também pode dimininuir o dano de uma explosão.",
+          "Oh! Lonesome Me também permitiu com que Tim absorvesse água pelas cordas como meio de sobrevivência a desidratação em sua primeira vez em uma Palma do Diabo."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Oh__Lonesome_Me/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Oh__Lonesome_Me/Oh!_Lonesome_Me_Infobox_Manga.png",
+          "assets/stands/Oh__Lonesome_Me/Oh!_Lonesome_Me_Infobox_Anime.png"
+        ]
+      }
+    },
+    {
+      "nome": "Scary Monsters",
+      "nomeWiki": "Scary Monsters",
+      "pagina": "/Scary_Monsters",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Dr. Ferdinand",
+          "pagina": "/Dr._Ferdinand"
+        },
+        {
+          "nome": "Diego Brando",
+          "pagina": "/Diego_Brando"
+        }
+      ],
+      "resumo": "Scary Monsters (スケアリー モンスターズ, Sukearī Monsutāzu) é o Stand de Dr. Ferdinand e depois de Diego Brando, apresentado na sétima parte JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "スケアリー モンスターズ",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Sukearī Monsutāzu",
+          "links": []
+        },
+        "engname": {
+          "texto": "Frightening Monsters",
+          "links": []
+        },
+        "user": {
+          "texto": "Dr. Ferdinand (usuário original) | Diego Brando",
+          "links": [
+            {
+              "nome": "Dr. Ferdinand",
+              "pagina": "/Dr._Ferdinand/pt-br"
+            },
+            {
+              "nome": "Diego Brando",
+              "pagina": "/Diego_Brando/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Scary Monsters (and Super Creeps) (album e canção de David Bowie)",
+          "links": []
+        },
+        "type": {
+          "texto": "Alcance Irrelevante | Integrado | Fenômeno | Compartilhado",
+          "links": [
+            {
+              "nome": "Alcance Irrelevante",
+              "pagina": "/Stand_Types/pt-br#Stands_com_Alcance_Irrelevante"
+            },
+            {
+              "nome": "Integrado",
+              "pagina": "/Stand_Types/pt-br#Stands_Materializados"
+            },
+            {
+              "nome": "Fenômeno",
+              "pagina": "/Stand_Types/pt-br#Stands_Fenômeno"
+            },
+            {
+              "nome": "Compartilhado",
+              "pagina": "/Stand_Types/pt-br#Stands_Compartilhados"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Exposição a Palma do Diabo (Dr. Ferdinand) | Olho do cadáver do santo (Diego)",
+          "links": [
+            {
+              "nome": "Palma do Diabo",
+              "pagina": "/Devil%27s_Palm/pt-br"
+            },
+            {
+              "nome": "Dr. Ferdinand",
+              "pagina": "/Dr._Ferdinand/pt-br"
+            },
+            {
+              "nome": "cadáver do santo",
+              "pagina": "/Saint%27s_Corpse/pt-br"
+            },
+            {
+              "nome": "Diego",
+              "pagina": "/Diego_Brando/pt-br"
+            }
+          ]
+        },
+        "awakening": {
+          "texto": "1888 (Dr. Ferdinand) | 14 de outubro de 1890 (Diego)",
+          "links": [
+            {
+              "nome": "Dr. Ferdinand",
+              "pagina": "/Dr._Ferdinand/pt-br"
+            },
+            {
+              "nome": "Diego",
+              "pagina": "/Diego_Brando/pt-br"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 28",
+          "links": [
+            {
+              "nome": "SBR Capítulo 28",
+              "pagina": "/SBR_Chapter_28"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "Eyes of Heaven",
+          "links": [
+            {
+              "nome": "Eyes of Heaven",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Capítulo 31",
+          "links": [
+            {
+              "nome": "SBR Capítulo 31",
+              "pagina": "/SBR_Chapter_31"
+            }
+          ]
+        },
+        "cry": {
+          "texto": "EnlargeUSHAAAAA! | (ウシャアアアア!)",
+          "links": []
+        },
+        "stats": {
+          "texto": "Poder DestrutivoBVelocidadeBAlcanceDPersistênciaAPrecisãoCPotencialBABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "B",
+          "links": []
+        },
+        "speed": {
+          "texto": "B",
+          "links": []
+        },
+        "range": {
+          "texto": "D",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "C",
+          "links": []
+        },
+        "potential": {
+          "texto": "B",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "B"
+        ],
+        "speed": [
+          "B"
+        ],
+        "range": [
+          "D"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "C"
+        ],
+        "potential": [
+          "B"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Ele não tem forma própria por ser um Stand integrado, mas ele pode transformar os corpos de outros. O Scary Monsters transforma Diego em um enorme dromeossaurídeo, inspirado pela aparência do Velociraptor da franquia Jurassic Park. Ele ganha listras nas quais estão escritas \"DIO\" por todo seu corpo e seu cabelo se transforma em espinhos que acabam em pontas em formato de bola atrás de sua cabeça. Traços de sua camisa com padrão de rede ainda são visíveis em seu peito.",
+          "Após estar sob a influência do Stand por um tempo, Diego consegue se transformar em uma forma humanoide híbrida enquanto retendo dentes afiados, garras, pernas de dinossauro, e uma cauda, com uma expressão enloquecida em seu rosto.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Scary Monsters usa a coragem e agilidade dos dinossauros antigos de várias maneiras, e também pode controlar pessoas através de um simples contato, fazendo encará-lo extremamente perigoso.",
+          "Infecção de Dinossauro",
+          "A habilidade principal do Scary Monster é de infectar outros seres vivos com um vírus que lhes transforma em dinossauros, mas também permite que o usuário os controle.",
+          "O usuário precisa de um só toque em uma vítima para começar a transformação, por exemplo, Diego encostando no cabelo de seu Silver Bullet para transformar as pulgas em pequenos dinossauros. Igualmente, os dinossauros podem infectar outros com o vírus ao morder ou arranhar. No entanto, caso o usuário seja severamente ferido, seu poder irá desaparecer e todos os dinossauros serão revertidos a suas formas originais.",
+          "A transformação é retratada inconsistentemente, a primeira transformação de Diego sendo gradual enquanto as subsequentes são instantâneas. Scary Monsters parece não ter limites em termos de alcance ou número de indivíduos infectados, já que ele é capaz de transformar uma vila inteira de humanos em um grupo de dinossauros. Ele também é livre para criar qualquer tipo de dinossauro, de raptores, a um tiranossauro, a dinossauros muito menores.",
+          "O usuário original, Dr. Ferdinand, tirava proveito de seu poder para transformar outros, usando-lhes para viajar (ao cavalgá-los ou ao se esconder dentro deles) ou para lutar por ele. Diego tipicamente usa essa habilidade para criar exercitos de híbridos carnivoros em miniatura com pássaros, ratos ou pulgas ou transformar seu próprio cavalo em um dinossauro para apoio enquanto ele pessoalmente luta contra o inimigo.",
+          "Transformação em Dinossauro",
+          "Diferente de Ferdinand, Diego é capaz de transformar seu próprio corpo no de um dinossauro, completamente ou como um híbrido dos dois. Sendo preso ao corpo de Diego, o Scary Monsters permite que ele lute contra outros Stands e fisicamente lhes fira com suas próprias mãos.",
+          "Ao se transformar parcialmente, Diego pode usar os sentidos e forças aprimoradas de um dinossauro. Ele possui um vigor, força, e velocidade aumentados o suficiente para competir com o suficientemente capaz Dirty Deeds Done Dirt Cheap. Além disso, se transformar em um dinossauro lhe garante visão baseada em movimento: quanto mais rápido algo se move, quanto mais Diego pode percebê-lo e então quanto melhor ele pode evitá-lo. Mas como reusltado, ele fica vulnerável a ataques lentos.",
+          "Durante a corrida Steel Ball Run, Diego usa seus sentidos para avaliar seus em tornos e deduzir a melhor rota para seu cavalo.",
+          "Fossilização",
+          "Introduzido mais tarde na história, Diego demonstra a habilidade de alterar seres transformados pelo seu Stand em um estado dormente e endurecido muito parecido com o de um fóssil. A habilidade pode ser usada de várias maneiras, de fundir um ser em uma estrutura como pedra ou uma madeira como camuflagem a modelar o ser fossilizado em algo mais criativo como candelabros."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Scary_Monsters/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Scary_Monsters/Scary_Monsters_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Cream Starter",
+      "nomeWiki": "Cream Starter",
+      "pagina": "/Cream_Starter",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Hot Pants",
+          "pagina": "/Hot_Pants"
+        }
+      ],
+      "resumo": "Cream Starter (クリーム・スターター, Kurīmu Sutātā) é o Stand de Hot Pants, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "クリーム・スターター",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Kurīmu Sutātā",
+          "links": []
+        },
+        "user": {
+          "texto": "Hot Pants",
+          "links": [
+            {
+              "nome": "Hot Pants",
+              "pagina": "/Hot_Pants/pt-br"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Alcance Irrelevante | Materializado | Não Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Alcance Irrelevante",
+              "pagina": "/Stand_Types/pt-br#Stands_com_Alcance_Irrelevante"
+            },
+            {
+              "nome": "Materializado",
+              "pagina": "/Stand_Types/pt-br#Stands_Materializados"
+            },
+            {
+              "nome": "Não Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 33",
+          "links": [
+            {
+              "nome": "SBR Capítulo 33",
+              "pagina": "/SBR_Chapter_33"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoDVelocidadeCAlcanceCPersistênciaAPrecisãoEPotencialBABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "D",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "B",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "D"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "B"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Cream Starter assume a forma de duas latas de spray portáteis. Os corpos consistem de um bico preso a uma parte meio-cilíndrica coberta por buracos e um punho.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Assim como o Emperor e o Beach Boy, o Cream Starter funciona como uma ferramenta e arma para Hot Pants, que usa sua habilidade para manipular carne de várias maneiras. Seu poder é muito versátil e letal contra humanos.",
+          "Uma característica rara, o Cream Starter pode ser usado por qualquer um que pega o spray. Diferente da maioria dos Stands, o Cream Starter parece capaz de manter a si mesmo e seu poder independente da distância, e mesmo através de dimensões diferentes de seu usuário, como mostrado por Funny Valentine ao dar o Cream Starter para Johnny que o usa na garganta de seu cavalo.",
+          "Spray de Carne",
+          "A habilidade do Cream Starter é de borrifar carne como uma substância parecida com creme que então assume sua consistência original novamente.",
+          "Hot Pants pode borrifar uma certa quantidade de carne para agir como um projétil, usando sua própria carne, ou absorvendo a carne de um indivíduo ao diretamente tocá-lo, para usar como combustível para seu spray. Parece que para pequenos usos, nenhuma carne é necessária. A carne pode voar dezenas de metros no ar caso necessário, mas Hot Pants tipicamente usa o spray dentro da proximidade de si mesma.",
+          "Se a carne borrifada toca em alguém, ele se funde com o indivíduo de várias maneiras prejudiciais ou benéficas dependendo do objetivo de Hot Pants:",
+          "Hot Pants pode transformar seu corpo inteiro em combustível para o spray, permitindo com que ela se torne mais líquida e se esguie por espaços estreitos, infiltrando a residência presidencial dessa maneira. Ela também pode remover partes de seu corpo como uma mão com o Cream Starter e borrifá-las para atacar ou agir de ângulos inesperados. O lado negativo dessa função é que uma parte do corpo removida transfere qualquer dor que ela sente de volta para a usuária."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Cream_Starter/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Cream_Starter/Cream_Starter_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Dirty Deeds Done Dirt Cheap",
+      "nomeWiki": "Dirty Deeds Done Dirt Cheap",
+      "pagina": "/Dirty_Deeds_Done_Dirt_Cheap",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Funny Valentine",
+          "pagina": "/Funny_Valentine"
+        }
+      ],
+      "resumo": "Dirty Deeds Done Dirt Cheap (いともたやすく行われるえげつない行為, Itomo Tayasuku Okonawareru Egetsunai Kōi) frequentemente abreviado como D4C (ディー･フォー･シー, Dī Fō Shī), é o Stand de Funny Valentine, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "いともたやすく行われるえげつない行為",
+          "links": []
+        },
+        "alias": {
+          "texto": "D4C (ディー･フォー･シー, Dī Fō Shī) | D・D・D・D・C",
+          "links": []
+        },
+        "engname": {
+          "texto": "D4C | Filthy acts, at a reasonable price",
+          "links": []
+        },
+        "user": {
+          "texto": "Funny Valentine | The Funniest Valentine (Apenas na Novel)",
+          "links": [
+            {
+              "nome": "Funny Valentine",
+              "pagina": "/Funny_Valentine/pt-br"
+            },
+            {
+              "nome": "The Funniest Valentine",
+              "pagina": "/The_Funniest_Valentine"
+            },
+            {
+              "nome": "Novel",
+              "pagina": "/JORGE_JOESTAR_(Novel)"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Dirty Deeds Done Dirt Cheap (Música e álbum do AC/DC)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Alcance Irrelevante | Humanoide Natural",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Alcance Irrelevante",
+              "pagina": "/Stand_Types/pt-br#Stands_com_Alcance_Irrelevante"
+            },
+            {
+              "nome": "Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Naturais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 61 (Habilidade apenas) | SBR Capítulo 62",
+          "links": [
+            {
+              "nome": "SBR Capítulo 61",
+              "pagina": "/SBR_Chapter_61"
+            },
+            {
+              "nome": "SBR Capítulo 62",
+              "pagina": "/SBR_Chapter_62"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "JoJo's Bizarre Adventure: All-Star Battle",
+          "links": [
+            {
+              "nome": "JoJo's Bizarre Adventure: All-Star Battle",
+              "pagina": "/JoJo%27s_Bizarre_Adventure:_All-Star_Battle"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoAVelocidadeAAlcanceC*PersistênciaAPrecisãoAPotencialAABCDE※(Alcance: 2m)A: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "A",
+          "links": []
+        },
+        "speed": {
+          "texto": "A",
+          "links": []
+        },
+        "range": {
+          "texto": "C (2m)",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "A",
+          "links": []
+        },
+        "potential": {
+          "texto": "A",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "A"
+        ],
+        "speed": [
+          "A"
+        ],
+        "range": [
+          "C (2m)"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "A"
+        ],
+        "potential": [
+          "A"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "D4C tem uma forma humanoide com grandes chifres retos que de certa forma lembram as orelhas de um coelho; uma mandíbula mascarada, e um corpo claro com as linhas de um tipo de costura. Ele foi criado com a imagem de couro sendo costurado junto, como em uma bola de beisebol. Abaixo de suas sobrancelhas, seus olhos parecem ter um olhar frio.",
+          "Depos de um encontro com Gyro Zeppeli, junto de Valentine, a aparência do D4C muda drasticamente como resultado do envelhecimento acelerado de Valentine causado pelo Stand de Gyro, perdendo uma camada de seu rosto, incluindo seus chifres. Mesmo após Valentine recuperar sua saúde, o D4C manteve sua nova forma.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "D4C é um dos Stands mais poderosos da obra. Em sua forma normal, ele é um Stand de curto-alcance Stand com velocidade e força acima da média. Ele é capaz de violentamente socar um homem para longe e desafia em velocidade um Diego transformado.",
+          "Embora ainda explorando seu potencial completo, Valentine é adepto e criativo com seus poderes.",
+          "Viagem Dimensional",
+          "Dirty Deeds Done Dirt Cheap permite mundos/dimensões paralelas coexistirem ao/no mesmo tempo e/ou lugar. Ele também permite seu usuário visitar esses mundos/dimensões paralelas e interagir com eles.",
+          "Valentine viaja ao ser fechado entre dois objetos, mostrado primeiro ao se pôr entre uma cadeira e o chão. Materiais líquidos, como ága também contam, e até mesmo poeira ou vapor. Valentine só precisa que uma parte infinitésima de si mesmo seja posta entre dois objetos para poder viajar entre dimensões. Seguindo isso, Valentine pode reaparecer de qualquer lugar, como sair das costas de alguém, presumidamente ao afetar objetos em uma dimensão vizinha. Uma das características iniciais desse poder era que Valentine era invulnerável a projéteis já que a parte do corpo acertada simplesmente se transformaria em um buraco, no entanto, isso foi deixado para trás após seu uso inicial.",
+          "Valentine também pode puxar outras pessoas ou itens para outras dimensões ao forçá-los entre dois objetos ou no objeto que ele usa como portal; por exemplo ele pode bater uma porta na pessoa enquanto ela está de costas para uma parede. No entanto, já que duas versões de uma pessoa ou objeto não podem coexistir na mesma dimensão, um deles deverá voltar ao seu próprio mundo. Caso não, e caso eles cheguem muito perto um do outro, eles ambos se desfarão, sendo divididos em esponjas de Menger antes da obliteração, potencialmente causando uma reação explosiva que pode ferir aqueles ali próximos. Essa regra não se aplica ao próprio Valentine. Valentine também pode parcialmente levar pessoas para uma nova dimensão, lhes imobilizando em um objeto.",
+          "Diego Brando já demonstrou que pessoas além do usuário do Stand podem puxar outras pessoas para outras dimensões ao reusar os mesmos objetos que foram usados para levá-los entre dimensões.",
+          "É explicado que, a gravidade como força é capaz de persistir com Valentine quando ele viaja entre dimensões. Isso o previne de se despedaçar e ser espalhado entre diferentes mundos.",
+          "Se Funny Valentine for ferido, ele pode ir para outra dimensão e transferir seu D4C para o Valentine desse mundo. Dito Valentine recebe a memória do Valentine anterior e se torna o 'Valentine Base' por virtude de agora possuir o Stand, mas sua consciência permanece diferente daquela de seu usuário anterior. De qualquer forma, já que cada Valentine é dedicado a juntar as partes do Cadáver e possuem a mesma personalidade, as diferenças não são notáveis. Além disso, ele pode convocar várias versões alternativas de si mesmo para uma dimensão alvo para exceder seus oponentes em número. Entretanto, esses Valentines não tem seus próprios D4Cs, esse Stand aparentemente sendo completamente único ao 'Mundo Base', o único universo onde o Cadáver Santo reside.",
+          "Durante os primeiros capítulos, pessoas eram de alguma forma capazes de ver dimensões diferentes de ângulos diferentes, mas essa propriedade nunca foi elaborada."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Dirty_Deeds_Done_Dirt_Cheap/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Dirty_Deeds_Done_Dirt_Cheap/D4C_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "D4C Love Train",
+      "nomeWiki": "D4C Love Train",
+      "pagina": "/D4C_Love_Train",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Funny Valentine",
+          "pagina": "/Funny_Valentine"
+        }
+      ],
+      "resumo": "D4C Love Train (D4C ラブトレイン, Dī Fō Shī Rabu Torein) é a forma evoluída do Dirty Deeds Done Dirt Cheap, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run. Ele foi dado a Funny Valentine pelo Cadáver Santo.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "D4C ラブトレイン",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Dī Fō Shī Rabu Torein",
+          "links": []
+        },
+        "user": {
+          "texto": "Funny Valentine | Lucy Steel",
+          "links": [
+            {
+              "nome": "Funny Valentine",
+              "pagina": "/Funny_Valentine/pt-br"
+            },
+            {
+              "nome": "Lucy Steel",
+              "pagina": "/Lucy_Steel/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Dirty Deeds Done Dirt Cheap (forma anterior) | Dirty Deeds Done Dirt Cheap (música e álbum do AC/DC) | Love Train (música dos The O'Jays)",
+          "links": [
+            {
+              "nome": "Dirty Deeds Done Dirt Cheap",
+              "pagina": "/Dirty_Deeds_Done_Dirt_Cheap/pt-br"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Alcance-Irrelevante | Fenômeno | Evoluído",
+          "links": [
+            {
+              "nome": "Alcance-Irrelevante",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Fenômeno",
+              "pagina": "/Stand_Types#Phenomenon_Stands"
+            },
+            {
+              "nome": "Evoluído",
+              "pagina": "/Stand_Types#Evolved_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 78",
+          "links": [
+            {
+              "nome": "SBR Capítulo 78",
+              "pagina": "/SBR_Chapter_78"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoAVelocidadeAAlcanceCPersistênciaAPrecisãoAPotencialCABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "A",
+          "links": []
+        },
+        "speed": {
+          "texto": "A",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "A",
+          "links": []
+        },
+        "potential": {
+          "texto": "C",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "A"
+        ],
+        "speed": [
+          "A"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "A"
+        ],
+        "potential": [
+          "C"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Love Train se manifesta como um vão no espaço que é gerado de Lucy Steel. Sua borda com o mundo real enquanto ele gera uma parede de raios verticais de luz. Eles são normalmente vistos cercando Funny e/ou o D4C.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Redireção de Azar",
+          "Enquanto o Love Train está ativo, Valentine fica efetivamente invencível, se escondendo dentro de uma dimensão portátil (também descrita como um vão no espaço) delimitado por uma parede de luz que lhe segue. A parede de luz, originada do corpo de Lucy, que tem a habilidade de redirecionar qualquer azar que venha a ele, deixando apenas boa sorte. A energia prejudicial que passa pela parede de luz é enviada para longe do usuário e é passada para indivíduos de outro lugar da Terra como má sorte. Onde o azar é redirecionado é projetado dentro dos vãos do Love Train.",
+          "Por exemplo, os disparos de Johnny poderiam ser nulificados e o mau potencial causado por eles se manifestou como um acidente fatal que pode afetar qualquer outra pessoa no mundo. Por causa de Valentine conseguir manipular a forma da dimensão portátil como ele quiser, ela pode permiti-lo aparentemente ficar de pé no meio do ar, planar à altas velocidades ou se achatar. É mostrado quando ele persegue Johnny e Gyro nos trilhos do trem, e em um campo gramado.",
+          "Adicionalmente, objetos neutros continuamente se movem para perto de Lucy, incluindo árvores, sinais, e até mesmo os oceanos. Essas mudanças de posição parecem favorecer Valentine. Além de ser invencível aos ataques enquanto dentro do vão no espaço, D4C pode fazer até seus ataques mais insignificantes se tornarem fatais. Qualquer ferimento. Qualquer ferimento pode rapidamente viajar até ele eventualmente chegar à um lugar vital antes de causar dano; um arranhão ou mordida no dedo pode se transformar em um arranhão no coração. O único lado negativo é que o D4C deve temporariamente sair da segurança do vão no espaço e se torna vulnerável.",
+          "Love Train pode apenas ser usado a uma certa distância de Lucy, então se ela for movido para longe dele, então ele é puxado com ela à força e deve sair da parede para andar livremente.",
+          "O único poder conhecido capaz de quebrar o D4C Love Train é o Spin Áureo."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/D4C_Love_Train/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/D4C_Love_Train/D4C_Love_Train_Infobox_Manga.JPG"
+        ]
+      }
+    },
+    {
+      "nome": "In a Silent Way",
+      "nomeWiki": "In a Silent Way",
+      "pagina": "/In_a_Silent_Way",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Sandman",
+          "pagina": "/Sandman"
+        }
+      ],
+      "resumo": "In a Silent Way (イン・ア・サイレント・ウェイ, In A Sairento Wei) is the Stand of Sandman, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "イン・ア・サイレント・ウェイ",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "In A Sairento Wei",
+          "links": []
+        },
+        "engname": {
+          "texto": "Silent Ways",
+          "links": []
+        },
+        "user": {
+          "texto": "Sandman",
+          "links": [
+            {
+              "nome": "Sandman",
+              "pagina": "/Sandman"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "In a Silent Way (Miles Davis album)",
+          "links": []
+        },
+        "type": {
+          "texto": "Close-Range | Artificial Humanoid",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Artificial Humanoid",
+              "pagina": "/Stand_Types#Artificial_Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 1 (Arm only) | SBR Chapter 44 (1st full debut)",
+          "links": [
+            {
+              "nome": "SBR Chapter 1",
+              "pagina": "/SBR_Chapter_1"
+            },
+            {
+              "nome": "SBR Chapter 44",
+              "pagina": "/SBR_Chapter_44"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Chapter 43",
+          "links": [
+            {
+              "nome": "SBR Chapter 43",
+              "pagina": "/SBR_Chapter_43"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeCSpeedAgility and reflexes as well as performance speedCRangeRange of manifestation, range of ability influence, and spatial mobilityDStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityAPrecisionAccuracy and range of influence/effect of their abilities to specified targetsDPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesBABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "C",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "D",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "D",
+          "links": []
+        },
+        "potential": {
+          "texto": "B",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "C"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "D"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "D"
+        ],
+        "potential": [
+          "B"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "In a Silent Way is a humanoid Stand, decorated with an assortment of references to the art of the indigenous peoples of the Americas, including a war bonnet and a head/face resembling the Mosaic mask of Tezcatlipoca. Its arms and torso bear small, evenly spaced studs/bumps, and it wears two columns of two or three roses on its chest.",
+          "The Stand's design comes from Native American wall art and paintings, with roses on its chest in order to create a mismatch.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "In a Silent Way fights through indirect means such as planting sound hazards like traps or remotely piloting constructs. It never shows any form of combat ability besides wielding a knife to deflect Tusk's bullets.",
+          "The nature and versatility of In a Silent Way's sound power enables Sandman to attack enemies from afar in various ways. As a result, it is subpar at close range, which proves fatal against a point-blank shot from Johnny Joestar.",
+          "Sound Storage",
+          "In a Silent Way's basic ability is to store sounds in objects or even people.",
+          "By affecting an object with a characteristic action, like stabbing it, Sandman stores the corresponding sound in the object. If someone touches said object, the sound is released as a hazard that is characteristic of the same sound (e.g. \"burning\", \"cutting\", \"stabbing\") affecting the thing it has touched. For instance, if a cutting sound is stored inside a ladder, anyone or anything touching the ladder would be cut to pieces.",
+          "It allows Sandman to ambush enemies with environmental hazards while hiding.",
+          "Three-Dimensional Sound Construct",
+          "Sandman is able to construct three-dimensional sound effects with properties pertaining to what the sound effect is. For example, Sandman swings his knife around to create a \"whoosh\" sound effect that allows him to deflect Johnny Joestar's nail bullets. Additionally, Sandman is able to use this sound effect as a platform to levitate above the ground.",
+          "These sound effects are similar in appearance to Japanese kana.",
+          "Sound Homunculus",
+          "If he needs to direct his attacks, Sandman can create and manipulate artificial homunculi out of the environment.",
+          "Those constructs are able to move around and, with the right form, can fly to a target to attack them. Unlike the sound storage, sound constructs can selectively affect the object they touch, and like sound they can make the hazard either go through objects to affect a chosen target directly, bounce against obstacles, or create a constructive interference with several sounds to strengthen the attack. Depending on the material, the sound attacks can be dampened or enhanced. A \"fire\" sound going through mud will be weakened, and it is said that water is the best medium through which he can send sounds.",
+          "In conjunction with Diego Brando's Scary Monsters, constructs can even be turned into dinosaurs that track targets while charged with destructive sound."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/In_a_Silent_Way/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/In_a_Silent_Way/In_a_Silent_Way_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Hey Ya!",
+      "nomeWiki": "Hey Ya!",
+      "pagina": "/Hey_Ya!",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Pocoloco",
+          "pagina": "/Pocoloco"
+        }
+      ],
+      "resumo": "Hey Ya! (ヘイ・ヤー, Hei Yā) is the Stand of Pocoloco, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ヘイ・ヤー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Hei Yā",
+          "links": []
+        },
+        "user": {
+          "texto": "Pocoloco",
+          "links": [
+            {
+              "nome": "Pocoloco",
+              "pagina": "/Pocoloco"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Hey Ya! (Outkast song) | Hey! Ya! (Pocoloco's horse)",
+          "links": [
+            {
+              "nome": "Hey! Ya!",
+              "pagina": "/Hey!_Ya!"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Close-Range | Artificial Humanoid | Sentient",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Artificial Humanoid",
+              "pagina": "/Stand_Types#Artificial_Humanoid_Stands"
+            },
+            {
+              "nome": "Sentient",
+              "pagina": "/Stand_Types#Sentient_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 9",
+          "links": [
+            {
+              "nome": "SBR Chapter 9",
+              "pagina": "/SBR_Chapter_9"
+            }
+          ]
+        },
+        "animedebut": {
+          "texto": "SBR Episode 1 (Voice only)",
+          "links": [
+            {
+              "nome": "SBR Episode 1",
+              "pagina": "/SBR_Episode_1"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "JOJOVELLER",
+          "links": [
+            {
+              "nome": "JOJOVELLER",
+              "pagina": "/JOJOVELLER"
+            }
+          ]
+        },
+        "seiyuu": {
+          "texto": "Kenichiro Matsuda (Anime)",
+          "links": [
+            {
+              "nome": "Kenichiro Matsuda",
+              "pagina": "/Kenichiro_Matsuda"
+            },
+            {
+              "nome": "Anime",
+              "pagina": "/Steel_Ball_Run_(Anime)"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeESpeedAgility and reflexes as well as performance speedERangeRange of manifestation, range of ability influence, and spatial mobilityEStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsEPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesEABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "E",
+          "links": []
+        },
+        "range": {
+          "texto": "E",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "E",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E"
+        ],
+        "speed": [
+          "E"
+        ],
+        "range": [
+          "E"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Hey Ya! is a small, roughly humanoid Stand. Its head represents an upturned bucket with two uneven holes for eyes. Hey Ya!'s lower jaw is pinned with bolts, and is lined with small, sharp teeth. There is also a horizontal line of bolts above its mouth.",
+          "Hey Ya! has hollow cylinders lining the top of its head with strands of rope-like hair on the ends of them. The Stand's body is robotic with a chest and a lower torso that are connected with a chain-like spine. The Stand also has thin arms, thin legs, and shoulder pads. On specific parts of its body, such as the shoulders and hands, tiny bolts can be seen.",
+          "Color Schemes"
+        ],
+        "Personality": [
+          "As part of its ability, Hey Ya! is an overtly positive and friendly character towards its user. While a bit demanding with its requests, it nonetheless means only wellness towards Pocoloco, not unlike a trainer. Its capacity for speech serves almost-exclusively to boost Pocoloco's mood and confidence. One of its keywords is \"luck\", telling its user that luck is on his side, whether or not it is actually true, in order to motivate him."
+        ],
+        "Abilities": [
+          "Hey Ya! is a Stand with no apparent combat ability, whose only purpose is to talk to and advise its user. It is notably one of the few Stands in the part that did not originate from the Devil's Palm and is seemingly a physical manifestation of energy derived from a combination of Pocoloco's inherent qualities and his newfound confidence from hearing the prophecy.",
+          "Positive Reinforcement",
+          "Hey Ya! is seen lurking about Pocoloco, serving as an motivational guide meant for taking advantage of his own luck. Despite the misconception that the Stand improves Pocoloco's luck, it doesn't do anything other than actively encourage its user and put them in a good mood. Despite all this, Pocoloco begins having a string of fortuitous circumstances happen to him when he follows Hey Ya!'s orders through sheer coincidence. Hey Ya!'s motivation alone was powerful enough to drive Pocoloco to win the Steel Ball Run in the end."
+        ],
+        "Quotes": []
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Hey_Ya_/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Hey_Ya_/Hey_Ya!_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Tomb of the Boom 1 2 3",
+      "nomeWiki": "Tomb of the Boom 1 2 3",
+      "pagina": "/Tomb_of_the_Boom_1_2_3",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Boomboom Family",
+          "pagina": "/Boomboom_Family"
+        }
+      ],
+      "resumo": "Tomb of the Boom 1 2 3 (トゥーム・オブ・ザ・ブーム ワン・ツー・スリー, Tūmu Obu Za Būmu Wan Tsū Surī) are the Stands of the Boomboom Family, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "MangaAnime123123",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "トゥーム・オブ・ザ・ブーム ワン・ツー・スリー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Tūmu Obu Za Būmu Wan Tsū Surī",
+          "links": []
+        },
+        "engname": {
+          "texto": "Tomb of the Noise (EoH) | Tomb of the Noise 123 (Netflix)",
+          "links": [
+            {
+              "nome": "EoH",
+              "pagina": "/Eyes_of_Heaven"
+            },
+            {
+              "nome": "Netflix",
+              "pagina": "/Netflix"
+            }
+          ]
+        },
+        "user": {
+          "texto": "Boomboom Family (Collectively) | Benjamin Boomboom (1) | Andre Boomboom (2) | L.A. Boomboom (3)",
+          "links": [
+            {
+              "nome": "Boomboom Family",
+              "pagina": "/Boomboom_Family"
+            },
+            {
+              "nome": "Benjamin Boomboom",
+              "pagina": "/Benjamin_Boomboom"
+            },
+            {
+              "nome": "Andre Boomboom",
+              "pagina": "/Andre_Boomboom"
+            },
+            {
+              "nome": "L.A. Boomboom",
+              "pagina": "/L.A._Boomboom"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Tomb of the Boom (Outkast song)",
+          "links": []
+        },
+        "type": {
+          "texto": "Close-Range | Natural Non-Humanoid | Multi-User",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Natural Non-Humanoid",
+              "pagina": "/Stand_Types#Natural_Non-Humanoid_Stands"
+            },
+            {
+              "nome": "Multi-User",
+              "pagina": "/Stand_Types#Multi-User_Stands"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Devil's Palm exposure",
+          "links": [
+            {
+              "nome": "Devil's Palm",
+              "pagina": "/Devil%27s_Palm"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 16 (1) | SBR Chapter 15 (2) | SBR Chapter 19 (3)",
+          "links": [
+            {
+              "nome": "SBR Chapter 16",
+              "pagina": "/SBR_Chapter_16"
+            },
+            {
+              "nome": "SBR Chapter 15",
+              "pagina": "/SBR_Chapter_15"
+            },
+            {
+              "nome": "SBR Chapter 19",
+              "pagina": "/SBR_Chapter_19"
+            }
+          ]
+        },
+        "animedebut": {
+          "texto": "SBR Episode 3 (2 & Ability of 1) | SBR Episode 4 (1 & 3)",
+          "links": [
+            {
+              "nome": "SBR Episode 3",
+              "pagina": "/SBR_Episode_3"
+            },
+            {
+              "nome": "SBR Episode 4",
+              "pagina": "/SBR_Episode_4"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "JOJOVELLER",
+          "links": [
+            {
+              "nome": "JOJOVELLER",
+              "pagina": "/JOJOVELLER"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeDSpeedAgility and reflexes as well as performance speedCRangeRange of manifestation, range of ability influence, and spatial mobilityCStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsCPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesCABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "D",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "C",
+          "links": []
+        },
+        "potential": {
+          "texto": "C",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "D"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "C"
+        ],
+        "potential": [
+          "C"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Each of the Stands that make up Tomb of the Boom are about half the size of their users, featuring vaguely humanoid upper bodies and slight differences in appearance.",
+          "All three versions possess an elongated face with a long tongue coming out of a small mouth, resembling a giant anteater. Tomb of the Boom 2 and 3 have an open head, revealing a striped sphere with an open gap resembling a nucleus. Tomb of the Boom 1 instead has hood-like metallic bars over its head.",
+          "Their eyes and the shape of their lips differ. Tomb of the Boom 1 has narrow eyes with large irises and thick, puckered lips. Tomb of the Boom 2 is the most anteater-like, with a perpetual smile on its face, and elongated eyes with upturned outer corners. Tomb of the Boom 3 has round, bulging eyes, circular, multi-layered lips, and pointed ears.",
+          "All versions of Tomb of the Boom possess long, sharp fingers, with Tomb of the Boom 3 having four on each hand rather than five. Tomb of the Boom 2's hands are striped.",
+          "Additionally, they all wear clothing resembling overalls with studded shoulder straps. In the anime, each shoulder strap has two studs, whereas Tomb of the Boom 2 and 3 have four studs on each strap in the manga. Tomb of the Boom 2 also has rows of studs along the edges of its outfit beneath its arms.",
+          "Tomb of the Boom 2's lower body is a mass of human legs, with some disproportionately small, arranged in such a way that they resemble the legs of a crab. While the full bodies of the other two iterations are never shown in the manga, the concept designs for the anime adaptation have all three iterations of Tomb of the Boom having the same arrangement of four legs, though Tomb of the Boom 2 is still the only one whose legs are fully shown on screen.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Magnetism",
+          "Tomb of the Boom consists of three separate Stands that manipulate iron through the power of magnetism. Despite their differing appearances, the abilities of each Tomb of the Boom are virtually identical, with each member of the Boomboom Family demonstrating different applications of their power. The three can also use their abilities cooperatively, with the magnetic force affecting their targets increasing significantly when all three members approach together.",
+          "Tomb of the Boom 1",
+          "Benjamin uses Tomb of the Boom 1 to directly manipulate and reshape iron through magnetism. He can move iron beneath his skin to alter his facial features, allowing him to disguise himself as another person. He can also form sharp metal blades from his body, which he uses to cut Mountain Tim's rope.",
+          "Benjamin can also violently shred metallic objects in his immediate vicinity, reducing one of Gyro's Steel Balls to a small fragment before it can strike him. Tomb of the Boom 1 itself is capable of physically shielding L.A. from revolver bullets.",
+          "Tomb of the Boom 2",
+          "Andre uses Tomb of the Boom 2 to magnetize anyone who comes into contact with his blood, causing nearby iron objects to be attracted toward them. The ability remains effective even when his blood is separated from his body. Once affected, iron objects in the surrounding area are drawn toward the victims and can become embedded in their bodies, causing severe injuries.",
+          "After Gyro comes into contact with Andre's blood, various metallic objects begin gathering around and inside his body. Benjamin later exploits Andre's ability by shooting through his wound to splash his blood onto Johnny, magnetizing him as well. Benjamin also throws a bloodstained horseshoe at Mountain Tim while disguised as Johnny, exposing him to the same magnetic effect, although the source of the blood on the horseshoe is not specified.",
+          "The strength of the magnetism is influenced by proximity. Moving far enough away from the Boomboom Family weakens its effect, while approaching the users causes the attraction to intensify. Affected individuals also attract one another, with the magnetic force becoming powerful enough to pull their bodies together and tear them apart. This effect becomes especially dangerous when multiple magnetized people are brought close together.",
+          "Tomb of the Boom 3",
+          "L.A. uses Tomb of the Boom 3 to gather and manipulate iron sand from the surrounding ground. He can gather and solidify the sand around opponents to bind their limbs and prevent them from moving. The iron sand can also form into the physical shape of Tomb of the Boom 3 itself, allowing it to physically attack and restrain opponents. L.A. draws the Stand's face on the ground before manipulating the surrounding sand, though it is unclear whether doing so is necessary to activate the ability.",
+          "L.A. can also manipulate the iron in a person's bloodstream, attempting to kill Johnny by pulling it out of his body and tearing through his arteries."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Tomb_of_the_Boom_1_2_3/avatar-anime-parte7.gif",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Tomb_of_the_Boom_1_2_3/Tomb_of_the_Boom_1_Infobox_Manga.png",
+          "assets/stands/Tomb_of_the_Boom_1_2_3/Tomb_of_the_Boom_2_Infobox_Manga.png",
+          "assets/stands/Tomb_of_the_Boom_1_2_3/Tomb_of_the_Boom_3_Infobox_Manga.png",
+          "assets/stands/Tomb_of_the_Boom_1_2_3/Tomb_of_the_Boom_1_Infobox_Anime.png",
+          "assets/stands/Tomb_of_the_Boom_1_2_3/TombOfTheBoom2_Anime_Render.png",
+          "assets/stands/Tomb_of_the_Boom_1_2_3/Tomb_of_the_Boom_3_Infobox_Anime.png"
+        ]
+      }
+    },
+    {
+      "nome": "Boku no Rhythm wo Kiitekure",
+      "nomeWiki": "Boku no Rhythm wo Kiitekure",
+      "pagina": "/Boku_no_Rhythm_wo_Kiitekure",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Oyecomova",
+          "pagina": "/Oyecomova"
+        }
+      ],
+      "resumo": "Boku no Rhythm wo Kiitekure (ボクのリズムを聴いてくれ, Boku no Rizumu o Kiitekure, lit. \"Ouça ao Meu Ritmo\", ou em espanhol \"Oye Como Va, Mi Ritmo\") é o Stand de Oyecomova, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "MangáAnime",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ボクのリズムを聴いてくれ",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Boku no Rizumu o Kiitekure",
+          "links": []
+        },
+        "engname": {
+          "texto": "Tic Tac Boom",
+          "links": []
+        },
+        "user": {
+          "texto": "Oyecomova",
+          "links": [
+            {
+              "nome": "Oyecomova",
+              "pagina": "/Oyecomova/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Oye Cómo Va[a] (Música de Tito Puente, posteriormente recebendo um cover por Santana)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Não Humanoide Natural",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Não Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Naturais"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Exposição a Palma do Diabo",
+          "links": [
+            {
+              "nome": "Palma do Diabo",
+              "pagina": "/Devil%27s_Palm/pt-br"
+            }
+          ]
+        },
+        "awakening": {
+          "texto": "28 de setembro de 1890",
+          "links": []
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 21 | SBR Capítulo 23 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "SBR Capítulo 21",
+              "pagina": "/SBR_Chapter_21"
+            },
+            {
+              "nome": "SBR Capítulo 23",
+              "pagina": "/SBR_Chapter_23"
+            }
+          ]
+        },
+        "animedebut": {
+          "texto": "SBR Episódio 5",
+          "links": [
+            {
+              "nome": "SBR Episódio 5",
+              "pagina": "/SBR_Episode_5"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "JOJOVELLER",
+          "links": [
+            {
+              "nome": "JOJOVELLER",
+              "pagina": "/JOJOVELLER/pt-br"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoBVelocidadeCAlcanceCPersistênciaBPrecisãoEPotencialCABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "B",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "C",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "B"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "C"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Boku no Rhythm wo Kiitekure se assemelha a um bico-de-tamanco com dois discos redondos nos lados de sua cabeça. Ele veste um grande e claro manto esfarrapado. Como resultado, seu presumido corpo não é visto mas dois braços com o mesmo padrão esfarrapado são visíveis.",
+          "Seu design foi baseado em artes nativo-africanas.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Boku no Rhythm wo Kiitekure permite que Oyecomova transforme as coisas que toca em bombas, usando seu ambiente para atacar oponentes e restringir seus movimentos.",
+          "Bombas Pino de Contato",
+          "A habilidade gera dispositivos em formato de relógio nas quais os pinos são inseridos no material afetado. Quando um pino é solto, a bomba é ativada e explode depois de vários segundos.",
+          "Oyecomova pode aplicar a habilidade a corpos vivos e substâncias de maneiras diferentes. Ele pode usar sua própria pele para prender Mountain Tim quando Tim pega seu ombro, e planta bombas na mão direita de Gyro Zeppeli ao tocá-la. Ele também transforma um rato, gotas de água, um enxame de vespas, e a fumaça de um cigarro em bombas. A fumaça machuca Gyro por dentro de sua boca quando ele a asspira.",
+          "Oyecomova pode criar várias bombas simultaneamente, como demonstrado pelo enxame de insetos explosivos. As explosões são poderosas o suficiente para destruir grande parte do hotel do ponto de descanso e gravemente ferir Tim, forçando ele a se retirar da corrida.",
+          "Limitações e Contramedidas",
+          "Oyecomova não pode controlar o poder explosivo de suas bombas. Deixar um pino pressionado no lugar prevene a bomba de detonar, forçando Gyro a manter um aperto firme em sua esfera de aço depois que sua mão é afetada. Um pino removido pode ser inserido novamente em sua posição original para prevenir a detonação. Tim instrui Gyro a fazer isso; incapaz de abrir sua mão sem soltar os pinos restantes, Gyro força o pino caído atráves da parte de trás de sua mão de volta para sua palma.",
+          "Até manter os pinos pressionados pode ser difícil: o suor de Gyro faz os pinos deslizam os pinos de sua palma, eventualmente prevenindo ele de segurar todos eles no lugar. Tim também explica que matar Oyecomova faria com que a habilidade do Stand desaparecesse.",
+          "As bombas explodem depois de vários segundos que são soltas, dando tempo o bastante para um alvo rápido a se distanciar. Gyro e Johnny tomam vantagem disso para acelerarem seus cavalos, fazendo as explosões acontecerem atrás deles.",
+          "Gyro usa a teia de uma aranha para pegar os insetos explosivos. Contra as bombas de fumaça, ele diz para Johnny manter sua boca fechada para ele e seu cavalo não respirarem."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Boku_no_Rhythm_wo_Kiitekure/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Boku_no_Rhythm_wo_Kiitekure/Boku_no_Rhythm_wo_Kiitekure_Infobox_Manga.png",
+          "assets/stands/Boku_no_Rhythm_wo_Kiitekure/Boku_no_Rhythm_wo_Kiitekure_Infobox_Anime.png"
+        ]
+      }
+    },
+    {
+      "nome": "Wired",
+      "nomeWiki": "Wired",
+      "pagina": "/Wired",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Pork Pie Hat Kid",
+          "pagina": "/Pork_Pie_Hat_Kid"
+        }
+      ],
+      "resumo": "Wired (ワイアード, Waiādo) is the Stand of Pork Pie Hat Kid, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "MangaAnime",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "ワイアード",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Waiādo",
+          "links": []
+        },
+        "engname": {
+          "texto": "Roped",
+          "links": []
+        },
+        "user": {
+          "texto": "Pork Pie Hat Kid",
+          "links": [
+            {
+              "nome": "Pork Pie Hat Kid",
+              "pagina": "/Pork_Pie_Hat_Kid"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Wired (Jeff Beck album)",
+          "links": []
+        },
+        "type": {
+          "texto": "Close-Range | Reconnaissance | Artificial Non-Humanoid",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Reconnaissance",
+              "pagina": "/Stand_Types#Reconnaissance_Stands"
+            },
+            {
+              "nome": "Artificial Non-Humanoid",
+              "pagina": "/Stand_Types#Artificial_Non-Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 26",
+          "links": [
+            {
+              "nome": "SBR Chapter 26",
+              "pagina": "/SBR_Chapter_26"
+            }
+          ]
+        },
+        "animedebut": {
+          "texto": "SBR Episode 7",
+          "links": [
+            {
+              "nome": "SBR Episode 7",
+              "pagina": "/SBR_Episode_7"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Chapter 27",
+          "links": [
+            {
+              "nome": "SBR Chapter 27",
+              "pagina": "/SBR_Chapter_27"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeDSpeedAgility and reflexes as well as performance speedBRangeRange of manifestation, range of ability influence, and spatial mobilityBStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsDPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesDABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "D",
+          "links": []
+        },
+        "speed": {
+          "texto": "B",
+          "links": []
+        },
+        "range": {
+          "texto": "B",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "D",
+          "links": []
+        },
+        "potential": {
+          "texto": "D",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "D"
+        ],
+        "speed": [
+          "B"
+        ],
+        "range": [
+          "B"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "D"
+        ],
+        "potential": [
+          "D"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Wired takes the form of a winch inside Pork Pie Hat Kid's mouth, which winds two metallic cables, each fitted with a hook at the end. The hooks may vary in size, appearing small enough to fit snugly inside matching recesses in Pork Pie Hat Kid's tongue when at rest, but large enough to fully pierce through a person's cheek when active.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Wired allows Pork Pie Hat Kid to ambush targets from a distance and reel them back to his location. Its hooks catch Gyro Zeppeli and his horse before Johnny Joestar can identify the attacker. The winch is strong enough to lift a horse, and the hooks can tear a snake apart. Its cables also withstand Johnny's attempt to cut them with his spinning nails.",
+          "Teleporting Hooks",
+          "Pork Pie Hat Kid operates Wired by lowering its hooks into a dish of water, through which he can view a distant location and send the hooks to catch his targets. His view through the water is from above.",
+          "Wired uses \"bait\" as an outlet for its hooks. For example, Pork Pie Hat Kid places feathers in the dish, allowing the hooks to emerge from the undersides of vulture feathers falling near Johnny and Gyro. He later uses beetles instead, bringing the hooks beneath the rock where Johnny is hiding. The bait therefore does not have to lure the victim into approaching it; it allows Pork Pie Hat Kid to bring his hooks within reach.",
+          "A person can also serve as bait. Pork Pie Hat Kid deliberately keeps Gyro alive and makes him the outlet for Wired's hooks. When Johnny approaches to rescue Gyro, the hooks emerge from Gyro's body and catch Johnny. Using Gyro as bait also prevents Johnny from safely attacking Pork Pie Hat Kid through the connection. When Johnny fires his nails back through it, they emerge from Gyro's body instead, injuring Gyro rather than reaching Pork Pie Hat Kid.",
+          "Pork Pie Hat Kid can also send objects through the water. He drops rocks through it to search for Johnny, then pours oil and drops a lit match through it to set Johnny's hiding place on fire. Objects larger than the opening can pass through as well. Slow Dancer's body distorts to fit through the underside of a feather, then returns to its normal shape without apparent injury.",
+          "Limitations and Countermeasures",
+          "The dish gives Pork Pie Hat Kid only a small view from above, making it difficult to find a target concealed under cover or camouflaged against the ground. He consequently relies on other methods to locate Johnny, such as releasing Slow Dancer and watching the horse search for its rider.",
+          "The connection works in both directions. Johnny fires his nails through the beetles and feathers to attack Pork Pie Hat Kid through the dish, while Gyro sends a Steel Ball through the water to reveal their captor's position to Johnny. Pork Pie Hat Kid is also vulnerable while both hooks are occupied. Johnny exploits this by having him tear apart a wooden decoy, then firing at him before he can defend himself."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Wired/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Wired/Wired_Infobox_Manga.png",
+          "assets/stands/Wired/Wired_Infobox_Anime.png"
+        ]
+      }
+    },
+    {
+      "nome": "Mandom",
+      "nomeWiki": "Mandom",
+      "pagina": "/Mandom",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Ringo Roadagain",
+          "pagina": "/Ringo_Roadagain"
+        }
+      ],
+      "resumo": "Mandom (マンダム, Mandamu) é o Stand de Ringo Roadagain, apresentado na sétima parte da série de JoJo's Bizarre Adventure, Steel Ball Run. Somente possuindo uma cabeça e ombros humanóides, Mandom concede a Ringo a habilidade de rebobinar o tempo para 6 segundos no passado.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "マンダム",
+          "links": []
+        },
+        "engname": {
+          "texto": "Mando (ASB)",
+          "links": [
+            {
+              "nome": "ASB",
+              "pagina": "/All-Star_Battle"
+            }
+          ]
+        },
+        "user": {
+          "texto": "Ringo Roadagain",
+          "links": [
+            {
+              "nome": "Ringo Roadagain",
+              "pagina": "/Ringo_Roadagain/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Mandom ~ Lovers of the World (Música de Jerry Wallace)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto-Alcance | Alcance-Irrelevante | Artificial Não-Humanoide",
+          "links": [
+            {
+              "nome": "Curto-Alcance",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Alcance-Irrelevante",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Artificial Não-Humanoide",
+              "pagina": "/Stand_Types"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 33 | SBR Capítulo 34 (1.ª aparição completa)",
+          "links": [
+            {
+              "nome": "SBR Capítulo 33",
+              "pagina": "/SBR_Chapter_33"
+            },
+            {
+              "nome": "SBR Capítulo 34",
+              "pagina": "/SBR_Chapter_34"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder Destrutivo∅VelocidadeAAlcance∅PersistênciaEPrecisão∅PotencialCABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "Nulo",
+          "links": []
+        },
+        "speed": {
+          "texto": "A",
+          "links": []
+        },
+        "range": {
+          "texto": "Nulo",
+          "links": []
+        },
+        "stamina": {
+          "texto": "E",
+          "links": []
+        },
+        "precision": {
+          "texto": "Nulo",
+          "links": []
+        },
+        "potential": {
+          "texto": "C",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "Nulo"
+        ],
+        "speed": [
+          "A"
+        ],
+        "range": [
+          "Nulo"
+        ],
+        "stamina": [
+          "E"
+        ],
+        "precision": [
+          "Nulo"
+        ],
+        "potential": [
+          "C"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Mandom toma a forma de uma cabeça como o centro de que parece um acessório metálico de pulso ampliado, dividindo e extendendo e terminando em gavinhas. Sua face é escura e sem características, fora onde ele tem um padrão de pequenas esferas lembrando olhos; pareado com linhas para formar um padrão de losangos orientados horizontalmente.",
+          "Seu design for inspirado pelo \"Bracelete de Treinamento da Liga Principal\" da série de mangá Star of the Giants.",
+          "Paletas de Cores"
+        ],
+        "Abilities": [
+          "Mandom nunca demonstra nenhuma forma de habilidade de combate, mas, ao invés disso, ajuda Ringo em seus duelos. Por mais que manter sua habilidade em segredo seria uma vantagem, Ringo prefere explicar seu poder para seu oponente devido a suas crenças.",
+          "Reversão do Tempo",
+          "Girando a coroa em seu relógio de pulso, Mandom vai rebobinar o tempo em exatamente 6 segundo, similar a Killer Queen Bites the Dust, voltando tudo para como estava 6 segundos atrás. Ringo não precisa girar a coroa si mesmo para ativar a habilidade; usando algo como uma bala para rodá-la também iria ativar a habilidade.",
+          "O relógio de puldo que Ringo usa é, na verdade um gatilho psicológico e é em teoria, desnecessário para a ativação do poder de Mandom. O processo de rebobinar os 6 segundos é supostamente instantânio e imperceptível de acordo com todos os indivíduos afetados, mas ele é visualmente representado no mangá com tudo sendo rebobinado. Ringo afirma que ele pode rebobinar o tempo em 6 segundos sem limitações, além de rodar a coroa=.",
+          "Indivíduos próximos irão lembrar os eventos dos segundos que foram rebobinados e, então, vítimas inconscientes da habilidade ficarão desorientadas. Ringo usou essa propriedade para desorientar Johnny, Gyro e Hot Pants em uma floresta desconhecida e fazendo-os se perder dentro dela. Porém, aqueles preparados, como Ringo, tiram vantagem da habilidade para desviar de ataques ou preparar impactos inesperados."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Mandom/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Mandom/Mandom_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Catch the Rainbow",
+      "nomeWiki": "Catch the Rainbow",
+      "pagina": "/Catch_the_Rainbow",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Blackmore",
+          "pagina": "/Blackmore"
+        }
+      ],
+      "resumo": "Catch the Rainbow (キャッチ・ザ・レインボー, Kyatchi Za Reinbō) é o Stand de Blackmore, apresentado na sétima parte da série de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "キャッチ・ザ・レインボー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Kyatchi Za Reinbō",
+          "links": []
+        },
+        "user": {
+          "texto": "Blackmore",
+          "links": [
+            {
+              "nome": "Blackmore",
+              "pagina": "/Blackmore/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Catch the Rainbow (Música de Rainbow)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto-Alcance (máscara) | Não-Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto-Alcance",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Não-Humanoide Artificial",
+              "pagina": "/Stand_Types#Artificial_Non-Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 36",
+          "links": [
+            {
+              "nome": "SBR Capítulo 36",
+              "pagina": "/SBR_Chapter_36"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder DestrutivoCVelocidadeCAlcanceBPersistênciaBPrecisãoDPotencialDABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "C",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "B",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "D",
+          "links": []
+        },
+        "potential": {
+          "texto": "D",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "C"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "B"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "D"
+        ],
+        "potential": [
+          "D"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Catch the Rainbow toma a forma de uma máscara, vestida por Blackmore. Ele tem sobrancelhas destacadas sobre seus buracos de olhos, não tem nariz, e a parte de baixo tem cinco fendas triangulares, com cinco buracos acima deles.",
+          "Ele tem uma cor clara, fora três listras coloridas cruzando de seu olho esquerdo à sua bochecha esquerda. As listras foram feitas como uma versão arco-íris de uma máscara de hockey.",
+          "Paletas de Cores"
+        ],
+        "Abilities": [
+          "Manipulação de Chuva",
+          "Catch the Rainbow permite que Blackmore utilize ou manipule a chuva de diversas maneiras incomuns, como permitindo viagem rápido ou em combate.",
+          "A habilidade mais básica de Catch de Rainbow é parar gotas de chuva e fazê-lo flutuar no ar, ficando sólidas o suficiente para ajudar Blackmore e também refletir projéteis como uma Bola de Aço. Com isso, Blackmore pode trilhar sobre elas e alcançar grandes alturas. Ele pode, ou parar algumas gotas para andar, parar várias delas dentro de uma área ampla ou criar lâminas com elas. Se um alvo tentar se mover na chuva parada por Catch the Rainbow, as gotas irão perfurar e penetrar nele, potencialmente criando feridas fatais.",
+          "Blackmore também pode se fundir com a chuva. Ele poder permitir que as gotas o atravessem, criando buracos em seu corpo, com as partes que desaparecem se materializando sob uma distância do seu corpo e continuando a funcionar. Por exemplo, ele pode projetar sua boca e falar com alguém que está longe. Ele pode se fundir completamento com a chuva e se tornar intangível como a água, desviar de tiros, e também viajar em altas velocidades ao longo de grandes distâncias, enquanto ainda chover.",
+          "Blackmore demonstra a habilidade para fechar suas feridas com gotas de chuva e parar qualquer sangramento, por mais que isso só funcione temporariamente."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Catch_the_Rainbow/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Catch_the_Rainbow/Catch_the_Rainbow_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Sugar Mountain",
+      "nomeWiki": "Sugar Mountain",
+      "pagina": "/Sugar_Mountain_(Stand)",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Giant Tree",
+          "pagina": "/Giant_Tree"
+        }
+      ],
+      "resumo": "Sugar Mountain (シュガー・マウンテンの泉, Shugā Maunten no Izumi, lit. \"Sugar Mountain's Spring\") is the Stand of a Great Tree, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "シュガー・マウンテンの泉",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Shugā Maunten no Izumi",
+          "links": []
+        },
+        "engname": {
+          "texto": "Snow Mountain's Spring",
+          "links": []
+        },
+        "user": {
+          "texto": "Great Tree | Sugar Mountain (Guardian)",
+          "links": [
+            {
+              "nome": "Great Tree",
+              "pagina": "/Great_Tree_of_Sugar_Mountain"
+            },
+            {
+              "nome": "Sugar Mountain",
+              "pagina": "/Sugar_Mountain"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Sugar Mountain (Neil Young song)",
+          "links": []
+        },
+        "type": {
+          "texto": "Range Irrelevant | Integrated | Materialized | Phenomenon",
+          "links": [
+            {
+              "nome": "Range Irrelevant",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Integrated",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Materialized",
+              "pagina": "/Stand_Types#Materialized_Stands"
+            },
+            {
+              "nome": "Phenomenon",
+              "pagina": "/Stand_Types#Phenomenon_Stands"
+            }
+          ]
+        },
+        "origin": {
+          "texto": "Born of a Devil's Palm",
+          "links": [
+            {
+              "nome": "Devil's Palm",
+              "pagina": "/Devil%27s_Palm"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 45",
+          "links": [
+            {
+              "nome": "SBR Chapter 45",
+              "pagina": "/SBR_Chapter_45"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "JOJOVELLER",
+          "links": [
+            {
+              "nome": "JOJOVELLER",
+              "pagina": "/JOJOVELLER"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeESpeedAgility and reflexes as well as performance speedERangeRange of manifestation, range of ability influence, and spatial mobilityEStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityAPrecisionAccuracy and range of influence/effect of their abilities to specified targetsEPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesEABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "E",
+          "links": []
+        },
+        "speed": {
+          "texto": "E",
+          "links": []
+        },
+        "range": {
+          "texto": "E",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "E",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "E"
+        ],
+        "speed": [
+          "E"
+        ],
+        "range": [
+          "E"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Sugar Mountain is a Stand bound to the body of an extremely large tree with a small spring lying between its roots. Fused within the trunk are its human victims, most of which display expressions of pain and grimace. Within the tree is a hollow space, with drawings of horses and oxen skulls on the walls. In the space is a wooden chest used by the current guardian to present new victims with their gifts.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "The Stand attaches itself to the great tree and functions as a trial for those who discover the tree and its current guardian. Although seemingly easy to pass, the test becomes more difficult as it goes on and will push a person's will to its limits.",
+          "The Guardian",
+          "The tree appoints one of the victims to fail its second trial as its guardian, charging them with interacting with passing people and giving them full disclosure about the tests. The individual's appearance is preserved despite the passing time, thus Sugar Mountain, a female of the same name, retains her youthful appearance despite being the tree's guardian for many years (around 50).",
+          "When several people fail the test, they become one with the tree; a limited number of persons can be absorbed, and when one is absorbed, the first in line is released and becomes the guardian.",
+          "Trial of Greed",
+          "The Stand affects a large area around the tree and activates when a person drops an object in one of the ponds and springs nearby.",
+          "A guardian (i.e. Sugar Mountain) then presents said dropped object to the person, along with several much more valuable objects, asking what it is they dropped in the water. For instance, Sugar Mountain asked whether Gyro dropped a Steel Ball, a diamond or a great gold nugget into the water.",
+          "If a person succumbs to their greed and lies, the tree punishes the offender: several vines will embed themselves into the person's tongue and then pull their innards out.",
+          "If a person tells the truth, they can keep the valuable object along with the original.",
+          "The trial is very straightforward and someone can even obtain the corpse part the tree is guarding easily by dropping animal body parts into the ponds and answering truthfully. If the person chooses to end it and leave with the riches, the second part of the test begins.",
+          "Trial of Avarice",
+          "Before sunset, the person who has obtained riches through the first trial must \"use them up\". If they fail, they are absorbed into the bark and must wait in line until they become the guardians of the tree. If they succeed, the current guardian and all those in line will finally be free to leave.",
+          "Through lawful exchanges such as trades agreed between parties, selling the riches, or losing them in a gamble, the person must get rid of everything they obtained, even the money given in exchange for the riches. To Johnny's dismay, even the Corpse Parts needed to be traded away. Giving away the riches, throwing them away, having them stolen or losing them because of cheating counts as not rightfully using them and thus the tree will begin to absorb the offender until they get back the lost item.",
+          "The trial may be surprisingly hard to complete. If one accumulates too many riches, the administrative ordeal of trading great sums of money, the mistrust of potential traders, or the threat of being stolen from can make someone lose time and fail the test."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Sugar_Mountain__Stand_/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Sugar_Mountain__Stand_/Sugar_Mountain_Stand_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "TATOO YOU!",
+      "nomeWiki": "TATOO YOU!",
+      "pagina": "/TATOO_YOU!",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Eleven Men",
+          "pagina": "/Eleven_Men"
+        }
+      ],
+      "resumo": "TATOO YOU! (TATOO(タトゥー) YOU(ユー)！, Tatū Yū!) is the shared Stand of the Eleven Men, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "TATOO(タトゥー) YOU(ユー)！",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Tatū Yū!",
+          "links": []
+        },
+        "engname": {
+          "texto": "Man in Tatoo",
+          "links": []
+        },
+        "user": {
+          "texto": "Eleven Men",
+          "links": [
+            {
+              "nome": "Eleven Men",
+              "pagina": "/Eleven_Men"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Tattoo You (The Rolling Stones album)",
+          "links": []
+        },
+        "type": {
+          "texto": "Close-Range (Mask) | Integrated (Tattoos) | Natural Non-Humanoid | Multi-User",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Integrated",
+              "pagina": "/Stand_Types#Range_Irrelevant_Stands"
+            },
+            {
+              "nome": "Natural Non-Humanoid",
+              "pagina": "/Stand_Types#Natural_Non-Humanoid_Stands"
+            },
+            {
+              "nome": "Multi-User",
+              "pagina": "/Stand_Types#Multi-User_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 45 | SBR Chapter 46 (1st full debut)",
+          "links": [
+            {
+              "nome": "SBR Chapter 45",
+              "pagina": "/SBR_Chapter_45"
+            },
+            {
+              "nome": "SBR Chapter 46",
+              "pagina": "/SBR_Chapter_46"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Chapter 47",
+          "links": [
+            {
+              "nome": "SBR Chapter 47",
+              "pagina": "/SBR_Chapter_47"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of time∅NullSpeedAgility and reflexes as well as performance speedERangeRange of manifestation, range of ability influence, and spatial mobilityCStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsEPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesEABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "Null",
+          "links": []
+        },
+        "speed": {
+          "texto": "E",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "E",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "Null"
+        ],
+        "speed": [
+          "E"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "E"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "TATOO YOU! is composed of black graphics resembling tribal tattoos spanning the backs and the back of the arms of each of the Eleven Men; with a small mask of light color on the back of their heads, including a small face with closed eyes and a neutral expression.",
+          "Its appearance may come from a tattoo that Hirohiko Araki once saw somewhere.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "TATOO YOU! functions as an ability shared between the Eleven Men, greatly enhancing their teamwork and defense. This Stand is unique in that eleven individuals share it.",
+          "Body Slide",
+          "TATOO YOU! allows the Eleven Men to phase into each other by using the tattoos on their backs as portals, then reappearing through the tattoos at will. The men can exist in the same spot all at once, appearing as if they are merged together.",
+          "It allows the men to hide inside each other in order to avoid attacks. Even if a member of the group dies with companions inside, those inside the tattoos are unharmed and can move the bodies to position themselves to attack."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/TATOO_YOU_/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/TATOO_YOU_/TATOO_YOU!_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Tubular Bells",
+      "nomeWiki": "Tubular Bells",
+      "pagina": "/Tubular_Bells",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Mike O.",
+          "pagina": "/Mike_O."
+        }
+      ],
+      "resumo": "Tubular Bells (チューブラー・ベルズ, Chūburā Beruzu) is the Stand of Mike O., featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "チューブラー・ベルズ",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Chūburā Beruzu",
+          "links": []
+        },
+        "engname": {
+          "texto": "Tubular",
+          "links": []
+        },
+        "user": {
+          "texto": "Mike O.",
+          "links": [
+            {
+              "nome": "Mike O.",
+              "pagina": "/Mike_O."
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Tubular Bells (Mike Oldfield album)",
+          "links": []
+        },
+        "type": {
+          "texto": "Automatic | Materialized | Phenomenon",
+          "links": [
+            {
+              "nome": "Automatic",
+              "pagina": "/Stand_Types#Automatic_Stands"
+            },
+            {
+              "nome": "Materialized",
+              "pagina": "/Stand_Types#Materialized_Stands"
+            },
+            {
+              "nome": "Phenomenon",
+              "pagina": "/Stand_Types#Phenomenon_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 48",
+          "links": [
+            {
+              "nome": "SBR Chapter 48",
+              "pagina": "/SBR_Chapter_48"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Chapter 48",
+          "links": [
+            {
+              "nome": "SBR Chapter 48",
+              "pagina": "/SBR_Chapter_48"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of timeDSpeedAgility and reflexes as well as performance speedDRangeRange of manifestation, range of ability influence, and spatial mobilityDStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityAPrecisionAccuracy and range of influence/effect of their abilities to specified targetsEPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesBABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "D",
+          "links": []
+        },
+        "speed": {
+          "texto": "D",
+          "links": []
+        },
+        "range": {
+          "texto": "D",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "E",
+          "links": []
+        },
+        "potential": {
+          "texto": "B",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "D"
+        ],
+        "speed": [
+          "D"
+        ],
+        "range": [
+          "D"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "E"
+        ],
+        "potential": [
+          "B"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "The Stand itself does not have a physical form. Tubular Bells manifests mainly upon Mike O.'s application of his ability. His balloon animals in particular assume some independence, and take on small, shining eyes.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Tubular Bells is mainly a versatile ability-granting Stand which enables Mike O. to create semi-automatic balloon animals, thus allowing him to deploy his Stand over long distances and have a comparatively wide array of options during a fight.",
+          "Like many ability-granting Stands, Tubular Bells is poor at defending its user, which proves to be Mike O.'s demise against Hot Pants's Cream Starter.",
+          "Metal Blowing",
+          "Tubular Bells grants its user Mike O. the ability to inflate metal items by blowing into them like balloons, and likewise shape them into automatic drones he can command.",
+          "Mike O. simply has to blow into any metallic object, such as nails, screws, fences, or tin shutters, to inflate them like he would a rubber balloon. The inflated metal then seems to partially take on the characteristics of a balloon, as it is able to be easily reshaped by Mike O., floats midair, and has great elasticity, able to stretch or flatten to fit inside narrow spaces.",
+          "The shape of the balloon seems to depend on the shape of the inflated object. With long nails, Mike O. forms long thin balloons, while most are typically round.",
+          "Mike O. is able to model the metal, and chooses to create balloon animals most of the time — for instance, dogs out of nails or birds out of tin shutters. The balloons can be remotely modeled, and they act on Mike O.'s command, able to follow simple instructions. For instance, he can register someone's scent into a balloon, which will automatically attack anyone with the same scent. However, that autonomy also means that the balloons can be lured into attacking someone unrelated.",
+          "When the balloon animals make contact with their target, they burrow into their body and revert to their original form, harmfully embedding their constituent object there. By converting a flat heavy metal object into a floating balloon, it is possible to fashion a guillotine with enough potential energy to tear down a wall."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Tubular_Bells/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Tubular_Bells/Tubular_Bells_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "20th Century BOY",
+      "nomeWiki": "20th Century BOY",
+      "pagina": "/20th_Century_BOY",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Magent Magent",
+          "pagina": "/Magent_Magent"
+        }
+      ],
+      "resumo": "20th Century BOY (20th(トウェンティース) Century(センチュリー) BOY(ボーイ), Towentīsu Senchurī Bōi) é o Stand de Magent Magent, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "20th(トウェンティース) Century(センチュリー) BOY(ボーイ)",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Towentīsu Senchurī Bōi",
+          "links": []
+        },
+        "user": {
+          "texto": "Magent Magent",
+          "links": [
+            {
+              "nome": "Magent Magent",
+              "pagina": "/Magent_Magent/pt-br"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "20th Century BOY (Música do T. Rex)",
+          "links": []
+        },
+        "type": {
+          "texto": "Curto Alcance | Não Humanoide Artificial",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Não Humanoide Artificial",
+              "pagina": "/Stand_Types/pt-br#Stands_Não_Humanoides_Artificiais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 52",
+          "links": [
+            {
+              "nome": "SBR Capítulo 52",
+              "pagina": "/SBR_Chapter_52"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Poder Destrutivo∅VelocidadeCAlcance∅PersistênciaAPrecisãoDPotencialCABCDEA: Muito BomB: BomC: MédioD: RuimE: Muito Ruim",
+          "links": []
+        },
+        "destpower": {
+          "texto": "Nulo",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "Nulo",
+          "links": []
+        },
+        "stamina": {
+          "texto": "A",
+          "links": []
+        },
+        "precision": {
+          "texto": "D",
+          "links": []
+        },
+        "potential": {
+          "texto": "C",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "Nulo"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "Nulo"
+        ],
+        "stamina": [
+          "A"
+        ],
+        "precision": [
+          "D"
+        ],
+        "potential": [
+          "C"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "20th Century BOY aparece como um pedaço vazio de armadura, composto de um capacete, duas ombreiras das quais saem duas longas alças, e um casco em suas costas do qual sai duas alças mais comparativamente planas.",
+          "Com olhos grandes, sua cabeça tem duas longas antenas; ele tem um parafuso nos dois ombros; e é marcado por um padrão lembrando uma pequena mão com três dedos simples, ambos em sua cabeça e em cada ponta de suas alças.",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "20th Century BOY não capacidades ofensivas especiais, mas sua defesa é excepcional. Embora Magent Magent deva ficar imóvel em seu estado invulnerável, não há maneira de ultrapassar sua defesa.",
+          "Como resultado, somente ataques sorrateiros e virar a imobilidade contra against Magent Magent são táticas efetivas contra ele.",
+          "Defesa Absoluta",
+          "Sempre que Magent Magent ativa o 20th Century BOY e se ajoelha no chão, ele fica invulnerável a qualquer dano.",
+          "Toda energia e projéteis iminentes são redirecionados para longe de Magent Magent indo para a terra ou ar, o deixando imune a qualquer dano, seja de ataques de Stand, bolas de aço, balas ou explosões. Ele também proteje com que Magent de outros perigos como o afogamento. A habilidade do 20th Century BOY foi explicada como seus cintos estendam como fios de aterramento, e redirecionem toda a energia de ataques inimigos para o chão.",
+          "Demonstrado pela primeira vez contra golpes das bolas de aço de Gyro, essa habilidade se prova efetiva no meio de um ataque quando uma bala que já está começando a perfurar o rosto de seu usuário é refletida.",
+          "O lado negativo dessa habilidade é como ela é ativada, requerindo que Magent Magent se exponha ou fique imóvel. Logo, pode-se fazer Magent abaixar sua guarda e saber que ele não poderá reagir a ataques sorrateiros rápido o suficiente, ou tirar vantagem da imobilização de Magent para colocá-lo em uma situação precária."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/20th_Century_BOY/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/20th_Century_BOY/20th_Century_BOY_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Civil War",
+      "nomeWiki": "Civil War",
+      "pagina": "/Civil_War",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Axl RO",
+          "pagina": "/Axl_RO"
+        }
+      ],
+      "resumo": "Civil War (シビル・ウォー, Shibiru Wō) is the Stand of Axl RO, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "シビル・ウォー",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Shibiru Wō",
+          "links": []
+        },
+        "engname": {
+          "texto": "The Abandoned",
+          "links": []
+        },
+        "user": {
+          "texto": "Axl RO",
+          "links": [
+            {
+              "nome": "Axl RO",
+              "pagina": "/Axl_RO"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Civil War (Guns N' Roses song)",
+          "links": []
+        },
+        "type": {
+          "texto": "Long-Range | Psychological Assault | Artificial Humanoid",
+          "links": [
+            {
+              "nome": "Long-Range",
+              "pagina": "/Stand_Types#Long-Range_Stands"
+            },
+            {
+              "nome": "Psychological Assault",
+              "pagina": "/Stand_Types#Psychological_Assault_Stands"
+            },
+            {
+              "nome": "Artificial Humanoid",
+              "pagina": "/Stand_Types#Artificial_Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 56",
+          "links": [
+            {
+              "nome": "SBR Chapter 56",
+              "pagina": "/SBR_Chapter_56"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Chapter 58",
+          "links": [
+            {
+              "nome": "SBR Chapter 58",
+              "pagina": "/SBR_Chapter_58"
+            }
+          ]
+        },
+        "seiyuu": {
+          "texto": "Taku Yashiro (Eyes of Heaven)",
+          "links": [
+            {
+              "nome": "Eyes of Heaven",
+              "pagina": "/Eyes_of_Heaven"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of time∅NullSpeedAgility and reflexes as well as performance speedCRangeRange of manifestation, range of ability influence, and spatial mobilityCStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsCPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilities∅NullABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "Null",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "C",
+          "links": []
+        },
+        "potential": {
+          "texto": "Null",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "Null"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "C"
+        ],
+        "potential": [
+          "Null"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Civil War is embodied by a humanoid figure. Its head is relatively overwrought, composed of many vertical, elliptical discs pressed together, three of which taper below into arrow shapes; while three objects, resembling those housing the filters in a gas mask, emanate from the base of its neck at its front and sides. The head is designed with the appearance of a distorted metal mask in mind, with it being the focus of the Stand.",
+          "A bare spine is visible from its ribcage to its pelvis, and its lower legs are shaped as fraying bell-bottoms. The legs were designed with the picture of plants, giving them a root-like appearance. From the knees to feet of the legs, the color is changed to a maroon, and the steel sticks out at various angles, revealing boots at the bottom.",
+          "Civil War generates ghosts of a sort, ranging in type from inanimate objects to humans with varying degrees of constitution and form, which could be considered part of it.",
+          "Color Schemes"
+        ],
+        "Personality": [
+          "Civil War has a mocking, arrogant personality, instilling guilt into people in order to manipulate them. However, it also shows fairness in battle, as shown when it told Gyro its own weakness in order to draw on its power to its fullest. It is unclear whether this is from the Stand's personality alone or if it is directly spoken by its user, Axl RO."
+        ],
+        "Abilities": [
+          "Civil War is a Stand with esoteric powers which relies on its control over people's guilt to attack them. Otherwise it doesn't show any combat capability of its own. Civil War is restrained to the closed space of the garbage dump in which Axl RO ambushes the protagonists although specters can pursue targets outside of the building.",
+          "Civil War itself can avoid attacks by breaking apart into several pieces, and is shown to effectively nullify Gyro's Steel Ball attacks.",
+          "Guilt Materialization",
+          "Civil War's primary ability is to manifest objects or people a target has left behind, given up, or feels guilt toward.",
+          "The manifestations of objects and people can appear suddenly from anywhere, for instance, shadows or reflections in a mirror. These objects attach themselves to and move through the target's body, creating a thin membrane that slowly engulfs them and the specters of people and animal likewise attack the target and try to fuse with them. Although a specter may also transform into the membrane, it can also physically harm its target. The membrane then gradually shrinks until the target is crushed. However, the target may survive the process, as did Hot Pants, who reappeared alive and well after being flattened by the membrane.",
+          "Once the target makes contact with the object, they instantly remember how and why they sacrificed it or feel guilty about it. Axl RO is also able to directly command the specters inside the garbage dump to attack enemies or defend himself.",
+          "The ability is very powerful and may result in the materialization of a great number of abandoned items or a large group of specters if the target is exceptionally guilty.",
+          "Civil War's weakness is water, which dissolves the membrane. Axl RO explains that dousing oneself with water is akin to cleansing oneself from their guilt and sin, hence the neutralization of Civil War's guilt powers.",
+          "Rebirth From Guilt",
+          "If Axl RO or anyone else inside Civil War's range is killed and their assailant feels the slightest guilt towards killing them, then the victim is brought back to life, and the guilt and sacrifices of the user manifest to attack the assailant. The victim is revived in what Axl RO describes as a \"purified\" state with all their sins \"absolved,\" as the murderer is transferred the burden of its victim's sins. Finally, the revived victim is invulnerable to the murderer's attack, as they persist because of the guilt their assailant feels.",
+          "This ability is therefore easily exploitable by both Axl RO and any of his opponents.",
+          "On the other hand, someone can mortally wound a victim and escape the Stand's range before the victim expires or simply feel no guilt in order to bypass Civil War's power."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Civil_War/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Civil_War/Civil_War_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "Chocolate Disco",
+      "nomeWiki": "Chocolate Disco",
+      "pagina": "/Chocolate_Disco",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "D-I-S-C-O",
+          "pagina": "/D-I-S-C-O"
+        }
+      ],
+      "resumo": "Chocolate Disco (チョコレート・ディスコ, Chokorēto Disuko) is the Stand of D-I-S-C-O, featured in the seventh part of the JoJo's Bizarre Adventure series, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "チョコレート・ディスコ",
+          "links": []
+        },
+        "ja_romaji": {
+          "texto": "Chokorēto Disuko",
+          "links": []
+        },
+        "user": {
+          "texto": "D-I-S-C-O",
+          "links": [
+            {
+              "nome": "D-I-S-C-O",
+              "pagina": "/D-I-S-C-O"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "Chocolate Disco (Perfume song)",
+          "links": [
+            {
+              "nome": "Chocolate Disco",
+              "pagina": "/Chocolate_Disco_(song)"
+            },
+            {
+              "nome": "Perfume",
+              "pagina": "/Perfume"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Close-Range | Artificial Non-Humanoid",
+          "links": [
+            {
+              "nome": "Close-Range",
+              "pagina": "/Stand_Types#Close-Range_Stands"
+            },
+            {
+              "nome": "Artificial Non-Humanoid",
+              "pagina": "/Stand_Types#Artificial_Non-Humanoid_Stands"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Chapter 65",
+          "links": [
+            {
+              "nome": "SBR Chapter 65",
+              "pagina": "/SBR_Chapter_65"
+            }
+          ]
+        },
+        "namedebut": {
+          "texto": "SBR Chapter 65",
+          "links": [
+            {
+              "nome": "SBR Chapter 65",
+              "pagina": "/SBR_Chapter_65"
+            }
+          ]
+        },
+        "stats": {
+          "texto": "Destructive | PowerStrength and ability to cause destruction (physical injury or collateral environmental damage) in a given period of time∅NullSpeedAgility and reflexes as well as performance speedCRangeRange of manifestation, range of ability influence, and spatial mobilityCStaminaLiterally \"Staying Power.\" Measures the duration of time that the Stand can be kept active and maintain its abilityBPrecisionAccuracy and range of influence/effect of their abilities to specified targetsAPotentialMeasures the Stand's possible functions, utilization of its abilities and powers, and capacity to improve its overall capabilitiesDABCDEA: Very GoodB: GoodC: AverageD: PoorE: Very Poor",
+          "links": []
+        },
+        "destpower": {
+          "texto": "Null",
+          "links": []
+        },
+        "speed": {
+          "texto": "C",
+          "links": []
+        },
+        "range": {
+          "texto": "C",
+          "links": []
+        },
+        "stamina": {
+          "texto": "B",
+          "links": []
+        },
+        "precision": {
+          "texto": "A",
+          "links": []
+        },
+        "potential": {
+          "texto": "D",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [
+          "Null"
+        ],
+        "speed": [
+          "C"
+        ],
+        "range": [
+          "C"
+        ],
+        "stamina": [
+          "B"
+        ],
+        "precision": [
+          "A"
+        ],
+        "potential": [
+          "D"
+        ]
+      },
+      "secoes": {
+        "Appearance": [
+          "Chocolate Disco is a forearm guard resembling a vambrace. It has a grid pattern of 26 lettered rows and 10 numbered columns serving as coordinates, similarly to the board game Battleship. Each cell can be pressed.",
+          "Color Schemes"
+        ],
+        "Abilities": [
+          "Chocolate Disco functions as a tool that grants D-I-S-C-O great control over flying objects in a large zone. As a result, Gyro Zeppeli and his Steel Balls are at a disadvantage against him.",
+          "However, its tool-like nature and lack of any way to directly harm someone means that D-I-S-C-O is powerless at close range and relies on using miscellaneous objects he keeps on him to attack.",
+          "Repositioning",
+          "When D-I-S-C-O activates Chocolate Disco, a grid with the rows labeled as letters and columns labeled as numbers appear from his feet, covering about twenty feet in front of him.",
+          "By pressing one or several buttons on the arm guard, any flying projectile or object can be instantly transported to the corresponding area(s) (e.g. by pressing F5 on the arm guard, an object is teleported onto the F5 space), falling down.",
+          "D-I-S-C-O typically makes various harmful objects like nails or acid fall down on his target and also defends himself from projectiles by teleporting them away from him and into the assailant.",
+          "The weakness of this ability is that D-I-S-C-O must correctly assert in which coordinates he wants to teleport the flying objects to attack. If he misses, he becomes defenseless at close range."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/Chocolate_Disco/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/Chocolate_Disco/Chocolate_Disco_Infobox_Manga.png"
+        ]
+      }
+    },
+    {
+      "nome": "THE WORLD",
+      "nomeWiki": "THE WORLD",
+      "pagina": "/The_World_(Steel_Ball_Run)",
+      "parte": 7,
+      "usuarios": [
+        {
+          "nome": "Diego Brando (Alternate)",
+          "pagina": "/Parallel_World_Diego"
+        }
+      ],
+      "resumo": "THE WORLD (THE(ザ) WORLD(ワールド), Za Wārudo) é o Stand do Diego Brando de um Mundo Paralelo, na sétima parte de JoJo's Bizarre Adventure, Steel Ball Run.",
+      "infobox": {
+        "image": {
+          "texto": "",
+          "links": []
+        },
+        "ja_kanji": {
+          "texto": "THE(ザ) WORLD(ワールド)",
+          "links": []
+        },
+        "user": {
+          "texto": "Diego Brando (Mundo Paralelo)",
+          "links": [
+            {
+              "nome": "Diego Brando (Mundo Paralelo)",
+              "pagina": "/Diego_Brando_(Mundo_Paralelo)"
+            }
+          ]
+        },
+        "namesake": {
+          "texto": "The World (Stand da Parte 3) | The World (carta de tarô)",
+          "links": [
+            {
+              "nome": "The World",
+              "pagina": "/The_World/pt-br"
+            },
+            {
+              "nome": "Parte 3",
+              "pagina": "/Stardust_Crusaders/pt-br"
+            },
+            {
+              "nome": "The World",
+              "pagina": "/The_World_(card)"
+            }
+          ]
+        },
+        "type": {
+          "texto": "Curto Alcance | Alcance Irrelevante | Humanoide Natural",
+          "links": [
+            {
+              "nome": "Curto Alcance",
+              "pagina": "/Stand_Types/pt-br#Stands_de_Curto_Alcance"
+            },
+            {
+              "nome": "Alcance Irrelevante",
+              "pagina": "/Stand_Types/pt-br#Stands_com_Alcance_Irrelevante"
+            },
+            {
+              "nome": "Humanoide Natural",
+              "pagina": "/Stand_Types/pt-br#Stands_Humanoides_Naturais"
+            }
+          ]
+        },
+        "mangadebut": {
+          "texto": "SBR Capítulo 90",
+          "links": [
+            {
+              "nome": "SBR Capítulo 90",
+              "pagina": "/SBR_Chapter_90"
+            }
+          ]
+        },
+        "gamedebut": {
+          "texto": "JoJo's Bizarre Adventure: Eyes of Heaven",
+          "links": [
+            {
+              "nome": "JoJo's Bizarre Adventure: Eyes of Heaven",
+              "pagina": "/JoJo%27s_Bizarre_Adventure:_Eyes_of_Heaven"
+            }
+          ]
+        },
+        "cry": {
+          "texto": "MUDAMUDAMUDA ... ! |",
+          "links": []
+        }
+      },
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {
+        "Appearance": [
+          "THE WORLD é um Stand humanoide com um porte parecido com o de Diego. Seu design é baseado em sua contraparte alternativa, particularmente a versão mais nova vista em JOJO A-GO!GO!. Ele veste um capacete cobrindo seu rosto até o lugar de seu nariz, inclinado em um ângulo íngreme da base de sua testa até um pico situado acima da parte traseira de sua cabeça por metade de sua altura, deixando a face de um triângulo visível na frente, um tanto similar a Coroa Vermelha do Baixo Egito.",
+          "Em suas costas há dois tanques de ar, conectados por dois curtos cabos na parte dianteira de sua máscara; e alças grossas atravessando a parte traseira de sua cintura sobre ambos ombros até a frente. A parte de trás de suas duas mãos possuem o formato de um relógio simples com emblemas parecidos em seus ombros e quadris. A região de seu queixo e cinto são decorados com corações, enquanto em seus joelhos ele veste joelheiras com um \"D\".",
+          "Esquemas de Cores"
+        ],
+        "Abilities": [
+          "Inerente a maioria dos Stands de curto-alcance, o THE WORLD demonstra uma força de ataque acima da média, desferindo golpes poderosos o suficiente para atravessar seus próprios membros e presumidamente eliminar inimigos com um só soco. O seu alcance de manifestação é de pelo menos alguns metros, já que ele é separado de Diego em certo ponto para realizar um ataque de pinça.",
+          "Congelamento do Tempo",
+          "Como descrito por Diego, THE WORLD possui a habilidade de parar o tempo, permitindo com que somente ele e seu usuário possam agir durante o tempo parado.",
+          "A duração máxima da habilidade é aproximadamente 5 segundos. Durante esse período, objetos que foram lançados pelo THE WORLD ou seu usuário irão eventualmente parar no ar e assim que o tempo for retomado, continuarão viajando na velocidade em que eles foram lançados.",
+          "Diego prefere usar seu poder para montar armadilhas contra Johnny em vez de matá-lo diretamente, embora isso possa ser por causa do perigo de se aproximar do Tusk ACT4."
+        ]
+      },
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/The_World__Steel_Ball_Run_/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": [
+          "assets/stands/The_World__Steel_Ball_Run_/THE_WORLD_Infobox_Manga.PNG"
+        ]
+      }
+    },
+    {
+      "nome": "Emerald Searcher's Stand",
+      "nomeWiki": "List of Unnamed Stands",
+      "pagina": "/List_of_Unnamed_Stands#Emerald_Searcher's_Stand",
+      "parte": 7,
+      "usuarios": [],
+      "resumo": "There are some cases in which the name of a Stand power is either unclear or unknown. This page is to list all such Stands until a name for them has officially been confirmed.",
+      "infobox": {},
+      "stats": {
+        "destpower": [],
+        "speed": [],
+        "range": [],
+        "stamina": [],
+        "precision": [],
+        "potential": []
+      },
+      "secoes": {},
+      "tecnicas": [],
+      "imagens": {
+        "avatarAnime": "assets/stands/List_of_Unnamed_Stands_Emerald_Searcher_s_Stand/avatar-anime-parte7.png",
+        "avatarManga": null,
+        "infobox": []
+      }
+    }
+  ],
+  "falhas": []
+}

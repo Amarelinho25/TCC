@@ -1,36 +1,83 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import {House} from "lucide-react";
 import {Link} from "react-router-dom"
+import ModalStand from "../components/compoModalStand";
 
+// Partes que têm Stands na wiki (as partes 1 e 2 não têm)
+const partes = [
+  { n: 3, nome: "Stardust Crusaders" },
+  { n: 4, nome: "Diamond is Unbreakable" },
+  { n: 5, nome: "Golden Wind" },
+  { n: 6, nome: "Stone Ocean" },
+  { n: 7, nome: "Steel Ball Run" },
+  { n: 8, nome: "JoJolion" },
+  { n: 9, nome: "The JOJOLands" },
+];
 
-const Stands = [
-{
-  id: '1',
-  titulo: "Star Platinum",
-  capa: "https://i.pinimg.com/736x/fb/b6/0e/fbb60e8d2f616ba976605ac152d3d987.jpg",
-  poderes: "Super força, velocidade e precisão, além de habilidades de parar o tempo em algumas versões.",
+// Remove o primeiro parêntese que contém japonês: "Nome (スタープラチナ, Sutā) é..." -> "Nome é..."
+const limparResumo = (texto) =>
+  texto ? texto.replace(/\s*\([^)]*[\u3040-\u30ff\u4e00-\u9fff][^)]*\)/, "") : "";
 
-},
-{
-  id: '2',
-  titulo: "The World",
-  capa: "https://i.pinimg.com/1200x/49/27/84/492784c955776c2b4ceaa0087f2aa673.jpg",
-  poderes: "Habilidade de parar o tempo por alguns segundos, além de força e velocidade sobre-humanas.",
-},
-{
-  id: '3',
-  titulo: "Crazy Diamond",
-  capa: "https://i.pinimg.com/1200x/e7/ec/ce/e7eccee9e4f239480f75defdf897d829.jpg",
-  poderes: "Capacidade de restaurar objetos e seres vivos ao seu estado original, além de força e velocidade aprimoradas.",
-},
-{ 
-    id: '4',
-    titulo: "Killer Queen",
-    capa: "https://i.pinimg.com/1200x/68/7e/b9/687eb9f7fbc8ecc2651d46c78417fae7.jpg",
-    poderes: "Habilidade de transformar qualquer objeto em uma bomba, além de força e velocidade aprimoradas.",
-} ]
+// Corta textos longos para caber no cartão
+const encurtar = (texto, max = 160) =>
+  !texto ? "" : texto.length > max ? texto.slice(0, max) + "..." : texto;
 
 export default function PagStands() {
+    
+    const [parteAtiva, setParteAtiva] = useState(3);
+    const [lista, setLista] = useState([]);
+    const [carregando, setCarregando] = useState(true);
+    const [erro, setErro] = useState(null);
+    const [busca, setBusca] = useState("");
+    const [selecionado, setSelecionado] = useState(null);
+
+    useEffect(() => {
+        let ativo = true; // evita gravar dados de uma aba antiga se você trocar rápido
+        setCarregando(true);
+        setErro(null);
+        setLista([]);
+
+        fetch(`/data/stands-parte-${parteAtiva}.json`)
+            .then((resp) => {
+                if (!resp.ok) throw new Error(`Status ${resp.status}`);
+                return resp.json();
+            })
+            .then((dados) => {
+                if (ativo) setLista(dados.stands);
+            })
+            .catch((e) => {
+                if (ativo) setErro(e.message);
+            })
+            .finally(() => {
+                if (ativo) setCarregando(false);
+            });
+
+        return () => {
+            ativo = false;
+        };
+    }, [parteAtiva]);
+
+    // Busca pelo nome do Stand ou do usuário (digitar "jotaro" acha o Star Platinum)
+    const filtrada = lista.filter((s) => {
+        const termo = busca.toLowerCase();
+        return (
+            s.nome.toLowerCase().includes(termo) ||
+            s.usuarios.some((u) => u.nome.toLowerCase().includes(termo))
+        );
+    });
+
+    const [hamon, setHamon] = useState([]);
+
+    useEffect(() => {
+        fetch("/data/hamon.json")
+            .then((resp) => {
+                if (!resp.ok) throw new Error(`Status ${resp.status}`);
+                return resp.json();
+            })
+            .then((dados) => setHamon(dados.personagens))
+            .catch((e) => console.error("Erro ao carregar Hamon:", e.message));
+    }, []);
+
     return (
         <>
     <div className="relative bg-purple-900 p-4 text-white flex items-center justify-center">
@@ -62,49 +109,107 @@ export default function PagStands() {
         <p className="text-center">Abaixo está uma lista de alguns dos Stands mais notáveis da série:</p>
     </div>
     
-    <div className="h-96 overflow-y-auto m-4 p-4 bg-white rounded-lg shadow-lg">
-        <h1 className="text-lg font-bold mb-2">Aqui são alguns dos Stands mais notáveis:</h1>
-        <div className="grid grid-cols-2 gap-4">
-            {Stands.map((stand) => (
-                <div key={stand.id} className="bg-gray-100 p-4 rounded-lg shadow-md">
-                    <img src={stand.capa} alt={stand.titulo} className="w-full h-100 object-cover rounded-xl" />
-                    <h2 className="text-lg font-bold">{stand.titulo}</h2>
-                    <p>{stand.poderes}</p>
-                </div>
+        <div className="m-4 p-4 bg-white rounded-lg shadow-lg">
+        <div className="flex flex-wrap gap-2 mb-4">
+            {partes.map((p) => (
+                <button
+                    key={p.n}
+                    onClick={() => setParteAtiva(p.n)}
+                    className={
+                        p.n === parteAtiva
+                            ? "bg-purple-700 text-white px-4 py-2 rounded-t-lg font-bold"
+                            : "bg-gray-200 text-purple-700 px-4 py-2 rounded-t-lg"
+                    }
+                >
+                    Part {p.n}
+                </button>
             ))}
+        </div>
+
+        <h2 className="text-xl font-bold mb-4">
+            Parte {parteAtiva}: {partes.find((p) => p.n === parteAtiva)?.nome}
+        </h2>
+
+        <input
+            type="text"
+            value={busca}
+            onChange={(e) => setBusca(e.target.value)}
+            placeholder="Buscar Stand ou usuário..."
+            className="w-full md:w-80 mb-4 px-3 py-2 border border-purple-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+        />
+
+        {carregando && <p>Carregando Stands...</p>}
+        {erro && <p>Erro ao carregar: {erro}</p>}
+        {!carregando && !erro && lista.length > 0 && filtrada.length === 0 && (
+            <p>Nenhum Stand encontrado.</p>
+        )}
+
+        <div className="max-h-[70vh] overflow-y-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {filtrada.map((s) => {
+                    const avatar = s.imagens.avatarAnime ?? s.imagens.avatarManga;
+                    return (
+                        <div
+                            key={s.pagina}
+                            onClick={() => setSelecionado(s)}
+                            className="cursor-pointer bg-gray-100 p-4 rounded-lg shadow-md flex gap-4 transition duration-200 hover:-translate-y-1 hover:shadow-xl"
+                        >
+                            {avatar ? (
+                                <img
+                                    src={`/${avatar}`}
+                                    alt={s.nome}
+                                    loading="lazy"
+                                    className="w-24 h-24 shrink-0 object-cover rounded-xl"
+                                />
+                            ) : (
+                                <div className="w-24 h-24 shrink-0 bg-gray-300 rounded-xl" />
+                            )}
+
+                            <div>
+                                <h2 className="text-lg font-bold">{s.nome}</h2>
+                                <p className="text-xs text-purple-900 mb-1">
+                                    Usuário:{" "}
+                                    {s.usuarios.map((u) => u.nome).join(", ") || "Sem usuário definido"}
+                                </p>
+                                <p className="text-sm">{encurtar(limparResumo(s.resumo))}</p>
+                            </div>
+                        </div>
+                    );
+                })}
+            </div>
         </div>
     </div>
 
-    <div className="h-96 overflow-y-auto m-4 p-4 bg-white rounded-lg shadow-lg">
-        <h1 className="text-lg font-bold mb-2">Hamon</h1>
-         <p>Hamon é uma técnica de respiração que permite ao usuário canalizar energia vital para realizar feitos extraordinários, como curar ferimentos e combater vampiros. Embora não seja um Stand, Hamon desempenha um papel importante nas primeiras partes da série.</p>
-        <br/>
-         <p>Alguns usuários de Hamon incluem:</p>
-        <br/>
-         <ul className="list-disc list-inside">
-            <li className="mb-2 font-bold">Jonathan Joestar</li>
-              <img src="https://i.pinimg.com/1200x/34/21/23/342123eaa737cb792ce4ba32b3600156.jpg" alt="Jonathan Joestar" className="w-100 h-100 object-cover rounded-xl mb-2" />
-            <br/>
-            
-            <li className="mb-2 font-bold">Joseph Joestar</li>
-              <img src="https://i.pinimg.com/736x/51/c2/fa/51c2fa1b372c567c02ad0d7d3f998598.jpg" alt="Joseph Joestar" className="w-100 h-100 object-cover rounded-xl mb-2" />
-            <br/>
-            
-            <li className="mb-2 font-bold">Lisa Lisa</li>
-              <img src="https://i.pinimg.com/736x/da/9d/f7/da9df768162d2c32be3e961a0c1e14cf.jpg" alt="Lisa Lisa" className="w-100 h-100 object-cover rounded-xl mb-2" />
-            <br/>
-
-            <li className="mb-2 font-bold">Caesar Zeppeli</li>
-              <img src="https://i.pinimg.com/736x/1d/c9/25/1dc92594fa7924a3ed830f1a524eec79.jpg" alt="Caesar Zeppeli" className="w-100 h-100 object-cover rounded-xl mb-2" />
-            <br/>
-        </ul>
-        <br/>
-         <p>Hamon é uma habilidade que requer treinamento e disciplina, e é frequentemente usada para combater criaturas sobrenaturais na série.</p>
-          <br/>
-         <p>Embora Hamon seja menos proeminente nas partes posteriores da série, ele continua a ser uma habilidade respeitada e poderosa dentro do universo de JoJo's Bizarre Adventure.</p>
-    </div>
+    <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {hamon.map((p) => {
+                const avatar = p.avatarAnime ?? p.avatarManga;
+                return (
+                    <a
+                        key={p.pagina}
+                        href={`https://jojowiki.com${p.pagina}`}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="bg-gray-100 p-3 rounded-lg shadow-md text-center transition duration-200 hover:-translate-y-1 hover:shadow-xl"
+                    >
+                        {avatar ? (
+                            <img
+                                src={`/${avatar}`}
+                                alt={p.nome}
+                                loading="lazy"
+                                className="w-24 h-24 object-cover rounded-xl mx-auto mb-2"
+                            />
+                        ) : (
+                            <div className="w-24 h-24 bg-gray-300 rounded-xl mx-auto mb-2" />
+                        )}
+                        <p className="font-bold text-sm">{p.nome}</p>
+                    </a>
+                );
+            })}
+        </div>
     
-
+ {selecionado && (
+        <ModalStand stand={selecionado} onFechar={() => setSelecionado(null)} />
+    )}
     
         </>
     );
